@@ -11,7 +11,7 @@ from sklearn.metrics import (
 from model import F1PitStopPredictor
 
 # ── Config ────────────────────────────────────────────────────────────────────
-DATA_PATH   = "F1-pitstop-strategy/all_data.csv"
+DATA_PATH   = "all_data.csv"
 SEQ_LENGTH  = 10
 BATCH_SIZE  = 32
 EPOCHS      = 50
