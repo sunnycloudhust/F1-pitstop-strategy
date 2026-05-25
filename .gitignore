@@ -48,3 +48,6 @@ venv.bak/
 # ==============================
 .DS_Store
 Thumbs.db
+all_data.csv
+data_f1/
+.vscode/
