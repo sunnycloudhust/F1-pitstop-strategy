@@ -2,20 +2,22 @@ import numpy as np
 import pandas as pd
 import tensorflow as tf
 import joblib
+import matplotlib.pyplot as plt 
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import (
     confusion_matrix, precision_score, recall_score, f1_score,
     roc_auc_score, average_precision_score, balanced_accuracy_score,
 )
+from sklearn.utils.class_weight import compute_class_weight
 
 from model import F1PitStopPredictor
 
 # ── Config ────────────────────────────────────────────────────────────────────
 DATA_PATH   = "all_data.csv"
 SEQ_LENGTH  = 10
-BATCH_SIZE  = 32
+BATCH_SIZE  = 64  
 EPOCHS      = 50
-LR          = 5e-4
+LR          = 1e-3 
 RANDOM_SEED = 42
 
 tf.random.set_seed(RANDOM_SEED)
@@ -34,27 +36,23 @@ continuous_cols = [
 ]
 feature_cols = continuous_cols + [
     col for col in df_encoded.columns
-    if any(c + '_' in col for c in categorical_cols)   # only one-hot columns
+    if any(c + '_' in col for c in categorical_cols)
 ]
 
-# ── Train / test split (done ONCE) ───────────────────────────────────────────
+# ── Train / test split ────────────────────────────────────────────────────────
 if 2025 in df_encoded['Year'].values:
     test_year = 2025
 else:
     test_year = df_encoded['Year'].max()
-    print(f"[Warning] 2025 not found — using {test_year} as test year.")
 
 train_df = df_encoded[df_encoded['Year'] < test_year].copy()
 test_df  = df_encoded[df_encoded['Year'] == test_year].copy()
 
-# ── Scale continuous features (fit on train only to prevent data leakage) ────
+# ── Scale continuous features ─────────────────────────────────────────────────
 scaler = StandardScaler()
 train_df[continuous_cols] = scaler.fit_transform(train_df[continuous_cols])
 test_df[continuous_cols]  = scaler.transform(test_df[continuous_cols])
-
-# Save scaler so it can be reused for inference later
 joblib.dump(scaler, 'scaler.pkl')
-print("Scaler saved → scaler.pkl")
 
 # ── Sequence builder ──────────────────────────────────────────────────────────
 def create_driver_sequences(
@@ -63,7 +61,6 @@ def create_driver_sequences(
     target_column: str = 'HasPitStop',
     seq_length: int = SEQ_LENGTH,
 ):
-    """Sliding-window sequences grouped by (RaceID, DriverNumber)."""
     X, y = [], []
     for _, group in data.groupby(['RaceID', 'DriverNumber']):
         feat = group[feature_columns].values
@@ -75,16 +72,18 @@ def create_driver_sequences(
             y.append(targ[i + seq_length - 1])
     return np.array(X, dtype=np.float32), np.array(y, dtype=np.float32)
 
-
 X_train, y_train = create_driver_sequences(train_df, feature_cols)
 X_test,  y_test  = create_driver_sequences(test_df,  feature_cols)
 
-print(f"\nX_train: {X_train.shape}  |  X_test: {X_test.shape}")
-print(f"Pit-stop rate — train: {y_train.mean():.3%}  |  test: {y_test.mean():.3%}\n")
+
+classes = np.unique(y_train)
+class_weights = compute_class_weight(class_weight='balanced', classes=classes, y=y_train)
+class_weight_dict = dict(zip(classes, class_weights))
+
+print(f"Computed class weights: {class_weight_dict}")
 
 # ── Model ─────────────────────────────────────────────────────────────────────
 model = F1PitStopPredictor()
-
 model.compile(
     optimizer=tf.keras.optimizers.Adam(learning_rate=LR),
     loss='binary_crossentropy',
@@ -102,25 +101,36 @@ callbacks = [
     tf.keras.callbacks.ReduceLROnPlateau(
         monitor='val_loss', factor=0.5, patience=3, min_lr=1e-6,
     ),
-    # Save the best checkpoint (tracked by val AUC-PR, more meaningful than val_loss
-    # for imbalanced datasets)
     tf.keras.callbacks.ModelCheckpoint(
         'best_model.keras', monitor='val_auc_pr',
         save_best_only=True, mode='max', verbose=1,
     ),
 ]
 
-model.fit(
+history = model.fit(
     X_train, y_train,
     validation_data=(X_test, y_test),
     batch_size=BATCH_SIZE,
     epochs=EPOCHS,
-    class_weight={0: 1.0, 1: 3.0},
+    class_weight=class_weight_dict, 
     callbacks=callbacks,
 )
 
+# ── Vẽ biểu đồ Loss ────────────────────────────────────────────────────────────
+plt.figure(figsize=(10, 6))
+plt.plot(history.history['loss'], label='Train Loss', color='blue')
+plt.plot(history.history['val_loss'], label='Validation Loss', color='orange')
+plt.title('Model Loss Over Time')
+plt.ylabel('Loss (Binary Crossentropy)')
+plt.xlabel('Epoch')
+plt.legend()
+plt.grid(True)
+plt.savefig('loss_curve.png', bbox_inches='tight') 
+print("\nLoss plot saved to 'loss_curve.png'.")
+
 # ── Evaluation ────────────────────────────────────────────────────────────────
-y_pred_probs = model.predict(X_test).flatten()   # ensure shape (N,)
+y_pred_probs = model.predict(X_test).flatten()
+
 y_pred       = (y_pred_probs > 0.5).astype(int)
 
 tn, fp, fn, tp = confusion_matrix(y_test, y_pred).ravel()
