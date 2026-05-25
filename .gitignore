@@ -1,2 +1,50 @@
+# ==============================
+# Thư mục dữ liệu và tham khảo riêng của dự án
+# ==============================
 Data/
 Ref/
+
+# (Tùy chọn) Bỏ qua các file dữ liệu CSV lớn nếu không muốn đẩy lên Git
+# *.csv
+# data_f1/
+
+# ==============================
+# Python
+# ==============================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# ==============================
+# Môi trường ảo (Virtual Environments)
+# ==============================
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ==============================
+# Jupyter Notebook (nếu có sử dụng)
+# ==============================
+.ipynb_checkpoints
+
+# ==============================
+# Công cụ phát triển & IDEs
+# ==============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==============================
+# Hệ điều hành (OS)
+# ==============================
+.DS_Store
+Thumbs.db
