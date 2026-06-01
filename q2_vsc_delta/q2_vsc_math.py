@@ -30,4 +30,4 @@ def calculate_vsc_time_save(year, race_name):
         print(f"Lỗi: {e}")
 
 if __name__ == "__main__":
-    calculate_vsc_time_save(2021, 'Monza')
+    calculate_vsc_time_save(2023, 'Baku')

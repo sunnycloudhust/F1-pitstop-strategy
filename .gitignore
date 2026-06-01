@@ -51,4 +51,4 @@ Thumbs.db
 all_data.csv
 data_f1/
 .vscode/
-.cache
+cache/

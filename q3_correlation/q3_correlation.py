@@ -19,8 +19,6 @@ def analyze_correlation():
         
         # Lấy kỷ nguyên Turbo Hybrid (2014 trở đi)
         recent = pit_races[pit_races['year'] >= 2014].copy()
-        
-        # SỬA LỖI TẠI ĐÂY: Ép kiểu cột milliseconds sang dạng số, các chuỗi lỗi (như '\N') sẽ bị biến thành NaN
         recent['milliseconds'] = pd.to_numeric(recent['milliseconds'], errors='coerce')
         
         # Tính Median Pit Time (Pandas sẽ tự động bỏ qua NaN khi tính median)
@@ -53,9 +51,9 @@ def analyze_correlation():
         plt.grid(True, linestyle='--', alpha=0.7)
         
         # Lưu file ảnh
-        plt.savefig('Q3_Correlation_Plot.png', dpi=300, bbox_inches='tight')
-        print("Đã lưu biểu đồ thành file 'Q3_Correlation_Plot.png'")
-        plt.show() # Bỏ comment dòng này nếu muốn biểu đồ bật lên ngay khi chạy
+        plt.savefig('plots/Q3_Correlation_Plot.png', dpi=300, bbox_inches='tight')
+        print("Đã xuất biểu đồ báo cáo thành file: 'q3_correlation/Q3_Correlation_Plot.png'")
+        plt.show() 
         
         if p_spearman < 0.05:
             print("=> KẾT LUẬN H4.3: ĐÚNG. Có ý nghĩa thống kê.")

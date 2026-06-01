@@ -115,7 +115,7 @@ def analyze(target_year, race_keyword):
             plt.savefig(filename, dpi=300, bbox_inches='tight')
             plt.close() 
             
-            print(f"\n[INFO] Modern Donut chart saved successfully in folder: '{filename}'")
+            print(f"\n[INFO] Chart saved successfully in folder: '{filename}'")
             
         else:
             print("[INFO] No overtakes found in Top 10 for this race.")
@@ -126,6 +126,6 @@ def analyze(target_year, race_keyword):
         print(f"[ERROR] An unexpected error occurred: {e}")
 
 if __name__ == "__main__":    
-    analyze(2023, 'Bahrain')
+    analyze(2023, 'Monaco')
     analyze(2023, 'Monaco')
     analyze(2022, 'Italian')
