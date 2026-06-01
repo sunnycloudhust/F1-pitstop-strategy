@@ -1,6 +1,6 @@
 import os
 from src.ingestion.dataset_client import F1DatasetIngestor
-from src.processing.trace_synthesis import TraceSynthesizer
+from src.preprocessing.trace_synthesis import TraceSynthesizer
 from src.models.survival_model import TacticalSurvivalModel
 from src.models.monte_carlo_sim import CounterfactualSimulator
 
@@ -9,9 +9,8 @@ def main():
     os.makedirs('./data/processed', exist_ok=True)
     
     # 1. Nạp dữ liệu
-    ingestor = F1DatasetIngestor('./data/raw')
-    ingestor.load_tables(['Race', 'LapTime', 'PitStop', 'Result'])
-    
+    ingestor = F1DatasetIngestor('./data/f1_data')
+    ingestor.load_tables(['races', 'lap_times', 'pit_stops', 'results'])    
     # 2. Tiền xử lý & Tính toán Delta
     synthesizer = TraceSynthesizer(ingestor)
     features_df = synthesizer.build_features(target_year=2023, target_round=1)

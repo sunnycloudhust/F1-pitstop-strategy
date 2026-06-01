@@ -20,10 +20,10 @@ class TraceSynthesizer:
         self.logger.info(f"Tổng hợp tính năng: Năm {target_year}, Chặng {target_round}")
         
         # 1. Hợp nhất dữ liệu (Relational JOIN In-memory)
-        races = self.ingestor.get_table('Race')
-        laps = self.ingestor.get_table('LapTime').copy()
-        pits = self.ingestor.get_table('PitStop').copy()
-        results = self.ingestor.get_table('Result').copy()
+        races = self.ingestor.get_table('races')
+        laps = self.ingestor.get_table('lap_times').copy()
+        pits = self.ingestor.get_table('pit_stops').copy()
+        results = self.ingestor.get_table('results').copy()
 
         race_id = races[(races['year'] == target_year) & (races['round'] == target_round)]['raceId'].iloc[0]
         
@@ -44,7 +44,7 @@ class TraceSynthesizer:
             # Lọc bỏ các vòng out-lap/in-lap bất thường để không làm méo đồ thị
             valid_laps = driver_laps[driver_laps['time_seconds'] < driver_laps['time_seconds'].quantile(0.95)]
             if len(valid_laps) > 5:
-                smoothed = sm.nonparametric.lowess(valid_laps['time_seconds'], valid_laps['lap'], frac=0.1)
+                smoothed = sm.nonparametric.lowess.lowess(valid_laps['time_seconds'], valid_laps['lap'], frac=0.1)
                 df_merged.loc[valid_laps.index, 'smoothed_pace'] = smoothed[:, 1]
                 
         # 3. Tính toán Cumulative Delta (Delta tích lũy)
