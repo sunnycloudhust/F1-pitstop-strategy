@@ -1,0 +1,3422 @@
+RaceYear,RaceName,Driver,starting_compound,starting_lap_position,LapNumber
+2018,Abu Dhabi Grand Prix,ALO,ULTRASOFT,14.0,1
+2018,Abu Dhabi Grand Prix,BOT,ULTRASOFT,2.0,1
+2018,Abu Dhabi Grand Prix,ERI,SUPERSOFT,12.0,1
+2018,Abu Dhabi Grand Prix,GAS,SUPERSOFT,13.0,1
+2018,Abu Dhabi Grand Prix,GRO,HYPERSOFT,7.0,1
+2018,Abu Dhabi Grand Prix,HAM,ULTRASOFT,1.0,1
+2018,Abu Dhabi Grand Prix,HAR,ULTRASOFT,19.0,1
+2018,Abu Dhabi Grand Prix,HUL,HYPERSOFT,,1
+2018,Abu Dhabi Grand Prix,LEC,HYPERSOFT,5.0,1
+2018,Abu Dhabi Grand Prix,MAG,SUPERSOFT,16.0,1
+2018,Abu Dhabi Grand Prix,OCO,HYPERSOFT,8.0,1
+2018,Abu Dhabi Grand Prix,PER,ULTRASOFT,10.0,1
+2018,Abu Dhabi Grand Prix,RAI,ULTRASOFT,4.0,1
+2018,Abu Dhabi Grand Prix,RIC,ULTRASOFT,6.0,1
+2018,Abu Dhabi Grand Prix,SAI,ULTRASOFT,11.0,1
+2018,Abu Dhabi Grand Prix,SIR,SUPERSOFT,18.0,1
+2018,Abu Dhabi Grand Prix,STR,SUPERSOFT,15.0,1
+2018,Abu Dhabi Grand Prix,VAN,SUPERSOFT,17.0,1
+2018,Abu Dhabi Grand Prix,VER,HYPERSOFT,9.0,1
+2018,Abu Dhabi Grand Prix,VET,ULTRASOFT,3.0,1
+2018,Australian Grand Prix,ALO,UNKNOWN,10.0,1
+2018,Australian Grand Prix,BOT,UNKNOWN,15.0,1
+2018,Australian Grand Prix,ERI,UNKNOWN,16.0,1
+2018,Australian Grand Prix,GAS,UNKNOWN,17.0,1
+2018,Australian Grand Prix,GRO,UNKNOWN,6.0,1
+2018,Australian Grand Prix,HAM,UNKNOWN,1.0,1
+2018,Australian Grand Prix,HAR,SUPERSOFT,20.0,1
+2018,Australian Grand Prix,HUL,UNKNOWN,7.0,1
+2018,Australian Grand Prix,LEC,UNKNOWN,18.0,1
+2018,Australian Grand Prix,MAG,UNKNOWN,4.0,1
+2018,Australian Grand Prix,OCO,UNKNOWN,13.0,1
+2018,Australian Grand Prix,PER,UNKNOWN,12.0,1
+2018,Australian Grand Prix,RAI,UNKNOWN,2.0,1
+2018,Australian Grand Prix,RIC,UNKNOWN,8.0,1
+2018,Australian Grand Prix,SAI,UNKNOWN,9.0,1
+2018,Australian Grand Prix,SIR,UNKNOWN,19.0,1
+2018,Australian Grand Prix,STR,UNKNOWN,14.0,1
+2018,Australian Grand Prix,VAN,UNKNOWN,11.0,1
+2018,Australian Grand Prix,VER,UNKNOWN,5.0,1
+2018,Australian Grand Prix,VET,UNKNOWN,3.0,1
+2018,Austrian Grand Prix,ALO,UNKNOWN,19.0,1
+2018,Austrian Grand Prix,BOT,UNKNOWN,2.0,1
+2018,Austrian Grand Prix,ERI,UNKNOWN,16.0,1
+2018,Austrian Grand Prix,GAS,UNKNOWN,15.0,1
+2018,Austrian Grand Prix,GRO,UNKNOWN,6.0,1
+2018,Austrian Grand Prix,HAM,UNKNOWN,1.0,1
+2018,Austrian Grand Prix,HAR,UNKNOWN,18.0,1
+2018,Austrian Grand Prix,HUL,UNKNOWN,9.0,1
+2018,Austrian Grand Prix,LEC,UNKNOWN,14.0,1
+2018,Austrian Grand Prix,MAG,UNKNOWN,7.0,1
+2018,Austrian Grand Prix,OCO,UNKNOWN,10.0,1
+2018,Austrian Grand Prix,PER,UNKNOWN,13.0,1
+2018,Austrian Grand Prix,RAI,UNKNOWN,4.0,1
+2018,Austrian Grand Prix,RIC,UNKNOWN,5.0,1
+2018,Austrian Grand Prix,SAI,UNKNOWN,12.0,1
+2018,Austrian Grand Prix,SIR,UNKNOWN,17.0,1
+2018,Austrian Grand Prix,STR,UNKNOWN,11.0,1
+2018,Austrian Grand Prix,VAN,SUPERSOFT,20.0,1
+2018,Austrian Grand Prix,VER,UNKNOWN,3.0,1
+2018,Austrian Grand Prix,VET,UNKNOWN,8.0,1
+2018,Azerbaijan Grand Prix,ALO,SUPERSOFT,16.0,1
+2018,Azerbaijan Grand Prix,BOT,UNKNOWN,3.0,1
+2018,Azerbaijan Grand Prix,ERI,SUPERSOFT,18.0,1
+2018,Azerbaijan Grand Prix,GAS,UNKNOWN,11.0,1
+2018,Azerbaijan Grand Prix,GRO,UNKNOWN,14.0,1
+2018,Azerbaijan Grand Prix,HAM,UNKNOWN,2.0,1
+2018,Azerbaijan Grand Prix,HAR,SOFT,15.0,1
+2018,Azerbaijan Grand Prix,HUL,UNKNOWN,10.0,1
+2018,Azerbaijan Grand Prix,LEC,UNKNOWN,12.0,1
+2018,Azerbaijan Grand Prix,MAG,SUPERSOFT,17.0,1
+2018,Azerbaijan Grand Prix,OCO,ULTRASOFT,,1
+2018,Azerbaijan Grand Prix,PER,UNKNOWN,9.0,1
+2018,Azerbaijan Grand Prix,RAI,ULTRASOFT,6.0,1
+2018,Azerbaijan Grand Prix,RIC,UNKNOWN,4.0,1
+2018,Azerbaijan Grand Prix,SAI,UNKNOWN,7.0,1
+2018,Azerbaijan Grand Prix,SIR,SUPERSOFT,,1
+2018,Azerbaijan Grand Prix,STR,UNKNOWN,8.0,1
+2018,Azerbaijan Grand Prix,VAN,UNKNOWN,13.0,1
+2018,Azerbaijan Grand Prix,VER,UNKNOWN,5.0,1
+2018,Azerbaijan Grand Prix,VET,UNKNOWN,1.0,1
+2018,Bahrain Grand Prix,ALO,UNKNOWN,9.0,1
+2018,Bahrain Grand Prix,BOT,UNKNOWN,2.0,1
+2018,Bahrain Grand Prix,ERI,UNKNOWN,14.0,1
+2018,Bahrain Grand Prix,GAS,UNKNOWN,5.0,1
+2018,Bahrain Grand Prix,GRO,UNKNOWN,16.0,1
+2018,Bahrain Grand Prix,HAM,UNKNOWN,10.0,1
+2018,Bahrain Grand Prix,HAR,UNKNOWN,12.0,1
+2018,Bahrain Grand Prix,HUL,UNKNOWN,8.0,1
+2018,Bahrain Grand Prix,LEC,UNKNOWN,17.0,1
+2018,Bahrain Grand Prix,MAG,UNKNOWN,6.0,1
+2018,Bahrain Grand Prix,OCO,UNKNOWN,7.0,1
+2018,Bahrain Grand Prix,PER,UNKNOWN,20.0,1
+2018,Bahrain Grand Prix,RAI,UNKNOWN,3.0,1
+2018,Bahrain Grand Prix,RIC,UNKNOWN,4.0,1
+2018,Bahrain Grand Prix,SAI,UNKNOWN,13.0,1
+2018,Bahrain Grand Prix,SIR,UNKNOWN,19.0,1
+2018,Bahrain Grand Prix,STR,UNKNOWN,15.0,1
+2018,Bahrain Grand Prix,VAN,UNKNOWN,18.0,1
+2018,Bahrain Grand Prix,VER,UNKNOWN,11.0,1
+2018,Bahrain Grand Prix,VET,UNKNOWN,1.0,1
+2018,Belgian Grand Prix,ALO,SOFT,,1
+2018,Belgian Grand Prix,BOT,SOFT,15.0,1
+2018,Belgian Grand Prix,ERI,SOFT,9.0,1
+2018,Belgian Grand Prix,GAS,SUPERSOFT,8.0,1
+2018,Belgian Grand Prix,GRO,SUPERSOFT,6.0,1
+2018,Belgian Grand Prix,HAM,SUPERSOFT,2.0,1
+2018,Belgian Grand Prix,HAR,SOFT,13.0,1
+2018,Belgian Grand Prix,HUL,SOFT,,1
+2018,Belgian Grand Prix,LEC,SOFT,,1
+2018,Belgian Grand Prix,MAG,SUPERSOFT,7.0,1
+2018,Belgian Grand Prix,OCO,SUPERSOFT,4.0,1
+2018,Belgian Grand Prix,PER,SUPERSOFT,3.0,1
+2018,Belgian Grand Prix,RAI,SUPERSOFT,17.0,1
+2018,Belgian Grand Prix,RIC,SUPERSOFT,12.0,1
+2018,Belgian Grand Prix,SAI,MEDIUM,14.0,1
+2018,Belgian Grand Prix,SIR,SOFT,10.0,1
+2018,Belgian Grand Prix,STR,SOFT,11.0,1
+2018,Belgian Grand Prix,VAN,SOFT,16.0,1
+2018,Belgian Grand Prix,VER,UNKNOWN,5.0,1
+2018,Belgian Grand Prix,VET,SUPERSOFT,1.0,1
+2018,Brazilian Grand Prix,ALO,SOFT,15.0,1
+2018,Brazilian Grand Prix,BOT,SUPERSOFT,2.0,1
+2018,Brazilian Grand Prix,ERI,SUPERSOFT,9.0,1
+2018,Brazilian Grand Prix,GAS,SUPERSOFT,8.0,1
+2018,Brazilian Grand Prix,GRO,SUPERSOFT,7.0,1
+2018,Brazilian Grand Prix,HAM,SUPERSOFT,1.0,1
+2018,Brazilian Grand Prix,HAR,MEDIUM,16.0,1
+2018,Brazilian Grand Prix,HUL,SOFT,14.0,1
+2018,Brazilian Grand Prix,LEC,SUPERSOFT,6.0,1
+2018,Brazilian Grand Prix,MAG,SOFT,11.0,1
+2018,Brazilian Grand Prix,OCO,SOFT,19.0,1
+2018,Brazilian Grand Prix,PER,SUPERSOFT,12.0,1
+2018,Brazilian Grand Prix,RAI,SOFT,4.0,1
+2018,Brazilian Grand Prix,RIC,SUPERSOFT,10.0,1
+2018,Brazilian Grand Prix,SAI,SOFT,13.0,1
+2018,Brazilian Grand Prix,SIR,SOFT,17.0,1
+2018,Brazilian Grand Prix,STR,SOFT,18.0,1
+2018,Brazilian Grand Prix,VAN,SOFT,20.0,1
+2018,Brazilian Grand Prix,VER,SUPERSOFT,5.0,1
+2018,Brazilian Grand Prix,VET,SOFT,3.0,1
+2018,British Grand Prix,ALO,UNKNOWN,11.0,1
+2018,British Grand Prix,BOT,UNKNOWN,2.0,1
+2018,British Grand Prix,ERI,UNKNOWN,14.0,1
+2018,British Grand Prix,GAS,UNKNOWN,12.0,1
+2018,British Grand Prix,GRO,UNKNOWN,13.0,1
+2018,British Grand Prix,HAM,UNKNOWN,17.0,1
+2018,British Grand Prix,HAR,UNKNOWN,20.0,1
+2018,British Grand Prix,HUL,UNKNOWN,6.0,1
+2018,British Grand Prix,LEC,UNKNOWN,7.0,1
+2018,British Grand Prix,MAG,UNKNOWN,10.0,1
+2018,British Grand Prix,OCO,UNKNOWN,8.0,1
+2018,British Grand Prix,PER,UNKNOWN,19.0,1
+2018,British Grand Prix,RAI,UNKNOWN,4.0,1
+2018,British Grand Prix,RIC,UNKNOWN,5.0,1
+2018,British Grand Prix,SAI,UNKNOWN,9.0,1
+2018,British Grand Prix,SIR,UNKNOWN,16.0,1
+2018,British Grand Prix,STR,UNKNOWN,18.0,1
+2018,British Grand Prix,VAN,UNKNOWN,15.0,1
+2018,British Grand Prix,VER,UNKNOWN,3.0,1
+2018,British Grand Prix,VET,UNKNOWN,1.0,1
+2018,Canadian Grand Prix,ALO,UNKNOWN,14.0,1
+2018,Canadian Grand Prix,BOT,UNKNOWN,2.0,1
+2018,Canadian Grand Prix,ERI,ULTRASOFT,17.0,1
+2018,Canadian Grand Prix,GAS,UNKNOWN,15.0,1
+2018,Canadian Grand Prix,GRO,UNKNOWN,16.0,1
+2018,Canadian Grand Prix,HAM,UNKNOWN,4.0,1
+2018,Canadian Grand Prix,HAR,HYPERSOFT,,1
+2018,Canadian Grand Prix,HUL,UNKNOWN,8.0,1
+2018,Canadian Grand Prix,LEC,UNKNOWN,11.0,1
+2018,Canadian Grand Prix,MAG,UNKNOWN,12.0,1
+2018,Canadian Grand Prix,OCO,UNKNOWN,7.0,1
+2018,Canadian Grand Prix,PER,UNKNOWN,10.0,1
+2018,Canadian Grand Prix,RAI,UNKNOWN,6.0,1
+2018,Canadian Grand Prix,RIC,UNKNOWN,5.0,1
+2018,Canadian Grand Prix,SAI,UNKNOWN,9.0,1
+2018,Canadian Grand Prix,SIR,UNKNOWN,13.0,1
+2018,Canadian Grand Prix,STR,ULTRASOFT,,1
+2018,Canadian Grand Prix,VAN,ULTRASOFT,18.0,1
+2018,Canadian Grand Prix,VER,UNKNOWN,3.0,1
+2018,Canadian Grand Prix,VET,UNKNOWN,1.0,1
+2018,Chinese Grand Prix,ALO,UNKNOWN,11.0,1
+2018,Chinese Grand Prix,BOT,UNKNOWN,2.0,1
+2018,Chinese Grand Prix,ERI,UNKNOWN,20.0,1
+2018,Chinese Grand Prix,GAS,UNKNOWN,19.0,1
+2018,Chinese Grand Prix,GRO,UNKNOWN,9.0,1
+2018,Chinese Grand Prix,HAM,UNKNOWN,5.0,1
+2018,Chinese Grand Prix,HAR,UNKNOWN,17.0,1
+2018,Chinese Grand Prix,HUL,UNKNOWN,7.0,1
+2018,Chinese Grand Prix,LEC,UNKNOWN,18.0,1
+2018,Chinese Grand Prix,MAG,UNKNOWN,10.0,1
+2018,Chinese Grand Prix,OCO,UNKNOWN,13.0,1
+2018,Chinese Grand Prix,PER,UNKNOWN,14.0,1
+2018,Chinese Grand Prix,RAI,UNKNOWN,4.0,1
+2018,Chinese Grand Prix,RIC,UNKNOWN,6.0,1
+2018,Chinese Grand Prix,SAI,UNKNOWN,8.0,1
+2018,Chinese Grand Prix,SIR,UNKNOWN,15.0,1
+2018,Chinese Grand Prix,STR,UNKNOWN,12.0,1
+2018,Chinese Grand Prix,VAN,UNKNOWN,16.0,1
+2018,Chinese Grand Prix,VER,UNKNOWN,3.0,1
+2018,Chinese Grand Prix,VET,UNKNOWN,1.0,1
+2018,French Grand Prix,ALO,SUPERSOFT,16.0,1
+2018,French Grand Prix,BOT,SUPERSOFT,18.0,1
+2018,French Grand Prix,ERI,UNKNOWN,11.0,1
+2018,French Grand Prix,GAS,SUPERSOFT,,1
+2018,French Grand Prix,GRO,UNKNOWN,8.0,1
+2018,French Grand Prix,HAM,UNKNOWN,1.0,1
+2018,French Grand Prix,HAR,UNKNOWN,13.0,1
+2018,French Grand Prix,HUL,UNKNOWN,10.0,1
+2018,French Grand Prix,LEC,UNKNOWN,6.0,1
+2018,French Grand Prix,MAG,UNKNOWN,5.0,1
+2018,French Grand Prix,OCO,ULTRASOFT,,1
+2018,French Grand Prix,PER,UNKNOWN,9.0,1
+2018,French Grand Prix,RAI,UNKNOWN,7.0,1
+2018,French Grand Prix,RIC,UNKNOWN,4.0,1
+2018,French Grand Prix,SAI,UNKNOWN,3.0,1
+2018,French Grand Prix,SIR,ULTRASOFT,15.0,1
+2018,French Grand Prix,STR,ULTRASOFT,14.0,1
+2018,French Grand Prix,VAN,UNKNOWN,12.0,1
+2018,French Grand Prix,VER,UNKNOWN,2.0,1
+2018,French Grand Prix,VET,ULTRASOFT,17.0,1
+2018,German Grand Prix,ALO,UNKNOWN,11.0,1
+2018,German Grand Prix,BOT,UNKNOWN,2.0,1
+2018,German Grand Prix,ERI,UNKNOWN,15.0,1
+2018,German Grand Prix,GAS,UNKNOWN,18.0,1
+2018,German Grand Prix,GRO,UNKNOWN,7.0,1
+2018,German Grand Prix,HAM,UNKNOWN,13.0,1
+2018,German Grand Prix,HAR,UNKNOWN,17.0,1
+2018,German Grand Prix,HUL,UNKNOWN,6.0,1
+2018,German Grand Prix,LEC,UNKNOWN,10.0,1
+2018,German Grand Prix,MAG,UNKNOWN,5.0,1
+2018,German Grand Prix,OCO,UNKNOWN,12.0,1
+2018,German Grand Prix,PER,UNKNOWN,8.0,1
+2018,German Grand Prix,RAI,UNKNOWN,3.0,1
+2018,German Grand Prix,RIC,UNKNOWN,19.0,1
+2018,German Grand Prix,SAI,UNKNOWN,9.0,1
+2018,German Grand Prix,SIR,UNKNOWN,14.0,1
+2018,German Grand Prix,STR,UNKNOWN,16.0,1
+2018,German Grand Prix,VAN,UNKNOWN,20.0,1
+2018,German Grand Prix,VER,UNKNOWN,4.0,1
+2018,German Grand Prix,VET,UNKNOWN,1.0,1
+2018,Hungarian Grand Prix,ALO,UNKNOWN,11.0,1
+2018,Hungarian Grand Prix,BOT,UNKNOWN,2.0,1
+2018,Hungarian Grand Prix,ERI,UNKNOWN,18.0,1
+2018,Hungarian Grand Prix,GAS,UNKNOWN,6.0,1
+2018,Hungarian Grand Prix,GRO,UNKNOWN,12.0,1
+2018,Hungarian Grand Prix,HAM,UNKNOWN,1.0,1
+2018,Hungarian Grand Prix,HAR,UNKNOWN,9.0,1
+2018,Hungarian Grand Prix,HUL,UNKNOWN,10.0,1
+2018,Hungarian Grand Prix,LEC,SOFT,,1
+2018,Hungarian Grand Prix,MAG,UNKNOWN,7.0,1
+2018,Hungarian Grand Prix,OCO,UNKNOWN,14.0,1
+2018,Hungarian Grand Prix,PER,UNKNOWN,15.0,1
+2018,Hungarian Grand Prix,RAI,UNKNOWN,4.0,1
+2018,Hungarian Grand Prix,RIC,UNKNOWN,16.0,1
+2018,Hungarian Grand Prix,SAI,UNKNOWN,8.0,1
+2018,Hungarian Grand Prix,SIR,UNKNOWN,17.0,1
+2018,Hungarian Grand Prix,STR,UNKNOWN,19.0,1
+2018,Hungarian Grand Prix,VAN,UNKNOWN,13.0,1
+2018,Hungarian Grand Prix,VER,UNKNOWN,5.0,1
+2018,Hungarian Grand Prix,VET,UNKNOWN,3.0,1
+2018,Japanese Grand Prix,ALO,UNKNOWN,15.0,1
+2018,Japanese Grand Prix,BOT,UNKNOWN,2.0,1
+2018,Japanese Grand Prix,ERI,UNKNOWN,20.0,1
+2018,Japanese Grand Prix,GAS,UNKNOWN,7.0,1
+2018,Japanese Grand Prix,GRO,UNKNOWN,6.0,1
+2018,Japanese Grand Prix,HAM,UNKNOWN,1.0,1
+2018,Japanese Grand Prix,HAR,UNKNOWN,10.0,1
+2018,Japanese Grand Prix,HUL,UNKNOWN,16.0,1
+2018,Japanese Grand Prix,LEC,UNKNOWN,13.0,1
+2018,Japanese Grand Prix,MAG,UNKNOWN,12.0,1
+2018,Japanese Grand Prix,OCO,UNKNOWN,9.0,1
+2018,Japanese Grand Prix,PER,UNKNOWN,8.0,1
+2018,Japanese Grand Prix,RAI,UNKNOWN,5.0,1
+2018,Japanese Grand Prix,RIC,UNKNOWN,14.0,1
+2018,Japanese Grand Prix,SAI,UNKNOWN,11.0,1
+2018,Japanese Grand Prix,SIR,UNKNOWN,18.0,1
+2018,Japanese Grand Prix,STR,UNKNOWN,17.0,1
+2018,Japanese Grand Prix,VAN,UNKNOWN,19.0,1
+2018,Japanese Grand Prix,VER,UNKNOWN,3.0,1
+2018,Japanese Grand Prix,VET,UNKNOWN,4.0,1
+2018,Mexican Grand Prix,ALO,ULTRASOFT,12.0,1
+2018,Mexican Grand Prix,BOT,ULTRASOFT,5.0,1
+2018,Mexican Grand Prix,ERI,HYPERSOFT,10.0,1
+2018,Mexican Grand Prix,GAS,HYPERSOFT,17.0,1
+2018,Mexican Grand Prix,GRO,SUPERSOFT,18.0,1
+2018,Mexican Grand Prix,HAM,ULTRASOFT,2.0,1
+2018,Mexican Grand Prix,HAR,SUPERSOFT,20.0,1
+2018,Mexican Grand Prix,HUL,HYPERSOFT,8.0,1
+2018,Mexican Grand Prix,LEC,HYPERSOFT,9.0,1
+2018,Mexican Grand Prix,MAG,SUPERSOFT,14.0,1
+2018,Mexican Grand Prix,OCO,SUPERSOFT,16.0,1
+2018,Mexican Grand Prix,PER,SUPERSOFT,11.0,1
+2018,Mexican Grand Prix,RAI,ULTRASOFT,7.0,1
+2018,Mexican Grand Prix,RIC,ULTRASOFT,3.0,1
+2018,Mexican Grand Prix,SAI,HYPERSOFT,6.0,1
+2018,Mexican Grand Prix,SIR,ULTRASOFT,15.0,1
+2018,Mexican Grand Prix,STR,ULTRASOFT,13.0,1
+2018,Mexican Grand Prix,VAN,ULTRASOFT,19.0,1
+2018,Mexican Grand Prix,VER,ULTRASOFT,1.0,1
+2018,Mexican Grand Prix,VET,ULTRASOFT,4.0,1
+2018,Monaco Grand Prix,ALO,UNKNOWN,7.0,1
+2018,Monaco Grand Prix,BOT,UNKNOWN,5.0,1
+2018,Monaco Grand Prix,ERI,UNKNOWN,17.0,1
+2018,Monaco Grand Prix,GAS,UNKNOWN,10.0,1
+2018,Monaco Grand Prix,GRO,UNKNOWN,20.0,1
+2018,Monaco Grand Prix,HAM,UNKNOWN,3.0,1
+2018,Monaco Grand Prix,HAR,UNKNOWN,15.0,1
+2018,Monaco Grand Prix,HUL,UNKNOWN,11.0,1
+2018,Monaco Grand Prix,LEC,UNKNOWN,14.0,1
+2018,Monaco Grand Prix,MAG,UNKNOWN,19.0,1
+2018,Monaco Grand Prix,OCO,UNKNOWN,6.0,1
+2018,Monaco Grand Prix,PER,UNKNOWN,9.0,1
+2018,Monaco Grand Prix,RAI,UNKNOWN,4.0,1
+2018,Monaco Grand Prix,RIC,UNKNOWN,1.0,1
+2018,Monaco Grand Prix,SAI,UNKNOWN,8.0,1
+2018,Monaco Grand Prix,SIR,UNKNOWN,12.0,1
+2018,Monaco Grand Prix,STR,UNKNOWN,16.0,1
+2018,Monaco Grand Prix,VAN,UNKNOWN,13.0,1
+2018,Monaco Grand Prix,VER,UNKNOWN,18.0,1
+2018,Monaco Grand Prix,VET,UNKNOWN,2.0,1
+2018,Russian Grand Prix,ALO,UNKNOWN,16.0,1
+2018,Russian Grand Prix,BOT,UNKNOWN,1.0,1
+2018,Russian Grand Prix,ERI,UNKNOWN,10.0,1
+2018,Russian Grand Prix,GAS,UNKNOWN,20.0,1
+2018,Russian Grand Prix,GRO,UNKNOWN,9.0,1
+2018,Russian Grand Prix,HAM,UNKNOWN,2.0,1
+2018,Russian Grand Prix,HAR,UNKNOWN,19.0,1
+2018,Russian Grand Prix,HUL,UNKNOWN,12.0,1
+2018,Russian Grand Prix,LEC,UNKNOWN,6.0,1
+2018,Russian Grand Prix,MAG,UNKNOWN,5.0,1
+2018,Russian Grand Prix,OCO,UNKNOWN,7.0,1
+2018,Russian Grand Prix,PER,UNKNOWN,8.0,1
+2018,Russian Grand Prix,RAI,UNKNOWN,4.0,1
+2018,Russian Grand Prix,RIC,UNKNOWN,18.0,1
+2018,Russian Grand Prix,SAI,UNKNOWN,11.0,1
+2018,Russian Grand Prix,SIR,UNKNOWN,15.0,1
+2018,Russian Grand Prix,STR,UNKNOWN,14.0,1
+2018,Russian Grand Prix,VAN,UNKNOWN,17.0,1
+2018,Russian Grand Prix,VER,UNKNOWN,13.0,1
+2018,Russian Grand Prix,VET,UNKNOWN,3.0,1
+2018,Singapore Grand Prix,ALO,UNKNOWN,9.0,1
+2018,Singapore Grand Prix,BOT,UNKNOWN,4.0,1
+2018,Singapore Grand Prix,ERI,UNKNOWN,14.0,1
+2018,Singapore Grand Prix,GAS,UNKNOWN,12.0,1
+2018,Singapore Grand Prix,GRO,UNKNOWN,8.0,1
+2018,Singapore Grand Prix,HAM,UNKNOWN,1.0,1
+2018,Singapore Grand Prix,HAR,UNKNOWN,16.0,1
+2018,Singapore Grand Prix,HUL,UNKNOWN,11.0,1
+2018,Singapore Grand Prix,LEC,UNKNOWN,13.0,1
+2018,Singapore Grand Prix,MAG,UNKNOWN,15.0,1
+2018,Singapore Grand Prix,OCO,HYPERSOFT,,1
+2018,Singapore Grand Prix,PER,UNKNOWN,7.0,1
+2018,Singapore Grand Prix,RAI,UNKNOWN,5.0,1
+2018,Singapore Grand Prix,RIC,UNKNOWN,6.0,1
+2018,Singapore Grand Prix,SAI,UNKNOWN,10.0,1
+2018,Singapore Grand Prix,SIR,UNKNOWN,17.0,1
+2018,Singapore Grand Prix,STR,UNKNOWN,19.0,1
+2018,Singapore Grand Prix,VAN,UNKNOWN,18.0,1
+2018,Singapore Grand Prix,VER,UNKNOWN,3.0,1
+2018,Singapore Grand Prix,VET,UNKNOWN,2.0,1
+2018,Spanish Grand Prix,ALO,UNKNOWN,11.0,1
+2018,Spanish Grand Prix,BOT,UNKNOWN,3.0,1
+2018,Spanish Grand Prix,ERI,UNKNOWN,16.0,1
+2018,Spanish Grand Prix,GAS,SOFT,,1
+2018,Spanish Grand Prix,GRO,SOFT,,1
+2018,Spanish Grand Prix,HAM,UNKNOWN,1.0,1
+2018,Spanish Grand Prix,HAR,UNKNOWN,15.0,1
+2018,Spanish Grand Prix,HUL,SOFT,,1
+2018,Spanish Grand Prix,LEC,UNKNOWN,9.0,1
+2018,Spanish Grand Prix,MAG,UNKNOWN,7.0,1
+2018,Spanish Grand Prix,OCO,UNKNOWN,10.0,1
+2018,Spanish Grand Prix,PER,UNKNOWN,13.0,1
+2018,Spanish Grand Prix,RAI,UNKNOWN,4.0,1
+2018,Spanish Grand Prix,RIC,UNKNOWN,6.0,1
+2018,Spanish Grand Prix,SAI,UNKNOWN,8.0,1
+2018,Spanish Grand Prix,SIR,UNKNOWN,17.0,1
+2018,Spanish Grand Prix,STR,UNKNOWN,12.0,1
+2018,Spanish Grand Prix,VAN,UNKNOWN,14.0,1
+2018,Spanish Grand Prix,VER,UNKNOWN,5.0,1
+2018,Spanish Grand Prix,VET,UNKNOWN,2.0,1
+2018,United States Grand Prix,ALO,SUPERSOFT,20.0,1
+2018,United States Grand Prix,BOT,SUPERSOFT,3.0,1
+2018,United States Grand Prix,ERI,SOFT,16.0,1
+2018,United States Grand Prix,GAS,SUPERSOFT,14.0,1
+2018,United States Grand Prix,GRO,ULTRASOFT,19.0,1
+2018,United States Grand Prix,HAM,SUPERSOFT,2.0,1
+2018,United States Grand Prix,HAR,SUPERSOFT,12.0,1
+2018,United States Grand Prix,HUL,ULTRASOFT,5.0,1
+2018,United States Grand Prix,LEC,ULTRASOFT,17.0,1
+2018,United States Grand Prix,MAG,SUPERSOFT,10.0,1
+2018,United States Grand Prix,OCO,ULTRASOFT,7.0,1
+2018,United States Grand Prix,PER,ULTRASOFT,8.0,1
+2018,United States Grand Prix,RAI,ULTRASOFT,1.0,1
+2018,United States Grand Prix,RIC,SUPERSOFT,4.0,1
+2018,United States Grand Prix,SAI,SUPERSOFT,6.0,1
+2018,United States Grand Prix,SIR,SUPERSOFT,11.0,1
+2018,United States Grand Prix,STR,SUPERSOFT,18.0,1
+2018,United States Grand Prix,VAN,SUPERSOFT,13.0,1
+2018,United States Grand Prix,VER,SOFT,9.0,1
+2018,United States Grand Prix,VET,SUPERSOFT,15.0,1
+2019,Abu Dhabi Grand Prix,ALB,MEDIUM,5.0,1
+2019,Abu Dhabi Grand Prix,BOT,MEDIUM,15.0,1
+2019,Abu Dhabi Grand Prix,GAS,MEDIUM,20.0,1
+2019,Abu Dhabi Grand Prix,GIO,SOFT,13.0,1
+2019,Abu Dhabi Grand Prix,GRO,MEDIUM,17.0,1
+2019,Abu Dhabi Grand Prix,HAM,MEDIUM,1.0,1
+2019,Abu Dhabi Grand Prix,HUL,SOFT,10.0,1
+2019,Abu Dhabi Grand Prix,KUB,HARD,18.0,1
+2019,Abu Dhabi Grand Prix,KVY,HARD,16.0,1
+2019,Abu Dhabi Grand Prix,LEC,MEDIUM,2.0,1
+2019,Abu Dhabi Grand Prix,MAG,MEDIUM,9.0,1
+2019,Abu Dhabi Grand Prix,NOR,SOFT,6.0,1
+2019,Abu Dhabi Grand Prix,PER,MEDIUM,11.0,1
+2019,Abu Dhabi Grand Prix,RAI,MEDIUM,14.0,1
+2019,Abu Dhabi Grand Prix,RIC,SOFT,8.0,1
+2019,Abu Dhabi Grand Prix,RUS,HARD,19.0,1
+2019,Abu Dhabi Grand Prix,SAI,SOFT,7.0,1
+2019,Abu Dhabi Grand Prix,STR,MEDIUM,12.0,1
+2019,Abu Dhabi Grand Prix,VER,MEDIUM,3.0,1
+2019,Abu Dhabi Grand Prix,VET,SOFT,4.0,1
+2019,Australian Grand Prix,ALB,SOFT,11.0,1
+2019,Australian Grand Prix,BOT,SOFT,1.0,1
+2019,Australian Grand Prix,GAS,MEDIUM,17.0,1
+2019,Australian Grand Prix,GIO,MEDIUM,16.0,1
+2019,Australian Grand Prix,GRO,SOFT,7.0,1
+2019,Australian Grand Prix,HAM,SOFT,2.0,1
+2019,Australian Grand Prix,HUL,SOFT,8.0,1
+2019,Australian Grand Prix,KUB,HARD,19.0,1
+2019,Australian Grand Prix,KVY,MEDIUM,15.0,1
+2019,Australian Grand Prix,LEC,SOFT,5.0,1
+2019,Australian Grand Prix,MAG,SOFT,6.0,1
+2019,Australian Grand Prix,NOR,SOFT,10.0,1
+2019,Australian Grand Prix,PER,SOFT,12.0,1
+2019,Australian Grand Prix,RAI,SOFT,9.0,1
+2019,Australian Grand Prix,RIC,SOFT,20.0,1
+2019,Australian Grand Prix,RUS,MEDIUM,18.0,1
+2019,Australian Grand Prix,SAI,SOFT,14.0,1
+2019,Australian Grand Prix,STR,MEDIUM,13.0,1
+2019,Australian Grand Prix,VER,SOFT,4.0,1
+2019,Australian Grand Prix,VET,SOFT,3.0,1
+2019,Austrian Grand Prix,ALB,MEDIUM,18.0,1
+2019,Austrian Grand Prix,BOT,MEDIUM,2.0,1
+2019,Austrian Grand Prix,GAS,SOFT,8.0,1
+2019,Austrian Grand Prix,GIO,SOFT,9.0,1
+2019,Austrian Grand Prix,GRO,MEDIUM,15.0,1
+2019,Austrian Grand Prix,HAM,MEDIUM,3.0,1
+2019,Austrian Grand Prix,HUL,MEDIUM,12.0,1
+2019,Austrian Grand Prix,KUB,MEDIUM,16.0,1
+2019,Austrian Grand Prix,KVY,MEDIUM,19.0,1
+2019,Austrian Grand Prix,LEC,SOFT,1.0,1
+2019,Austrian Grand Prix,MAG,SOFT,10.0,1
+2019,Austrian Grand Prix,NOR,SOFT,5.0,1
+2019,Austrian Grand Prix,PER,MEDIUM,11.0,1
+2019,Austrian Grand Prix,RAI,SOFT,4.0,1
+2019,Austrian Grand Prix,RIC,MEDIUM,14.0,1
+2019,Austrian Grand Prix,RUS,MEDIUM,20.0,1
+2019,Austrian Grand Prix,SAI,MEDIUM,17.0,1
+2019,Austrian Grand Prix,STR,MEDIUM,13.0,1
+2019,Austrian Grand Prix,VER,MEDIUM,7.0,1
+2019,Austrian Grand Prix,VET,SOFT,6.0,1
+2019,Azerbaijan Grand Prix,ALB,SOFT,12.0,1
+2019,Azerbaijan Grand Prix,BOT,SOFT,1.0,1
+2019,Azerbaijan Grand Prix,GAS,MEDIUM,19.0,1
+2019,Azerbaijan Grand Prix,GIO,SOFT,15.0,1
+2019,Azerbaijan Grand Prix,GRO,MEDIUM,16.0,1
+2019,Azerbaijan Grand Prix,HAM,SOFT,2.0,1
+2019,Azerbaijan Grand Prix,HUL,SOFT,14.0,1
+2019,Azerbaijan Grand Prix,KUB,MEDIUM,20.0,1
+2019,Azerbaijan Grand Prix,KVY,SOFT,7.0,1
+2019,Azerbaijan Grand Prix,LEC,MEDIUM,10.0,1
+2019,Azerbaijan Grand Prix,MAG,SOFT,13.0,1
+2019,Azerbaijan Grand Prix,NOR,SOFT,6.0,1
+2019,Azerbaijan Grand Prix,PER,SOFT,4.0,1
+2019,Azerbaijan Grand Prix,RAI,SOFT,17.0,1
+2019,Azerbaijan Grand Prix,RIC,SOFT,9.0,1
+2019,Azerbaijan Grand Prix,RUS,MEDIUM,18.0,1
+2019,Azerbaijan Grand Prix,SAI,SOFT,8.0,1
+2019,Azerbaijan Grand Prix,STR,SOFT,11.0,1
+2019,Azerbaijan Grand Prix,VER,SOFT,5.0,1
+2019,Azerbaijan Grand Prix,VET,SOFT,3.0,1
+2019,Bahrain Grand Prix,ALB,SOFT,13.0,1
+2019,Bahrain Grand Prix,BOT,SOFT,2.0,1
+2019,Bahrain Grand Prix,GAS,SOFT,12.0,1
+2019,Bahrain Grand Prix,GIO,SOFT,15.0,1
+2019,Bahrain Grand Prix,GRO,SOFT,20.0,1
+2019,Bahrain Grand Prix,HAM,SOFT,4.0,1
+2019,Bahrain Grand Prix,HUL,SOFT,11.0,1
+2019,Bahrain Grand Prix,KUB,MEDIUM,17.0,1
+2019,Bahrain Grand Prix,KVY,SOFT,16.0,1
+2019,Bahrain Grand Prix,LEC,SOFT,3.0,1
+2019,Bahrain Grand Prix,MAG,SOFT,7.0,1
+2019,Bahrain Grand Prix,NOR,SOFT,14.0,1
+2019,Bahrain Grand Prix,PER,SOFT,10.0,1
+2019,Bahrain Grand Prix,RAI,SOFT,8.0,1
+2019,Bahrain Grand Prix,RIC,SOFT,9.0,1
+2019,Bahrain Grand Prix,RUS,SOFT,18.0,1
+2019,Bahrain Grand Prix,SAI,SOFT,6.0,1
+2019,Bahrain Grand Prix,STR,SOFT,19.0,1
+2019,Bahrain Grand Prix,VER,SOFT,5.0,1
+2019,Bahrain Grand Prix,VET,SOFT,1.0,1
+2019,Belgian Grand Prix,ALB,MEDIUM,13.0,1
+2019,Belgian Grand Prix,BOT,SOFT,4.0,1
+2019,Belgian Grand Prix,GAS,SOFT,9.0,1
+2019,Belgian Grand Prix,GIO,MEDIUM,12.0,1
+2019,Belgian Grand Prix,GRO,SOFT,6.0,1
+2019,Belgian Grand Prix,HAM,SOFT,3.0,1
+2019,Belgian Grand Prix,HUL,SOFT,14.0,1
+2019,Belgian Grand Prix,KUB,MEDIUM,16.0,1
+2019,Belgian Grand Prix,KVY,MEDIUM,11.0,1
+2019,Belgian Grand Prix,LEC,SOFT,1.0,1
+2019,Belgian Grand Prix,MAG,SOFT,7.0,1
+2019,Belgian Grand Prix,NOR,SOFT,5.0,1
+2019,Belgian Grand Prix,PER,SOFT,8.0,1
+2019,Belgian Grand Prix,RAI,SOFT,18.0,1
+2019,Belgian Grand Prix,RIC,SOFT,17.0,1
+2019,Belgian Grand Prix,RUS,MEDIUM,15.0,1
+2019,Belgian Grand Prix,SAI,SOFT,19.0,1
+2019,Belgian Grand Prix,STR,SOFT,10.0,1
+2019,Belgian Grand Prix,VER,SOFT,,1
+2019,Belgian Grand Prix,VET,SOFT,2.0,1
+2019,Brazilian Grand Prix,ALB,SOFT,5.0,1
+2019,Brazilian Grand Prix,BOT,SOFT,4.0,1
+2019,Brazilian Grand Prix,GAS,SOFT,6.0,1
+2019,Brazilian Grand Prix,GIO,SOFT,10.0,1
+2019,Brazilian Grand Prix,GRO,SOFT,7.0,1
+2019,Brazilian Grand Prix,HAM,SOFT,2.0,1
+2019,Brazilian Grand Prix,HUL,MEDIUM,16.0,1
+2019,Brazilian Grand Prix,KUB,MEDIUM,19.0,1
+2019,Brazilian Grand Prix,KVY,MEDIUM,17.0,1
+2019,Brazilian Grand Prix,LEC,MEDIUM,11.0,1
+2019,Brazilian Grand Prix,MAG,SOFT,9.0,1
+2019,Brazilian Grand Prix,NOR,SOFT,12.0,1
+2019,Brazilian Grand Prix,PER,SOFT,15.0,1
+2019,Brazilian Grand Prix,RAI,SOFT,8.0,1
+2019,Brazilian Grand Prix,RIC,MEDIUM,13.0,1
+2019,Brazilian Grand Prix,RUS,MEDIUM,20.0,1
+2019,Brazilian Grand Prix,SAI,SOFT,18.0,1
+2019,Brazilian Grand Prix,STR,SOFT,14.0,1
+2019,Brazilian Grand Prix,VER,SOFT,1.0,1
+2019,Brazilian Grand Prix,VET,SOFT,3.0,1
+2019,British Grand Prix,ALB,SOFT,10.0,1
+2019,British Grand Prix,BOT,MEDIUM,1.0,1
+2019,British Grand Prix,GAS,MEDIUM,6.0,1
+2019,British Grand Prix,GIO,MEDIUM,13.0,1
+2019,British Grand Prix,GRO,SOFT,19.0,1
+2019,British Grand Prix,HAM,MEDIUM,2.0,1
+2019,British Grand Prix,HUL,SOFT,9.0,1
+2019,British Grand Prix,KUB,MEDIUM,18.0,1
+2019,British Grand Prix,KVY,SOFT,16.0,1
+2019,British Grand Prix,LEC,SOFT,3.0,1
+2019,British Grand Prix,MAG,SOFT,20.0,1
+2019,British Grand Prix,NOR,SOFT,7.0,1
+2019,British Grand Prix,PER,MEDIUM,14.0,1
+2019,British Grand Prix,RAI,MEDIUM,12.0,1
+2019,British Grand Prix,RIC,SOFT,8.0,1
+2019,British Grand Prix,RUS,MEDIUM,17.0,1
+2019,British Grand Prix,SAI,MEDIUM,11.0,1
+2019,British Grand Prix,STR,MEDIUM,15.0,1
+2019,British Grand Prix,VER,MEDIUM,4.0,1
+2019,British Grand Prix,VET,SOFT,5.0,1
+2019,Canadian Grand Prix,ALB,MEDIUM,20.0,1
+2019,Canadian Grand Prix,BOT,MEDIUM,7.0,1
+2019,Canadian Grand Prix,GAS,SOFT,5.0,1
+2019,Canadian Grand Prix,GIO,HARD,13.0,1
+2019,Canadian Grand Prix,GRO,MEDIUM,18.0,1
+2019,Canadian Grand Prix,HAM,MEDIUM,2.0,1
+2019,Canadian Grand Prix,HUL,SOFT,6.0,1
+2019,Canadian Grand Prix,KUB,MEDIUM,16.0,1
+2019,Canadian Grand Prix,KVY,MEDIUM,10.0,1
+2019,Canadian Grand Prix,LEC,MEDIUM,3.0,1
+2019,Canadian Grand Prix,MAG,HARD,19.0,1
+2019,Canadian Grand Prix,NOR,SOFT,8.0,1
+2019,Canadian Grand Prix,PER,MEDIUM,12.0,1
+2019,Canadian Grand Prix,RAI,MEDIUM,17.0,1
+2019,Canadian Grand Prix,RIC,SOFT,4.0,1
+2019,Canadian Grand Prix,RUS,MEDIUM,15.0,1
+2019,Canadian Grand Prix,SAI,SOFT,11.0,1
+2019,Canadian Grand Prix,STR,HARD,14.0,1
+2019,Canadian Grand Prix,VER,HARD,9.0,1
+2019,Canadian Grand Prix,VET,MEDIUM,1.0,1
+2019,Chinese Grand Prix,ALB,SOFT,18.0,1
+2019,Chinese Grand Prix,BOT,MEDIUM,2.0,1
+2019,Chinese Grand Prix,GAS,SOFT,6.0,1
+2019,Chinese Grand Prix,GIO,SOFT,14.0,1
+2019,Chinese Grand Prix,GRO,SOFT,10.0,1
+2019,Chinese Grand Prix,HAM,MEDIUM,1.0,1
+2019,Chinese Grand Prix,HUL,SOFT,9.0,1
+2019,Chinese Grand Prix,KUB,MEDIUM,16.0,1
+2019,Chinese Grand Prix,KVY,MEDIUM,17.0,1
+2019,Chinese Grand Prix,LEC,MEDIUM,3.0,1
+2019,Chinese Grand Prix,MAG,SOFT,11.0,1
+2019,Chinese Grand Prix,NOR,MEDIUM,20.0,1
+2019,Chinese Grand Prix,PER,MEDIUM,8.0,1
+2019,Chinese Grand Prix,RAI,MEDIUM,12.0,1
+2019,Chinese Grand Prix,RIC,SOFT,7.0,1
+2019,Chinese Grand Prix,RUS,MEDIUM,15.0,1
+2019,Chinese Grand Prix,SAI,MEDIUM,19.0,1
+2019,Chinese Grand Prix,STR,MEDIUM,13.0,1
+2019,Chinese Grand Prix,VER,MEDIUM,5.0,1
+2019,Chinese Grand Prix,VET,MEDIUM,4.0,1
+2019,French Grand Prix,ALB,MEDIUM,16.0,1
+2019,French Grand Prix,BOT,MEDIUM,2.0,1
+2019,French Grand Prix,GAS,SOFT,8.0,1
+2019,French Grand Prix,GIO,SOFT,9.0,1
+2019,French Grand Prix,GRO,HARD,18.0,1
+2019,French Grand Prix,HAM,MEDIUM,1.0,1
+2019,French Grand Prix,HUL,HARD,12.0,1
+2019,French Grand Prix,KUB,MEDIUM,17.0,1
+2019,French Grand Prix,KVY,HARD,20.0,1
+2019,French Grand Prix,LEC,MEDIUM,3.0,1
+2019,French Grand Prix,MAG,MEDIUM,14.0,1
+2019,French Grand Prix,NOR,MEDIUM,6.0,1
+2019,French Grand Prix,PER,MEDIUM,13.0,1
+2019,French Grand Prix,RAI,HARD,11.0,1
+2019,French Grand Prix,RIC,MEDIUM,10.0,1
+2019,French Grand Prix,RUS,MEDIUM,19.0,1
+2019,French Grand Prix,SAI,MEDIUM,5.0,1
+2019,French Grand Prix,STR,HARD,15.0,1
+2019,French Grand Prix,VER,MEDIUM,4.0,1
+2019,French Grand Prix,VET,MEDIUM,7.0,1
+2019,German Grand Prix,ALB,WET,16.0,1
+2019,German Grand Prix,BOT,WET,2.0,1
+2019,German Grand Prix,GAS,WET,8.0,1
+2019,German Grand Prix,GIO,WET,12.0,1
+2019,German Grand Prix,GRO,WET,7.0,1
+2019,German Grand Prix,HAM,WET,1.0,1
+2019,German Grand Prix,HUL,WET,5.0,1
+2019,German Grand Prix,KUB,WET,20.0,1
+2019,German Grand Prix,KVY,WET,17.0,1
+2019,German Grand Prix,LEC,WET,6.0,1
+2019,German Grand Prix,MAG,WET,10.0,1
+2019,German Grand Prix,NOR,WET,19.0,1
+2019,German Grand Prix,PER,WET,11.0,1
+2019,German Grand Prix,RAI,WET,3.0,1
+2019,German Grand Prix,RIC,WET,13.0,1
+2019,German Grand Prix,RUS,WET,18.0,1
+2019,German Grand Prix,SAI,WET,9.0,1
+2019,German Grand Prix,STR,WET,15.0,1
+2019,German Grand Prix,VER,WET,4.0,1
+2019,German Grand Prix,VET,WET,14.0,1
+2019,Hungarian Grand Prix,ALB,MEDIUM,13.0,1
+2019,Hungarian Grand Prix,BOT,MEDIUM,4.0,1
+2019,Hungarian Grand Prix,GAS,MEDIUM,9.0,1
+2019,Hungarian Grand Prix,GIO,MEDIUM,18.0,1
+2019,Hungarian Grand Prix,GRO,SOFT,10.0,1
+2019,Hungarian Grand Prix,HAM,MEDIUM,2.0,1
+2019,Hungarian Grand Prix,HUL,MEDIUM,11.0,1
+2019,Hungarian Grand Prix,KUB,MEDIUM,20.0,1
+2019,Hungarian Grand Prix,KVY,MEDIUM,15.0,1
+2019,Hungarian Grand Prix,LEC,MEDIUM,3.0,1
+2019,Hungarian Grand Prix,MAG,MEDIUM,16.0,1
+2019,Hungarian Grand Prix,NOR,SOFT,7.0,1
+2019,Hungarian Grand Prix,PER,MEDIUM,12.0,1
+2019,Hungarian Grand Prix,RAI,SOFT,8.0,1
+2019,Hungarian Grand Prix,RIC,HARD,19.0,1
+2019,Hungarian Grand Prix,RUS,MEDIUM,14.0,1
+2019,Hungarian Grand Prix,SAI,SOFT,6.0,1
+2019,Hungarian Grand Prix,STR,MEDIUM,17.0,1
+2019,Hungarian Grand Prix,VER,MEDIUM,1.0,1
+2019,Hungarian Grand Prix,VET,MEDIUM,5.0,1
+2019,Italian Grand Prix,ALB,SOFT,9.0,1
+2019,Italian Grand Prix,BOT,SOFT,3.0,1
+2019,Italian Grand Prix,GAS,MEDIUM,14.0,1
+2019,Italian Grand Prix,GIO,SOFT,10.0,1
+2019,Italian Grand Prix,GRO,SOFT,16.0,1
+2019,Italian Grand Prix,HAM,SOFT,2.0,1
+2019,Italian Grand Prix,HUL,SOFT,4.0,1
+2019,Italian Grand Prix,KUB,MEDIUM,13.0,1
+2019,Italian Grand Prix,KVY,MEDIUM,12.0,1
+2019,Italian Grand Prix,LEC,SOFT,1.0,1
+2019,Italian Grand Prix,MAG,SOFT,11.0,1
+2019,Italian Grand Prix,NOR,MEDIUM,18.0,1
+2019,Italian Grand Prix,PER,MEDIUM,17.0,1
+2019,Italian Grand Prix,RAI,MEDIUM,19.0,1
+2019,Italian Grand Prix,RIC,SOFT,6.0,1
+2019,Italian Grand Prix,RUS,MEDIUM,15.0,1
+2019,Italian Grand Prix,SAI,SOFT,8.0,1
+2019,Italian Grand Prix,STR,SOFT,7.0,1
+2019,Italian Grand Prix,VER,MEDIUM,20.0,1
+2019,Italian Grand Prix,VET,SOFT,5.0,1
+2019,Japanese Grand Prix,ALB,SOFT,7.0,1
+2019,Japanese Grand Prix,BOT,SOFT,1.0,1
+2019,Japanese Grand Prix,GAS,SOFT,8.0,1
+2019,Japanese Grand Prix,GIO,MEDIUM,12.0,1
+2019,Japanese Grand Prix,GRO,SOFT,14.0,1
+2019,Japanese Grand Prix,HAM,SOFT,4.0,1
+2019,Japanese Grand Prix,HUL,SOFT,10.0,1
+2019,Japanese Grand Prix,KUB,MEDIUM,20.0,1
+2019,Japanese Grand Prix,KVY,SOFT,17.0,1
+2019,Japanese Grand Prix,LEC,SOFT,3.0,1
+2019,Japanese Grand Prix,MAG,MEDIUM,13.0,1
+2019,Japanese Grand Prix,NOR,SOFT,6.0,1
+2019,Japanese Grand Prix,PER,SOFT,11.0,1
+2019,Japanese Grand Prix,RAI,MEDIUM,15.0,1
+2019,Japanese Grand Prix,RIC,MEDIUM,16.0,1
+2019,Japanese Grand Prix,RUS,MEDIUM,19.0,1
+2019,Japanese Grand Prix,SAI,SOFT,5.0,1
+2019,Japanese Grand Prix,STR,SOFT,9.0,1
+2019,Japanese Grand Prix,VER,SOFT,18.0,1
+2019,Japanese Grand Prix,VET,SOFT,2.0,1
+2019,Mexican Grand Prix,ALB,MEDIUM,3.0,1
+2019,Mexican Grand Prix,BOT,MEDIUM,7.0,1
+2019,Mexican Grand Prix,GAS,SOFT,10.0,1
+2019,Mexican Grand Prix,GIO,MEDIUM,15.0,1
+2019,Mexican Grand Prix,GRO,MEDIUM,20.0,1
+2019,Mexican Grand Prix,HAM,MEDIUM,5.0,1
+2019,Mexican Grand Prix,HUL,MEDIUM,13.0,1
+2019,Mexican Grand Prix,KUB,MEDIUM,18.0,1
+2019,Mexican Grand Prix,KVY,SOFT,9.0,1
+2019,Mexican Grand Prix,LEC,MEDIUM,1.0,1
+2019,Mexican Grand Prix,MAG,MEDIUM,17.0,1
+2019,Mexican Grand Prix,NOR,SOFT,6.0,1
+2019,Mexican Grand Prix,PER,MEDIUM,11.0,1
+2019,Mexican Grand Prix,RAI,MEDIUM,16.0,1
+2019,Mexican Grand Prix,RIC,HARD,12.0,1
+2019,Mexican Grand Prix,RUS,MEDIUM,19.0,1
+2019,Mexican Grand Prix,SAI,SOFT,4.0,1
+2019,Mexican Grand Prix,STR,MEDIUM,14.0,1
+2019,Mexican Grand Prix,VER,MEDIUM,8.0,1
+2019,Mexican Grand Prix,VET,MEDIUM,2.0,1
+2019,Monaco Grand Prix,ALB,SOFT,10.0,1
+2019,Monaco Grand Prix,BOT,SOFT,2.0,1
+2019,Monaco Grand Prix,GAS,SOFT,7.0,1
+2019,Monaco Grand Prix,GIO,SOFT,19.0,1
+2019,Monaco Grand Prix,GRO,SOFT,12.0,1
+2019,Monaco Grand Prix,HAM,SOFT,1.0,1
+2019,Monaco Grand Prix,HUL,MEDIUM,11.0,1
+2019,Monaco Grand Prix,KUB,MEDIUM,18.0,1
+2019,Monaco Grand Prix,KVY,SOFT,9.0,1
+2019,Monaco Grand Prix,LEC,MEDIUM,14.0,1
+2019,Monaco Grand Prix,MAG,SOFT,6.0,1
+2019,Monaco Grand Prix,NOR,MEDIUM,13.0,1
+2019,Monaco Grand Prix,PER,MEDIUM,16.0,1
+2019,Monaco Grand Prix,RAI,SOFT,17.0,1
+2019,Monaco Grand Prix,RIC,SOFT,5.0,1
+2019,Monaco Grand Prix,RUS,MEDIUM,20.0,1
+2019,Monaco Grand Prix,SAI,SOFT,8.0,1
+2019,Monaco Grand Prix,STR,MEDIUM,15.0,1
+2019,Monaco Grand Prix,VER,SOFT,3.0,1
+2019,Monaco Grand Prix,VET,SOFT,4.0,1
+2019,Russian Grand Prix,ALB,MEDIUM,18.0,1
+2019,Russian Grand Prix,BOT,MEDIUM,5.0,1
+2019,Russian Grand Prix,GAS,MEDIUM,13.0,1
+2019,Russian Grand Prix,GIO,SOFT,12.0,1
+2019,Russian Grand Prix,GRO,SOFT,,1
+2019,Russian Grand Prix,HAM,MEDIUM,3.0,1
+2019,Russian Grand Prix,HUL,SOFT,9.0,1
+2019,Russian Grand Prix,KUB,MEDIUM,17.0,1
+2019,Russian Grand Prix,KVY,HARD,14.0,1
+2019,Russian Grand Prix,LEC,SOFT,2.0,1
+2019,Russian Grand Prix,MAG,SOFT,10.0,1
+2019,Russian Grand Prix,NOR,SOFT,6.0,1
+2019,Russian Grand Prix,PER,SOFT,7.0,1
+2019,Russian Grand Prix,RAI,MEDIUM,15.0,1
+2019,Russian Grand Prix,RIC,SOFT,19.0,1
+2019,Russian Grand Prix,RUS,MEDIUM,16.0,1
+2019,Russian Grand Prix,SAI,SOFT,4.0,1
+2019,Russian Grand Prix,STR,MEDIUM,11.0,1
+2019,Russian Grand Prix,VER,SOFT,8.0,1
+2019,Russian Grand Prix,VET,SOFT,1.0,1
+2019,Singapore Grand Prix,ALB,SOFT,6.0,1
+2019,Singapore Grand Prix,BOT,SOFT,5.0,1
+2019,Singapore Grand Prix,GAS,HARD,10.0,1
+2019,Singapore Grand Prix,GIO,MEDIUM,8.0,1
+2019,Singapore Grand Prix,GRO,MEDIUM,17.0,1
+2019,Singapore Grand Prix,HAM,SOFT,2.0,1
+2019,Singapore Grand Prix,HUL,SOFT,18.0,1
+2019,Singapore Grand Prix,KUB,MEDIUM,16.0,1
+2019,Singapore Grand Prix,KVY,MEDIUM,12.0,1
+2019,Singapore Grand Prix,LEC,SOFT,1.0,1
+2019,Singapore Grand Prix,MAG,MEDIUM,9.0,1
+2019,Singapore Grand Prix,NOR,SOFT,7.0,1
+2019,Singapore Grand Prix,PER,MEDIUM,14.0,1
+2019,Singapore Grand Prix,RAI,MEDIUM,11.0,1
+2019,Singapore Grand Prix,RIC,MEDIUM,15.0,1
+2019,Singapore Grand Prix,RUS,MEDIUM,19.0,1
+2019,Singapore Grand Prix,SAI,SOFT,20.0,1
+2019,Singapore Grand Prix,STR,MEDIUM,13.0,1
+2019,Singapore Grand Prix,VER,SOFT,4.0,1
+2019,Singapore Grand Prix,VET,SOFT,3.0,1
+2019,Spanish Grand Prix,ALB,SOFT,10.0,1
+2019,Spanish Grand Prix,BOT,SOFT,2.0,1
+2019,Spanish Grand Prix,GAS,SOFT,6.0,1
+2019,Spanish Grand Prix,GIO,SOFT,15.0,1
+2019,Spanish Grand Prix,GRO,SOFT,7.0,1
+2019,Spanish Grand Prix,HAM,SOFT,1.0,1
+2019,Spanish Grand Prix,HUL,MEDIUM,18.0,1
+2019,Spanish Grand Prix,KUB,MEDIUM,17.0,1
+2019,Spanish Grand Prix,KVY,SOFT,9.0,1
+2019,Spanish Grand Prix,LEC,SOFT,5.0,1
+2019,Spanish Grand Prix,MAG,SOFT,8.0,1
+2019,Spanish Grand Prix,NOR,SOFT,16.0,1
+2019,Spanish Grand Prix,PER,SOFT,13.0,1
+2019,Spanish Grand Prix,RAI,MEDIUM,20.0,1
+2019,Spanish Grand Prix,RIC,SOFT,12.0,1
+2019,Spanish Grand Prix,RUS,MEDIUM,19.0,1
+2019,Spanish Grand Prix,SAI,SOFT,11.0,1
+2019,Spanish Grand Prix,STR,MEDIUM,14.0,1
+2019,Spanish Grand Prix,VER,SOFT,3.0,1
+2019,Spanish Grand Prix,VET,SOFT,4.0,1
+2019,United States Grand Prix,ALB,SOFT,11.0,1
+2019,United States Grand Prix,BOT,MEDIUM,1.0,1
+2019,United States Grand Prix,GAS,SOFT,8.0,1
+2019,United States Grand Prix,GIO,MEDIUM,16.0,1
+2019,United States Grand Prix,GRO,MEDIUM,14.0,1
+2019,United States Grand Prix,HAM,MEDIUM,3.0,1
+2019,United States Grand Prix,HUL,HARD,13.0,1
+2019,United States Grand Prix,KUB,MEDIUM,19.0,1
+2019,United States Grand Prix,KVY,HARD,15.0,1
+2019,United States Grand Prix,LEC,MEDIUM,4.0,1
+2019,United States Grand Prix,MAG,MEDIUM,10.0,1
+2019,United States Grand Prix,NOR,SOFT,5.0,1
+2019,United States Grand Prix,PER,MEDIUM,18.0,1
+2019,United States Grand Prix,RAI,SOFT,12.0,1
+2019,United States Grand Prix,RIC,SOFT,7.0,1
+2019,United States Grand Prix,RUS,MEDIUM,20.0,1
+2019,United States Grand Prix,SAI,SOFT,9.0,1
+2019,United States Grand Prix,STR,MEDIUM,17.0,1
+2019,United States Grand Prix,VER,MEDIUM,2.0,1
+2019,United States Grand Prix,VET,MEDIUM,6.0,1
+2020,70th Anniversary Grand Prix,ALB,MEDIUM,9.0,1
+2020,70th Anniversary Grand Prix,BOT,MEDIUM,1.0,1
+2020,70th Anniversary Grand Prix,GAS,MEDIUM,7.0,1
+2020,70th Anniversary Grand Prix,GIO,MEDIUM,15.0,1
+2020,70th Anniversary Grand Prix,GRO,MEDIUM,16.0,1
+2020,70th Anniversary Grand Prix,HAM,MEDIUM,2.0,1
+2020,70th Anniversary Grand Prix,HUL,MEDIUM,4.0,1
+2020,70th Anniversary Grand Prix,KVY,HARD,14.0,1
+2020,70th Anniversary Grand Prix,LAT,MEDIUM,18.0,1
+2020,70th Anniversary Grand Prix,LEC,MEDIUM,10.0,1
+2020,70th Anniversary Grand Prix,MAG,MEDIUM,13.0,1
+2020,70th Anniversary Grand Prix,NOR,MEDIUM,8.0,1
+2020,70th Anniversary Grand Prix,OCO,MEDIUM,12.0,1
+2020,70th Anniversary Grand Prix,RAI,HARD,19.0,1
+2020,70th Anniversary Grand Prix,RIC,MEDIUM,6.0,1
+2020,70th Anniversary Grand Prix,RUS,MEDIUM,17.0,1
+2020,70th Anniversary Grand Prix,SAI,HARD,11.0,1
+2020,70th Anniversary Grand Prix,STR,MEDIUM,5.0,1
+2020,70th Anniversary Grand Prix,VER,HARD,3.0,1
+2020,70th Anniversary Grand Prix,VET,HARD,20.0,1
+2020,Abu Dhabi Grand Prix,ALB,SOFT,5.0,1
+2020,Abu Dhabi Grand Prix,BOT,MEDIUM,2.0,1
+2020,Abu Dhabi Grand Prix,FIT,MEDIUM,18.0,1
+2020,Abu Dhabi Grand Prix,GAS,SOFT,10.0,1
+2020,Abu Dhabi Grand Prix,GIO,MEDIUM,15.0,1
+2020,Abu Dhabi Grand Prix,HAM,MEDIUM,3.0,1
+2020,Abu Dhabi Grand Prix,KVY,SOFT,7.0,1
+2020,Abu Dhabi Grand Prix,LAT,MEDIUM,19.0,1
+2020,Abu Dhabi Grand Prix,LEC,MEDIUM,13.0,1
+2020,Abu Dhabi Grand Prix,MAG,HARD,17.0,1
+2020,Abu Dhabi Grand Prix,NOR,SOFT,4.0,1
+2020,Abu Dhabi Grand Prix,OCO,MEDIUM,9.0,1
+2020,Abu Dhabi Grand Prix,PER,HARD,20.0,1
+2020,Abu Dhabi Grand Prix,RAI,MEDIUM,14.0,1
+2020,Abu Dhabi Grand Prix,RIC,HARD,11.0,1
+2020,Abu Dhabi Grand Prix,RUS,MEDIUM,16.0,1
+2020,Abu Dhabi Grand Prix,SAI,MEDIUM,6.0,1
+2020,Abu Dhabi Grand Prix,STR,SOFT,8.0,1
+2020,Abu Dhabi Grand Prix,VER,MEDIUM,1.0,1
+2020,Abu Dhabi Grand Prix,VET,HARD,12.0,1
+2020,Austrian Grand Prix,ALB,SOFT,4.0,1
+2020,Austrian Grand Prix,BOT,SOFT,1.0,1
+2020,Austrian Grand Prix,GAS,MEDIUM,12.0,1
+2020,Austrian Grand Prix,GIO,MEDIUM,14.0,1
+2020,Austrian Grand Prix,GRO,MEDIUM,18.0,1
+2020,Austrian Grand Prix,HAM,SOFT,5.0,1
+2020,Austrian Grand Prix,KVY,MEDIUM,15.0,1
+2020,Austrian Grand Prix,LAT,MEDIUM,20.0,1
+2020,Austrian Grand Prix,LEC,SOFT,7.0,1
+2020,Austrian Grand Prix,MAG,MEDIUM,13.0,1
+2020,Austrian Grand Prix,NOR,SOFT,3.0,1
+2020,Austrian Grand Prix,OCO,MEDIUM,16.0,1
+2020,Austrian Grand Prix,PER,SOFT,6.0,1
+2020,Austrian Grand Prix,RAI,MEDIUM,17.0,1
+2020,Austrian Grand Prix,RIC,SOFT,11.0,1
+2020,Austrian Grand Prix,RUS,MEDIUM,19.0,1
+2020,Austrian Grand Prix,SAI,SOFT,8.0,1
+2020,Austrian Grand Prix,STR,SOFT,9.0,1
+2020,Austrian Grand Prix,VER,MEDIUM,2.0,1
+2020,Austrian Grand Prix,VET,MEDIUM,10.0,1
+2020,Bahrain Grand Prix,ALB,MEDIUM,4.0,1
+2020,Bahrain Grand Prix,BOT,MEDIUM,6.0,1
+2020,Bahrain Grand Prix,GAS,MEDIUM,7.0,1
+2020,Bahrain Grand Prix,GIO,MEDIUM,11.0,1
+2020,Bahrain Grand Prix,GRO,HARD,,1
+2020,Bahrain Grand Prix,HAM,MEDIUM,1.0,1
+2020,Bahrain Grand Prix,KVY,MEDIUM,19.0,1
+2020,Bahrain Grand Prix,LAT,HARD,16.0,1
+2020,Bahrain Grand Prix,LEC,HARD,10.0,1
+2020,Bahrain Grand Prix,MAG,MEDIUM,14.0,1
+2020,Bahrain Grand Prix,NOR,MEDIUM,9.0,1
+2020,Bahrain Grand Prix,OCO,MEDIUM,8.0,1
+2020,Bahrain Grand Prix,PER,MEDIUM,3.0,1
+2020,Bahrain Grand Prix,RAI,MEDIUM,17.0,1
+2020,Bahrain Grand Prix,RIC,MEDIUM,5.0,1
+2020,Bahrain Grand Prix,RUS,MEDIUM,18.0,1
+2020,Bahrain Grand Prix,SAI,SOFT,13.0,1
+2020,Bahrain Grand Prix,STR,MEDIUM,12.0,1
+2020,Bahrain Grand Prix,VER,MEDIUM,2.0,1
+2020,Bahrain Grand Prix,VET,MEDIUM,15.0,1
+2020,Belgian Grand Prix,ALB,SOFT,6.0,1
+2020,Belgian Grand Prix,BOT,MEDIUM,2.0,1
+2020,Belgian Grand Prix,GAS,HARD,10.0,1
+2020,Belgian Grand Prix,GIO,MEDIUM,14.0,1
+2020,Belgian Grand Prix,GRO,MEDIUM,18.0,1
+2020,Belgian Grand Prix,HAM,MEDIUM,1.0,1
+2020,Belgian Grand Prix,KVY,MEDIUM,12.0,1
+2020,Belgian Grand Prix,LAT,MEDIUM,19.0,1
+2020,Belgian Grand Prix,LEC,SOFT,8.0,1
+2020,Belgian Grand Prix,MAG,MEDIUM,15.0,1
+2020,Belgian Grand Prix,NOR,SOFT,11.0,1
+2020,Belgian Grand Prix,OCO,SOFT,5.0,1
+2020,Belgian Grand Prix,PER,SOFT,9.0,1
+2020,Belgian Grand Prix,RAI,MEDIUM,16.0,1
+2020,Belgian Grand Prix,RIC,SOFT,4.0,1
+2020,Belgian Grand Prix,RUS,MEDIUM,17.0,1
+2020,Belgian Grand Prix,STR,SOFT,7.0,1
+2020,Belgian Grand Prix,VER,MEDIUM,3.0,1
+2020,Belgian Grand Prix,VET,MEDIUM,13.0,1
+2020,British Grand Prix,ALB,MEDIUM,12.0,1
+2020,British Grand Prix,BOT,MEDIUM,2.0,1
+2020,British Grand Prix,GAS,MEDIUM,11.0,1
+2020,British Grand Prix,GIO,MEDIUM,13.0,1
+2020,British Grand Prix,GRO,MEDIUM,16.0,1
+2020,British Grand Prix,HAM,MEDIUM,1.0,1
+2020,British Grand Prix,KVY,MEDIUM,14.0,1
+2020,British Grand Prix,LAT,MEDIUM,19.0,1
+2020,British Grand Prix,LEC,MEDIUM,4.0,1
+2020,British Grand Prix,MAG,MEDIUM,15.0,1
+2020,British Grand Prix,NOR,SOFT,7.0,1
+2020,British Grand Prix,OCO,SOFT,9.0,1
+2020,British Grand Prix,RAI,MEDIUM,17.0,1
+2020,British Grand Prix,RIC,SOFT,6.0,1
+2020,British Grand Prix,RUS,MEDIUM,18.0,1
+2020,British Grand Prix,SAI,SOFT,5.0,1
+2020,British Grand Prix,STR,MEDIUM,8.0,1
+2020,British Grand Prix,VER,MEDIUM,3.0,1
+2020,British Grand Prix,VET,SOFT,10.0,1
+2020,Eifel Grand Prix,ALB,SOFT,6.0,1
+2020,Eifel Grand Prix,BOT,SOFT,1.0,1
+2020,Eifel Grand Prix,GAS,MEDIUM,13.0,1
+2020,Eifel Grand Prix,GIO,SOFT,11.0,1
+2020,Eifel Grand Prix,GRO,MEDIUM,20.0,1
+2020,Eifel Grand Prix,HAM,SOFT,2.0,1
+2020,Eifel Grand Prix,HUL,SOFT,17.0,1
+2020,Eifel Grand Prix,KVY,MEDIUM,15.0,1
+2020,Eifel Grand Prix,LAT,SOFT,18.0,1
+2020,Eifel Grand Prix,LEC,SOFT,4.0,1
+2020,Eifel Grand Prix,MAG,SOFT,14.0,1
+2020,Eifel Grand Prix,NOR,SOFT,7.0,1
+2020,Eifel Grand Prix,OCO,SOFT,9.0,1
+2020,Eifel Grand Prix,PER,SOFT,8.0,1
+2020,Eifel Grand Prix,RAI,SOFT,19.0,1
+2020,Eifel Grand Prix,RIC,SOFT,5.0,1
+2020,Eifel Grand Prix,RUS,SOFT,16.0,1
+2020,Eifel Grand Prix,SAI,SOFT,10.0,1
+2020,Eifel Grand Prix,VER,SOFT,3.0,1
+2020,Eifel Grand Prix,VET,MEDIUM,12.0,1
+2020,Emilia Romagna Grand Prix,ALB,SOFT,7.0,1
+2020,Emilia Romagna Grand Prix,BOT,MEDIUM,1.0,1
+2020,Emilia Romagna Grand Prix,GAS,SOFT,5.0,1
+2020,Emilia Romagna Grand Prix,GIO,SOFT,14.0,1
+2020,Emilia Romagna Grand Prix,GRO,MEDIUM,17.0,1
+2020,Emilia Romagna Grand Prix,HAM,MEDIUM,3.0,1
+2020,Emilia Romagna Grand Prix,KVY,SOFT,8.0,1
+2020,Emilia Romagna Grand Prix,LAT,MEDIUM,18.0,1
+2020,Emilia Romagna Grand Prix,LEC,SOFT,6.0,1
+2020,Emilia Romagna Grand Prix,MAG,MEDIUM,20.0,1
+2020,Emilia Romagna Grand Prix,NOR,SOFT,9.0,1
+2020,Emilia Romagna Grand Prix,OCO,MEDIUM,12.0,1
+2020,Emilia Romagna Grand Prix,PER,MEDIUM,11.0,1
+2020,Emilia Romagna Grand Prix,RAI,MEDIUM,16.0,1
+2020,Emilia Romagna Grand Prix,RIC,SOFT,4.0,1
+2020,Emilia Romagna Grand Prix,RUS,MEDIUM,13.0,1
+2020,Emilia Romagna Grand Prix,SAI,SOFT,10.0,1
+2020,Emilia Romagna Grand Prix,STR,MEDIUM,19.0,1
+2020,Emilia Romagna Grand Prix,VER,MEDIUM,2.0,1
+2020,Emilia Romagna Grand Prix,VET,MEDIUM,15.0,1
+2020,Hungarian Grand Prix,ALB,INTERMEDIATE,11.0,1
+2020,Hungarian Grand Prix,BOT,INTERMEDIATE,6.0,1
+2020,Hungarian Grand Prix,GAS,INTERMEDIATE,12.0,1
+2020,Hungarian Grand Prix,GIO,INTERMEDIATE,18.0,1
+2020,Hungarian Grand Prix,GRO,MEDIUM,20.0,1
+2020,Hungarian Grand Prix,HAM,INTERMEDIATE,1.0,1
+2020,Hungarian Grand Prix,KVY,INTERMEDIATE,17.0,1
+2020,Hungarian Grand Prix,LAT,INTERMEDIATE,10.0,1
+2020,Hungarian Grand Prix,LEC,INTERMEDIATE,5.0,1
+2020,Hungarian Grand Prix,MAG,MEDIUM,19.0,1
+2020,Hungarian Grand Prix,NOR,INTERMEDIATE,13.0,1
+2020,Hungarian Grand Prix,OCO,INTERMEDIATE,16.0,1
+2020,Hungarian Grand Prix,PER,INTERMEDIATE,7.0,1
+2020,Hungarian Grand Prix,RAI,INTERMEDIATE,14.0,1
+2020,Hungarian Grand Prix,RIC,INTERMEDIATE,9.0,1
+2020,Hungarian Grand Prix,RUS,INTERMEDIATE,15.0,1
+2020,Hungarian Grand Prix,SAI,INTERMEDIATE,8.0,1
+2020,Hungarian Grand Prix,STR,INTERMEDIATE,2.0,1
+2020,Hungarian Grand Prix,VER,INTERMEDIATE,3.0,1
+2020,Hungarian Grand Prix,VET,INTERMEDIATE,4.0,1
+2020,Italian Grand Prix,ALB,SOFT,15.0,1
+2020,Italian Grand Prix,BOT,SOFT,6.0,1
+2020,Italian Grand Prix,GAS,SOFT,10.0,1
+2020,Italian Grand Prix,GIO,MEDIUM,14.0,1
+2020,Italian Grand Prix,GRO,MEDIUM,16.0,1
+2020,Italian Grand Prix,HAM,SOFT,1.0,1
+2020,Italian Grand Prix,KVY,HARD,11.0,1
+2020,Italian Grand Prix,LAT,MEDIUM,19.0,1
+2020,Italian Grand Prix,LEC,SOFT,13.0,1
+2020,Italian Grand Prix,MAG,MEDIUM,20.0,1
+2020,Italian Grand Prix,NOR,SOFT,3.0,1
+2020,Italian Grand Prix,OCO,SOFT,9.0,1
+2020,Italian Grand Prix,PER,SOFT,4.0,1
+2020,Italian Grand Prix,RAI,MEDIUM,12.0,1
+2020,Italian Grand Prix,RIC,SOFT,5.0,1
+2020,Italian Grand Prix,RUS,MEDIUM,17.0,1
+2020,Italian Grand Prix,SAI,SOFT,2.0,1
+2020,Italian Grand Prix,STR,SOFT,8.0,1
+2020,Italian Grand Prix,VER,SOFT,7.0,1
+2020,Italian Grand Prix,VET,HARD,18.0,1
+2020,Portuguese Grand Prix,ALB,SOFT,9.0,1
+2020,Portuguese Grand Prix,BOT,MEDIUM,1.0,1
+2020,Portuguese Grand Prix,GAS,SOFT,10.0,1
+2020,Portuguese Grand Prix,GIO,MEDIUM,14.0,1
+2020,Portuguese Grand Prix,GRO,MEDIUM,16.0,1
+2020,Portuguese Grand Prix,HAM,MEDIUM,3.0,1
+2020,Portuguese Grand Prix,KVY,MEDIUM,19.0,1
+2020,Portuguese Grand Prix,LAT,MEDIUM,18.0,1
+2020,Portuguese Grand Prix,LEC,MEDIUM,6.0,1
+2020,Portuguese Grand Prix,MAG,HARD,17.0,1
+2020,Portuguese Grand Prix,NOR,SOFT,4.0,1
+2020,Portuguese Grand Prix,OCO,MEDIUM,12.0,1
+2020,Portuguese Grand Prix,PER,SOFT,20.0,1
+2020,Portuguese Grand Prix,RAI,SOFT,7.0,1
+2020,Portuguese Grand Prix,RIC,SOFT,8.0,1
+2020,Portuguese Grand Prix,RUS,MEDIUM,13.0,1
+2020,Portuguese Grand Prix,SAI,SOFT,2.0,1
+2020,Portuguese Grand Prix,STR,MEDIUM,11.0,1
+2020,Portuguese Grand Prix,VER,SOFT,5.0,1
+2020,Portuguese Grand Prix,VET,MEDIUM,15.0,1
+2020,Russian Grand Prix,ALB,SOFT,17.0,1
+2020,Russian Grand Prix,BOT,MEDIUM,2.0,1
+2020,Russian Grand Prix,GAS,SOFT,7.0,1
+2020,Russian Grand Prix,GIO,MEDIUM,12.0,1
+2020,Russian Grand Prix,GRO,MEDIUM,10.0,1
+2020,Russian Grand Prix,HAM,SOFT,1.0,1
+2020,Russian Grand Prix,KVY,HARD,11.0,1
+2020,Russian Grand Prix,LAT,MEDIUM,14.0,1
+2020,Russian Grand Prix,LEC,MEDIUM,8.0,1
+2020,Russian Grand Prix,MAG,MEDIUM,9.0,1
+2020,Russian Grand Prix,NOR,SOFT,18.0,1
+2020,Russian Grand Prix,OCO,SOFT,4.0,1
+2020,Russian Grand Prix,PER,SOFT,6.0,1
+2020,Russian Grand Prix,RAI,HARD,15.0,1
+2020,Russian Grand Prix,RIC,SOFT,5.0,1
+2020,Russian Grand Prix,RUS,MEDIUM,16.0,1
+2020,Russian Grand Prix,SAI,SOFT,,1
+2020,Russian Grand Prix,STR,MEDIUM,,1
+2020,Russian Grand Prix,VER,MEDIUM,3.0,1
+2020,Russian Grand Prix,VET,MEDIUM,13.0,1
+2020,Sakhir Grand Prix,AIT,MEDIUM,15.0,1
+2020,Sakhir Grand Prix,ALB,MEDIUM,12.0,1
+2020,Sakhir Grand Prix,BOT,MEDIUM,2.0,1
+2020,Sakhir Grand Prix,FIT,SOFT,16.0,1
+2020,Sakhir Grand Prix,GAS,SOFT,7.0,1
+2020,Sakhir Grand Prix,GIO,MEDIUM,13.0,1
+2020,Sakhir Grand Prix,KVY,SOFT,5.0,1
+2020,Sakhir Grand Prix,LAT,SOFT,14.0,1
+2020,Sakhir Grand Prix,LEC,SOFT,,1
+2020,Sakhir Grand Prix,MAG,SOFT,11.0,1
+2020,Sakhir Grand Prix,NOR,SOFT,10.0,1
+2020,Sakhir Grand Prix,OCO,MEDIUM,8.0,1
+2020,Sakhir Grand Prix,PER,SOFT,18.0,1
+2020,Sakhir Grand Prix,RAI,MEDIUM,17.0,1
+2020,Sakhir Grand Prix,RIC,SOFT,4.0,1
+2020,Sakhir Grand Prix,RUS,MEDIUM,1.0,1
+2020,Sakhir Grand Prix,SAI,SOFT,3.0,1
+2020,Sakhir Grand Prix,STR,SOFT,6.0,1
+2020,Sakhir Grand Prix,VER,SOFT,,1
+2020,Sakhir Grand Prix,VET,MEDIUM,9.0,1
+2020,Spanish Grand Prix,ALB,SOFT,6.0,1
+2020,Spanish Grand Prix,BOT,SOFT,4.0,1
+2020,Spanish Grand Prix,GAS,SOFT,8.0,1
+2020,Spanish Grand Prix,GIO,MEDIUM,19.0,1
+2020,Spanish Grand Prix,GRO,MEDIUM,17.0,1
+2020,Spanish Grand Prix,HAM,SOFT,1.0,1
+2020,Spanish Grand Prix,KVY,SOFT,13.0,1
+2020,Spanish Grand Prix,LAT,MEDIUM,20.0,1
+2020,Spanish Grand Prix,LEC,SOFT,9.0,1
+2020,Spanish Grand Prix,MAG,SOFT,14.0,1
+2020,Spanish Grand Prix,NOR,SOFT,10.0,1
+2020,Spanish Grand Prix,OCO,MEDIUM,16.0,1
+2020,Spanish Grand Prix,PER,SOFT,5.0,1
+2020,Spanish Grand Prix,RAI,MEDIUM,15.0,1
+2020,Spanish Grand Prix,RIC,MEDIUM,12.0,1
+2020,Spanish Grand Prix,RUS,SOFT,18.0,1
+2020,Spanish Grand Prix,SAI,SOFT,7.0,1
+2020,Spanish Grand Prix,STR,SOFT,3.0,1
+2020,Spanish Grand Prix,VER,SOFT,2.0,1
+2020,Spanish Grand Prix,VET,MEDIUM,11.0,1
+2020,Styrian Grand Prix,ALB,SOFT,5.0,1
+2020,Styrian Grand Prix,BOT,SOFT,4.0,1
+2020,Styrian Grand Prix,GAS,SOFT,8.0,1
+2020,Styrian Grand Prix,GIO,MEDIUM,15.0,1
+2020,Styrian Grand Prix,GRO,SOFT,19.0,1
+2020,Styrian Grand Prix,HAM,SOFT,1.0,1
+2020,Styrian Grand Prix,KVY,MEDIUM,14.0,1
+2020,Styrian Grand Prix,LAT,MEDIUM,18.0,1
+2020,Styrian Grand Prix,LEC,SOFT,9.0,1
+2020,Styrian Grand Prix,MAG,SOFT,13.0,1
+2020,Styrian Grand Prix,NOR,SOFT,10.0,1
+2020,Styrian Grand Prix,OCO,SOFT,6.0,1
+2020,Styrian Grand Prix,PER,SOFT,17.0,1
+2020,Styrian Grand Prix,RAI,MEDIUM,20.0,1
+2020,Styrian Grand Prix,RIC,MEDIUM,7.0,1
+2020,Styrian Grand Prix,RUS,SOFT,12.0,1
+2020,Styrian Grand Prix,SAI,SOFT,3.0,1
+2020,Styrian Grand Prix,STR,SOFT,11.0,1
+2020,Styrian Grand Prix,VER,SOFT,2.0,1
+2020,Styrian Grand Prix,VET,MEDIUM,16.0,1
+2020,Turkish Grand Prix,ALB,WET,5.0,1
+2020,Turkish Grand Prix,BOT,WET,18.0,1
+2020,Turkish Grand Prix,GAS,WET,13.0,1
+2020,Turkish Grand Prix,GIO,WET,11.0,1
+2020,Turkish Grand Prix,GRO,WET,16.0,1
+2020,Turkish Grand Prix,HAM,WET,6.0,1
+2020,Turkish Grand Prix,KVY,WET,12.0,1
+2020,Turkish Grand Prix,LAT,INTERMEDIATE,20.0,1
+2020,Turkish Grand Prix,LEC,WET,14.0,1
+2020,Turkish Grand Prix,MAG,WET,10.0,1
+2020,Turkish Grand Prix,NOR,WET,15.0,1
+2020,Turkish Grand Prix,OCO,WET,19.0,1
+2020,Turkish Grand Prix,PER,WET,2.0,1
+2020,Turkish Grand Prix,RAI,WET,8.0,1
+2020,Turkish Grand Prix,RIC,WET,7.0,1
+2020,Turkish Grand Prix,RUS,INTERMEDIATE,17.0,1
+2020,Turkish Grand Prix,SAI,WET,9.0,1
+2020,Turkish Grand Prix,STR,WET,1.0,1
+2020,Turkish Grand Prix,VER,WET,4.0,1
+2020,Turkish Grand Prix,VET,WET,3.0,1
+2020,Tuscan Grand Prix,ALB,SOFT,4.0,1
+2020,Tuscan Grand Prix,BOT,SOFT,1.0,1
+2020,Tuscan Grand Prix,GAS,SOFT,,1
+2020,Tuscan Grand Prix,GIO,SOFT,14.0,1
+2020,Tuscan Grand Prix,GRO,MEDIUM,17.0,1
+2020,Tuscan Grand Prix,HAM,SOFT,2.0,1
+2020,Tuscan Grand Prix,KVY,MEDIUM,9.0,1
+2020,Tuscan Grand Prix,LAT,MEDIUM,13.0,1
+2020,Tuscan Grand Prix,LEC,SOFT,3.0,1
+2020,Tuscan Grand Prix,MAG,SOFT,12.0,1
+2020,Tuscan Grand Prix,NOR,SOFT,8.0,1
+2020,Tuscan Grand Prix,OCO,SOFT,10.0,1
+2020,Tuscan Grand Prix,PER,SOFT,7.0,1
+2020,Tuscan Grand Prix,RAI,MEDIUM,16.0,1
+2020,Tuscan Grand Prix,RIC,SOFT,6.0,1
+2020,Tuscan Grand Prix,RUS,MEDIUM,11.0,1
+2020,Tuscan Grand Prix,SAI,SOFT,15.0,1
+2020,Tuscan Grand Prix,STR,SOFT,5.0,1
+2020,Tuscan Grand Prix,VER,SOFT,,1
+2020,Tuscan Grand Prix,VET,SOFT,18.0,1
+2021,Abu Dhabi Grand Prix,ALO,HARD,11.0,1
+2021,Abu Dhabi Grand Prix,BOT,MEDIUM,8.0,1
+2021,Abu Dhabi Grand Prix,GAS,HARD,12.0,1
+2021,Abu Dhabi Grand Prix,GIO,MEDIUM,13.0,1
+2021,Abu Dhabi Grand Prix,HAM,MEDIUM,1.0,1
+2021,Abu Dhabi Grand Prix,LAT,MEDIUM,16.0,1
+2021,Abu Dhabi Grand Prix,LEC,SOFT,6.0,1
+2021,Abu Dhabi Grand Prix,MSC,SOFT,18.0,1
+2021,Abu Dhabi Grand Prix,NOR,SOFT,5.0,1
+2021,Abu Dhabi Grand Prix,OCO,SOFT,9.0,1
+2021,Abu Dhabi Grand Prix,PER,SOFT,3.0,1
+2021,Abu Dhabi Grand Prix,RAI,MEDIUM,17.0,1
+2021,Abu Dhabi Grand Prix,RIC,SOFT,10.0,1
+2021,Abu Dhabi Grand Prix,RUS,MEDIUM,19.0,1
+2021,Abu Dhabi Grand Prix,SAI,SOFT,4.0,1
+2021,Abu Dhabi Grand Prix,STR,MEDIUM,14.0,1
+2021,Abu Dhabi Grand Prix,TSU,MEDIUM,7.0,1
+2021,Abu Dhabi Grand Prix,VER,SOFT,2.0,1
+2021,Abu Dhabi Grand Prix,VET,MEDIUM,15.0,1
+2021,Austrian Grand Prix,ALO,MEDIUM,16.0,1
+2021,Austrian Grand Prix,BOT,MEDIUM,5.0,1
+2021,Austrian Grand Prix,GAS,SOFT,6.0,1
+2021,Austrian Grand Prix,GIO,MEDIUM,12.0,1
+2021,Austrian Grand Prix,HAM,MEDIUM,4.0,1
+2021,Austrian Grand Prix,LAT,MEDIUM,18.0,1
+2021,Austrian Grand Prix,LEC,MEDIUM,10.0,1
+2021,Austrian Grand Prix,MAZ,MEDIUM,19.0,1
+2021,Austrian Grand Prix,MSC,MEDIUM,17.0,1
+2021,Austrian Grand Prix,NOR,MEDIUM,2.0,1
+2021,Austrian Grand Prix,OCO,MEDIUM,,1
+2021,Austrian Grand Prix,PER,MEDIUM,3.0,1
+2021,Austrian Grand Prix,RAI,HARD,15.0,1
+2021,Austrian Grand Prix,RIC,MEDIUM,11.0,1
+2021,Austrian Grand Prix,RUS,MEDIUM,13.0,1
+2021,Austrian Grand Prix,SAI,HARD,14.0,1
+2021,Austrian Grand Prix,STR,SOFT,8.0,1
+2021,Austrian Grand Prix,TSU,SOFT,7.0,1
+2021,Austrian Grand Prix,VER,MEDIUM,1.0,1
+2021,Austrian Grand Prix,VET,SOFT,9.0,1
+2021,Azerbaijan Grand Prix,ALO,SOFT,7.0,1
+2021,Azerbaijan Grand Prix,BOT,SOFT,10.0,1
+2021,Azerbaijan Grand Prix,GAS,SOFT,5.0,1
+2021,Azerbaijan Grand Prix,GIO,SOFT,15.0,1
+2021,Azerbaijan Grand Prix,HAM,SOFT,2.0,1
+2021,Azerbaijan Grand Prix,LAT,MEDIUM,17.0,1
+2021,Azerbaijan Grand Prix,LEC,SOFT,1.0,1
+2021,Azerbaijan Grand Prix,MAZ,SOFT,19.0,1
+2021,Azerbaijan Grand Prix,MSC,SOFT,18.0,1
+2021,Azerbaijan Grand Prix,NOR,SOFT,12.0,1
+2021,Azerbaijan Grand Prix,OCO,SOFT,11.0,1
+2021,Azerbaijan Grand Prix,PER,SOFT,4.0,1
+2021,Azerbaijan Grand Prix,RAI,MEDIUM,14.0,1
+2021,Azerbaijan Grand Prix,RIC,SOFT,13.0,1
+2021,Azerbaijan Grand Prix,RUS,MEDIUM,20.0,1
+2021,Azerbaijan Grand Prix,SAI,SOFT,6.0,1
+2021,Azerbaijan Grand Prix,STR,HARD,16.0,1
+2021,Azerbaijan Grand Prix,TSU,SOFT,8.0,1
+2021,Azerbaijan Grand Prix,VER,SOFT,3.0,1
+2021,Azerbaijan Grand Prix,VET,SOFT,9.0,1
+2021,Bahrain Grand Prix,ALO,SOFT,8.0,1
+2021,Bahrain Grand Prix,BOT,MEDIUM,4.0,1
+2021,Bahrain Grand Prix,GAS,MEDIUM,5.0,1
+2021,Bahrain Grand Prix,GIO,MEDIUM,12.0,1
+2021,Bahrain Grand Prix,HAM,MEDIUM,2.0,1
+2021,Bahrain Grand Prix,LAT,SOFT,17.0,1
+2021,Bahrain Grand Prix,LEC,SOFT,3.0,1
+2021,Bahrain Grand Prix,MAZ,MEDIUM,,1
+2021,Bahrain Grand Prix,MSC,MEDIUM,18.0,1
+2021,Bahrain Grand Prix,NOR,SOFT,6.0,1
+2021,Bahrain Grand Prix,OCO,SOFT,13.0,1
+2021,Bahrain Grand Prix,PER,MEDIUM,19.0,1
+2021,Bahrain Grand Prix,RAI,MEDIUM,11.0,1
+2021,Bahrain Grand Prix,RIC,SOFT,7.0,1
+2021,Bahrain Grand Prix,RUS,SOFT,16.0,1
+2021,Bahrain Grand Prix,SAI,SOFT,10.0,1
+2021,Bahrain Grand Prix,STR,SOFT,9.0,1
+2021,Bahrain Grand Prix,TSU,MEDIUM,15.0,1
+2021,Bahrain Grand Prix,VER,MEDIUM,1.0,1
+2021,Bahrain Grand Prix,VET,MEDIUM,14.0,1
+2021,Belgian Grand Prix,ALO,UNKNOWN,11.0,1
+2021,Belgian Grand Prix,BOT,UNKNOWN,12.0,1
+2021,Belgian Grand Prix,GAS,UNKNOWN,6.0,1
+2021,Belgian Grand Prix,GIO,UNKNOWN,13.0,1
+2021,Belgian Grand Prix,HAM,UNKNOWN,3.0,1
+2021,Belgian Grand Prix,LAT,UNKNOWN,9.0,1
+2021,Belgian Grand Prix,LEC,UNKNOWN,8.0,1
+2021,Belgian Grand Prix,MAZ,UNKNOWN,17.0,1
+2021,Belgian Grand Prix,MSC,UNKNOWN,16.0,1
+2021,Belgian Grand Prix,NOR,UNKNOWN,14.0,1
+2021,Belgian Grand Prix,OCO,UNKNOWN,7.0,1
+2021,Belgian Grand Prix,PER,UNKNOWN,20.0,1
+2021,Belgian Grand Prix,RAI,UNKNOWN,19.0,1
+2021,Belgian Grand Prix,RIC,UNKNOWN,4.0,1
+2021,Belgian Grand Prix,RUS,UNKNOWN,2.0,1
+2021,Belgian Grand Prix,SAI,UNKNOWN,10.0,1
+2021,Belgian Grand Prix,STR,UNKNOWN,18.0,1
+2021,Belgian Grand Prix,TSU,UNKNOWN,15.0,1
+2021,Belgian Grand Prix,VER,UNKNOWN,1.0,1
+2021,Belgian Grand Prix,VET,UNKNOWN,5.0,1
+2021,British Grand Prix,ALO,MEDIUM,7.0,1
+2021,British Grand Prix,BOT,MEDIUM,3.0,1
+2021,British Grand Prix,GAS,MEDIUM,12.0,1
+2021,British Grand Prix,GIO,MEDIUM,13.0,1
+2021,British Grand Prix,HAM,MEDIUM,2.0,1
+2021,British Grand Prix,LAT,MEDIUM,17.0,1
+2021,British Grand Prix,LEC,MEDIUM,1.0,1
+2021,British Grand Prix,MAZ,MEDIUM,18.0,1
+2021,British Grand Prix,MSC,MEDIUM,16.0,1
+2021,British Grand Prix,NOR,MEDIUM,4.0,1
+2021,British Grand Prix,OCO,MEDIUM,10.0,1
+2021,British Grand Prix,PER,HARD,19.0,1
+2021,British Grand Prix,RAI,MEDIUM,9.0,1
+2021,British Grand Prix,RIC,MEDIUM,5.0,1
+2021,British Grand Prix,RUS,MEDIUM,14.0,1
+2021,British Grand Prix,SAI,MEDIUM,8.0,1
+2021,British Grand Prix,STR,MEDIUM,11.0,1
+2021,British Grand Prix,TSU,MEDIUM,15.0,1
+2021,British Grand Prix,VER,MEDIUM,,1
+2021,British Grand Prix,VET,MEDIUM,6.0,1
+2021,Dutch Grand Prix,ALO,SOFT,7.0,1
+2021,Dutch Grand Prix,BOT,SOFT,3.0,1
+2021,Dutch Grand Prix,GAS,SOFT,4.0,1
+2021,Dutch Grand Prix,GIO,SOFT,10.0,1
+2021,Dutch Grand Prix,HAM,SOFT,2.0,1
+2021,Dutch Grand Prix,KUB,MEDIUM,16.0,1
+2021,Dutch Grand Prix,LAT,MEDIUM,20.0,1
+2021,Dutch Grand Prix,LEC,SOFT,5.0,1
+2021,Dutch Grand Prix,MAZ,MEDIUM,17.0,1
+2021,Dutch Grand Prix,MSC,SOFT,18.0,1
+2021,Dutch Grand Prix,NOR,MEDIUM,13.0,1
+2021,Dutch Grand Prix,OCO,SOFT,8.0,1
+2021,Dutch Grand Prix,PER,HARD,19.0,1
+2021,Dutch Grand Prix,RIC,SOFT,9.0,1
+2021,Dutch Grand Prix,RUS,MEDIUM,11.0,1
+2021,Dutch Grand Prix,SAI,SOFT,6.0,1
+2021,Dutch Grand Prix,STR,SOFT,12.0,1
+2021,Dutch Grand Prix,TSU,SOFT,14.0,1
+2021,Dutch Grand Prix,VER,SOFT,1.0,1
+2021,Dutch Grand Prix,VET,SOFT,15.0,1
+2021,Emilia Romagna Grand Prix,ALO,INTERMEDIATE,17.0,1
+2021,Emilia Romagna Grand Prix,BOT,INTERMEDIATE,10.0,1
+2021,Emilia Romagna Grand Prix,GAS,WET,6.0,1
+2021,Emilia Romagna Grand Prix,GIO,INTERMEDIATE,13.0,1
+2021,Emilia Romagna Grand Prix,HAM,INTERMEDIATE,2.0,1
+2021,Emilia Romagna Grand Prix,LAT,INTERMEDIATE,,1
+2021,Emilia Romagna Grand Prix,LEC,INTERMEDIATE,3.0,1
+2021,Emilia Romagna Grand Prix,MAZ,WET,19.0,1
+2021,Emilia Romagna Grand Prix,MSC,WET,16.0,1
+2021,Emilia Romagna Grand Prix,NOR,INTERMEDIATE,9.0,1
+2021,Emilia Romagna Grand Prix,OCO,WET,14.0,1
+2021,Emilia Romagna Grand Prix,PER,INTERMEDIATE,4.0,1
+2021,Emilia Romagna Grand Prix,RAI,INTERMEDIATE,12.0,1
+2021,Emilia Romagna Grand Prix,RIC,INTERMEDIATE,5.0,1
+2021,Emilia Romagna Grand Prix,RUS,INTERMEDIATE,11.0,1
+2021,Emilia Romagna Grand Prix,SAI,INTERMEDIATE,8.0,1
+2021,Emilia Romagna Grand Prix,STR,INTERMEDIATE,7.0,1
+2021,Emilia Romagna Grand Prix,TSU,INTERMEDIATE,15.0,1
+2021,Emilia Romagna Grand Prix,VER,INTERMEDIATE,1.0,1
+2021,Emilia Romagna Grand Prix,VET,INTERMEDIATE,18.0,1
+2021,French Grand Prix,ALO,MEDIUM,8.0,1
+2021,French Grand Prix,BOT,MEDIUM,3.0,1
+2021,French Grand Prix,GAS,MEDIUM,6.0,1
+2021,French Grand Prix,GIO,HARD,13.0,1
+2021,French Grand Prix,HAM,MEDIUM,1.0,1
+2021,French Grand Prix,LAT,MEDIUM,15.0,1
+2021,French Grand Prix,LEC,MEDIUM,7.0,1
+2021,French Grand Prix,MAZ,HARD,20.0,1
+2021,French Grand Prix,MSC,MEDIUM,19.0,1
+2021,French Grand Prix,NOR,MEDIUM,10.0,1
+2021,French Grand Prix,OCO,HARD,11.0,1
+2021,French Grand Prix,PER,MEDIUM,4.0,1
+2021,French Grand Prix,RAI,HARD,14.0,1
+2021,French Grand Prix,RIC,MEDIUM,9.0,1
+2021,French Grand Prix,RUS,MEDIUM,17.0,1
+2021,French Grand Prix,SAI,MEDIUM,5.0,1
+2021,French Grand Prix,STR,HARD,16.0,1
+2021,French Grand Prix,TSU,MEDIUM,18.0,1
+2021,French Grand Prix,VER,MEDIUM,2.0,1
+2021,French Grand Prix,VET,HARD,12.0,1
+2021,Hungarian Grand Prix,ALO,INTERMEDIATE,7.0,1
+2021,Hungarian Grand Prix,BOT,INTERMEDIATE,,1
+2021,Hungarian Grand Prix,GAS,INTERMEDIATE,12.0,1
+2021,Hungarian Grand Prix,GIO,MEDIUM,16.0,1
+2021,Hungarian Grand Prix,HAM,INTERMEDIATE,1.0,1
+2021,Hungarian Grand Prix,LAT,INTERMEDIATE,6.0,1
+2021,Hungarian Grand Prix,LEC,INTERMEDIATE,,1
+2021,Hungarian Grand Prix,MAZ,INTERMEDIATE,13.0,1
+2021,Hungarian Grand Prix,MSC,INTERMEDIATE,11.0,1
+2021,Hungarian Grand Prix,NOR,INTERMEDIATE,15.0,1
+2021,Hungarian Grand Prix,OCO,INTERMEDIATE,2.0,1
+2021,Hungarian Grand Prix,PER,INTERMEDIATE,,1
+2021,Hungarian Grand Prix,RAI,INTERMEDIATE,10.0,1
+2021,Hungarian Grand Prix,RIC,INTERMEDIATE,14.0,1
+2021,Hungarian Grand Prix,RUS,INTERMEDIATE,8.0,1
+2021,Hungarian Grand Prix,SAI,INTERMEDIATE,4.0,1
+2021,Hungarian Grand Prix,STR,INTERMEDIATE,,1
+2021,Hungarian Grand Prix,TSU,INTERMEDIATE,5.0,1
+2021,Hungarian Grand Prix,VER,INTERMEDIATE,9.0,1
+2021,Hungarian Grand Prix,VET,INTERMEDIATE,3.0,1
+2021,Italian Grand Prix,ALO,MEDIUM,9.0,1
+2021,Italian Grand Prix,BOT,HARD,16.0,1
+2021,Italian Grand Prix,GAS,HARD,18.0,1
+2021,Italian Grand Prix,GIO,MEDIUM,19.0,1
+2021,Italian Grand Prix,HAM,HARD,4.0,1
+2021,Italian Grand Prix,KUB,HARD,14.0,1
+2021,Italian Grand Prix,LAT,MEDIUM,11.0,1
+2021,Italian Grand Prix,LEC,MEDIUM,5.0,1
+2021,Italian Grand Prix,MAZ,MEDIUM,17.0,1
+2021,Italian Grand Prix,MSC,MEDIUM,15.0,1
+2021,Italian Grand Prix,NOR,MEDIUM,3.0,1
+2021,Italian Grand Prix,OCO,MEDIUM,10.0,1
+2021,Italian Grand Prix,PER,MEDIUM,7.0,1
+2021,Italian Grand Prix,RIC,MEDIUM,1.0,1
+2021,Italian Grand Prix,RUS,MEDIUM,13.0,1
+2021,Italian Grand Prix,SAI,MEDIUM,6.0,1
+2021,Italian Grand Prix,STR,MEDIUM,8.0,1
+2021,Italian Grand Prix,VER,MEDIUM,2.0,1
+2021,Italian Grand Prix,VET,MEDIUM,12.0,1
+2021,Mexico City Grand Prix,ALO,MEDIUM,12.0,1
+2021,Mexico City Grand Prix,BOT,MEDIUM,18.0,1
+2021,Mexico City Grand Prix,GAS,MEDIUM,4.0,1
+2021,Mexico City Grand Prix,GIO,MEDIUM,6.0,1
+2021,Mexico City Grand Prix,HAM,MEDIUM,2.0,1
+2021,Mexico City Grand Prix,LAT,MEDIUM,13.0,1
+2021,Mexico City Grand Prix,LEC,MEDIUM,5.0,1
+2021,Mexico City Grand Prix,MAZ,MEDIUM,11.0,1
+2021,Mexico City Grand Prix,MSC,MEDIUM,,1
+2021,Mexico City Grand Prix,NOR,MEDIUM,15.0,1
+2021,Mexico City Grand Prix,OCO,SOFT,14.0,1
+2021,Mexico City Grand Prix,PER,MEDIUM,3.0,1
+2021,Mexico City Grand Prix,RAI,MEDIUM,10.0,1
+2021,Mexico City Grand Prix,RIC,MEDIUM,16.0,1
+2021,Mexico City Grand Prix,RUS,MEDIUM,9.0,1
+2021,Mexico City Grand Prix,SAI,MEDIUM,7.0,1
+2021,Mexico City Grand Prix,STR,MEDIUM,17.0,1
+2021,Mexico City Grand Prix,TSU,SOFT,,1
+2021,Mexico City Grand Prix,VER,MEDIUM,1.0,1
+2021,Mexico City Grand Prix,VET,MEDIUM,8.0,1
+2021,Monaco Grand Prix,ALO,MEDIUM,14.0,1
+2021,Monaco Grand Prix,BOT,SOFT,2.0,1
+2021,Monaco Grand Prix,GAS,SOFT,5.0,1
+2021,Monaco Grand Prix,GIO,SOFT,9.0,1
+2021,Monaco Grand Prix,HAM,SOFT,6.0,1
+2021,Monaco Grand Prix,LAT,MEDIUM,16.0,1
+2021,Monaco Grand Prix,MAZ,SOFT,19.0,1
+2021,Monaco Grand Prix,MSC,SOFT,18.0,1
+2021,Monaco Grand Prix,NOR,SOFT,4.0,1
+2021,Monaco Grand Prix,OCO,SOFT,10.0,1
+2021,Monaco Grand Prix,PER,SOFT,8.0,1
+2021,Monaco Grand Prix,RAI,MEDIUM,12.0,1
+2021,Monaco Grand Prix,RIC,MEDIUM,13.0,1
+2021,Monaco Grand Prix,RUS,MEDIUM,15.0,1
+2021,Monaco Grand Prix,SAI,SOFT,3.0,1
+2021,Monaco Grand Prix,STR,HARD,11.0,1
+2021,Monaco Grand Prix,TSU,HARD,17.0,1
+2021,Monaco Grand Prix,VER,SOFT,1.0,1
+2021,Monaco Grand Prix,VET,SOFT,7.0,1
+2021,Portuguese Grand Prix,ALO,MEDIUM,15.0,1
+2021,Portuguese Grand Prix,BOT,MEDIUM,1.0,1
+2021,Portuguese Grand Prix,GAS,SOFT,9.0,1
+2021,Portuguese Grand Prix,GIO,MEDIUM,12.0,1
+2021,Portuguese Grand Prix,HAM,MEDIUM,2.0,1
+2021,Portuguese Grand Prix,LAT,MEDIUM,18.0,1
+2021,Portuguese Grand Prix,LEC,MEDIUM,8.0,1
+2021,Portuguese Grand Prix,MAZ,MEDIUM,20.0,1
+2021,Portuguese Grand Prix,MSC,MEDIUM,19.0,1
+2021,Portuguese Grand Prix,NOR,SOFT,6.0,1
+2021,Portuguese Grand Prix,OCO,SOFT,7.0,1
+2021,Portuguese Grand Prix,PER,MEDIUM,5.0,1
+2021,Portuguese Grand Prix,RAI,SOFT,13.0,1
+2021,Portuguese Grand Prix,RIC,MEDIUM,14.0,1
+2021,Portuguese Grand Prix,RUS,MEDIUM,11.0,1
+2021,Portuguese Grand Prix,SAI,SOFT,4.0,1
+2021,Portuguese Grand Prix,STR,SOFT,17.0,1
+2021,Portuguese Grand Prix,TSU,MEDIUM,16.0,1
+2021,Portuguese Grand Prix,VER,MEDIUM,3.0,1
+2021,Portuguese Grand Prix,VET,SOFT,10.0,1
+2021,Qatar Grand Prix,ALO,SOFT,2.0,1
+2021,Qatar Grand Prix,BOT,MEDIUM,11.0,1
+2021,Qatar Grand Prix,GAS,SOFT,3.0,1
+2021,Qatar Grand Prix,GIO,SOFT,14.0,1
+2021,Qatar Grand Prix,HAM,MEDIUM,1.0,1
+2021,Qatar Grand Prix,LAT,SOFT,19.0,1
+2021,Qatar Grand Prix,LEC,MEDIUM,13.0,1
+2021,Qatar Grand Prix,MAZ,MEDIUM,20.0,1
+2021,Qatar Grand Prix,MSC,SOFT,18.0,1
+2021,Qatar Grand Prix,NOR,SOFT,5.0,1
+2021,Qatar Grand Prix,OCO,SOFT,6.0,1
+2021,Qatar Grand Prix,PER,MEDIUM,9.0,1
+2021,Qatar Grand Prix,RAI,SOFT,12.0,1
+2021,Qatar Grand Prix,RIC,MEDIUM,16.0,1
+2021,Qatar Grand Prix,RUS,SOFT,15.0,1
+2021,Qatar Grand Prix,SAI,MEDIUM,7.0,1
+2021,Qatar Grand Prix,STR,MEDIUM,10.0,1
+2021,Qatar Grand Prix,TSU,SOFT,8.0,1
+2021,Qatar Grand Prix,VER,MEDIUM,4.0,1
+2021,Qatar Grand Prix,VET,SOFT,17.0,1
+2021,Russian Grand Prix,ALO,HARD,6.0,1
+2021,Russian Grand Prix,BOT,HARD,15.0,1
+2021,Russian Grand Prix,GAS,HARD,14.0,1
+2021,Russian Grand Prix,GIO,HARD,19.0,1
+2021,Russian Grand Prix,HAM,MEDIUM,7.0,1
+2021,Russian Grand Prix,LAT,MEDIUM,16.0,1
+2021,Russian Grand Prix,LEC,HARD,12.0,1
+2021,Russian Grand Prix,MAZ,MEDIUM,13.0,1
+2021,Russian Grand Prix,MSC,MEDIUM,18.0,1
+2021,Russian Grand Prix,NOR,MEDIUM,2.0,1
+2021,Russian Grand Prix,OCO,MEDIUM,9.0,1
+2021,Russian Grand Prix,PER,HARD,8.0,1
+2021,Russian Grand Prix,RAI,MEDIUM,10.0,1
+2021,Russian Grand Prix,RIC,MEDIUM,5.0,1
+2021,Russian Grand Prix,RUS,MEDIUM,3.0,1
+2021,Russian Grand Prix,SAI,MEDIUM,1.0,1
+2021,Russian Grand Prix,STR,MEDIUM,4.0,1
+2021,Russian Grand Prix,TSU,MEDIUM,20.0,1
+2021,Russian Grand Prix,VER,HARD,17.0,1
+2021,Russian Grand Prix,VET,MEDIUM,11.0,1
+2021,Saudi Arabian Grand Prix,ALO,MEDIUM,11.0,1
+2021,Saudi Arabian Grand Prix,BOT,MEDIUM,2.0,1
+2021,Saudi Arabian Grand Prix,GAS,MEDIUM,8.0,1
+2021,Saudi Arabian Grand Prix,GIO,MEDIUM,10.0,1
+2021,Saudi Arabian Grand Prix,HAM,MEDIUM,1.0,1
+2021,Saudi Arabian Grand Prix,LAT,MEDIUM,19.0,1
+2021,Saudi Arabian Grand Prix,LEC,MEDIUM,4.0,1
+2021,Saudi Arabian Grand Prix,MAZ,MEDIUM,20.0,1
+2021,Saudi Arabian Grand Prix,MSC,MEDIUM,18.0,1
+2021,Saudi Arabian Grand Prix,NOR,SOFT,6.0,1
+2021,Saudi Arabian Grand Prix,OCO,MEDIUM,7.0,1
+2021,Saudi Arabian Grand Prix,PER,MEDIUM,5.0,1
+2021,Saudi Arabian Grand Prix,RAI,MEDIUM,14.0,1
+2021,Saudi Arabian Grand Prix,RIC,HARD,9.0,1
+2021,Saudi Arabian Grand Prix,RUS,MEDIUM,17.0,1
+2021,Saudi Arabian Grand Prix,SAI,HARD,13.0,1
+2021,Saudi Arabian Grand Prix,STR,MEDIUM,16.0,1
+2021,Saudi Arabian Grand Prix,TSU,MEDIUM,12.0,1
+2021,Saudi Arabian Grand Prix,VER,MEDIUM,3.0,1
+2021,Saudi Arabian Grand Prix,VET,HARD,15.0,1
+2021,São Paulo Grand Prix,ALO,MEDIUM,11.0,1
+2021,São Paulo Grand Prix,BOT,MEDIUM,3.0,1
+2021,São Paulo Grand Prix,GAS,MEDIUM,8.0,1
+2021,São Paulo Grand Prix,GIO,MEDIUM,13.0,1
+2021,São Paulo Grand Prix,HAM,MEDIUM,6.0,1
+2021,São Paulo Grand Prix,LAT,MEDIUM,18.0,1
+2021,São Paulo Grand Prix,LEC,MEDIUM,4.0,1
+2021,São Paulo Grand Prix,MAZ,MEDIUM,16.0,1
+2021,São Paulo Grand Prix,MSC,MEDIUM,15.0,1
+2021,São Paulo Grand Prix,NOR,MEDIUM,20.0,1
+2021,São Paulo Grand Prix,OCO,MEDIUM,10.0,1
+2021,São Paulo Grand Prix,PER,MEDIUM,2.0,1
+2021,São Paulo Grand Prix,RAI,MEDIUM,19.0,1
+2021,São Paulo Grand Prix,RIC,MEDIUM,9.0,1
+2021,São Paulo Grand Prix,RUS,MEDIUM,17.0,1
+2021,São Paulo Grand Prix,SAI,MEDIUM,5.0,1
+2021,São Paulo Grand Prix,STR,MEDIUM,12.0,1
+2021,São Paulo Grand Prix,TSU,SOFT,14.0,1
+2021,São Paulo Grand Prix,VER,MEDIUM,1.0,1
+2021,São Paulo Grand Prix,VET,MEDIUM,7.0,1
+2021,Spanish Grand Prix,ALO,SOFT,10.0,1
+2021,Spanish Grand Prix,BOT,SOFT,4.0,1
+2021,Spanish Grand Prix,GAS,SOFT,13.0,1
+2021,Spanish Grand Prix,GIO,SOFT,15.0,1
+2021,Spanish Grand Prix,HAM,SOFT,2.0,1
+2021,Spanish Grand Prix,LAT,SOFT,19.0,1
+2021,Spanish Grand Prix,LEC,SOFT,3.0,1
+2021,Spanish Grand Prix,MAZ,SOFT,20.0,1
+2021,Spanish Grand Prix,MSC,SOFT,16.0,1
+2021,Spanish Grand Prix,NOR,SOFT,9.0,1
+2021,Spanish Grand Prix,OCO,SOFT,7.0,1
+2021,Spanish Grand Prix,PER,SOFT,6.0,1
+2021,Spanish Grand Prix,RAI,MEDIUM,14.0,1
+2021,Spanish Grand Prix,RIC,SOFT,5.0,1
+2021,Spanish Grand Prix,RUS,SOFT,17.0,1
+2021,Spanish Grand Prix,SAI,SOFT,8.0,1
+2021,Spanish Grand Prix,STR,SOFT,11.0,1
+2021,Spanish Grand Prix,TSU,SOFT,18.0,1
+2021,Spanish Grand Prix,VER,SOFT,1.0,1
+2021,Spanish Grand Prix,VET,SOFT,12.0,1
+2021,Styrian Grand Prix,ALO,SOFT,7.0,1
+2021,Styrian Grand Prix,BOT,MEDIUM,5.0,1
+2021,Styrian Grand Prix,GAS,SOFT,20.0,1
+2021,Styrian Grand Prix,GIO,MEDIUM,18.0,1
+2021,Styrian Grand Prix,HAM,MEDIUM,2.0,1
+2021,Styrian Grand Prix,LAT,MEDIUM,19.0,1
+2021,Styrian Grand Prix,LEC,SOFT,14.0,1
+2021,Styrian Grand Prix,MAZ,MEDIUM,16.0,1
+2021,Styrian Grand Prix,MSC,MEDIUM,17.0,1
+2021,Styrian Grand Prix,NOR,SOFT,3.0,1
+2021,Styrian Grand Prix,OCO,MEDIUM,15.0,1
+2021,Styrian Grand Prix,PER,SOFT,4.0,1
+2021,Styrian Grand Prix,RAI,HARD,13.0,1
+2021,Styrian Grand Prix,RIC,MEDIUM,9.0,1
+2021,Styrian Grand Prix,RUS,MEDIUM,8.0,1
+2021,Styrian Grand Prix,SAI,MEDIUM,11.0,1
+2021,Styrian Grand Prix,STR,SOFT,6.0,1
+2021,Styrian Grand Prix,TSU,SOFT,10.0,1
+2021,Styrian Grand Prix,VER,MEDIUM,1.0,1
+2021,Styrian Grand Prix,VET,MEDIUM,12.0,1
+2021,Turkish Grand Prix,ALO,INTERMEDIATE,16.0,1
+2021,Turkish Grand Prix,BOT,INTERMEDIATE,1.0,1
+2021,Turkish Grand Prix,GAS,INTERMEDIATE,5.0,1
+2021,Turkish Grand Prix,GIO,INTERMEDIATE,12.0,1
+2021,Turkish Grand Prix,HAM,INTERMEDIATE,9.0,1
+2021,Turkish Grand Prix,LAT,INTERMEDIATE,20.0,1
+2021,Turkish Grand Prix,LEC,INTERMEDIATE,3.0,1
+2021,Turkish Grand Prix,MAZ,INTERMEDIATE,19.0,1
+2021,Turkish Grand Prix,MSC,INTERMEDIATE,15.0,1
+2021,Turkish Grand Prix,NOR,INTERMEDIATE,6.0,1
+2021,Turkish Grand Prix,OCO,INTERMEDIATE,11.0,1
+2021,Turkish Grand Prix,PER,INTERMEDIATE,4.0,1
+2021,Turkish Grand Prix,RAI,INTERMEDIATE,13.0,1
+2021,Turkish Grand Prix,RIC,INTERMEDIATE,18.0,1
+2021,Turkish Grand Prix,RUS,INTERMEDIATE,14.0,1
+2021,Turkish Grand Prix,SAI,INTERMEDIATE,17.0,1
+2021,Turkish Grand Prix,STR,INTERMEDIATE,7.0,1
+2021,Turkish Grand Prix,TSU,INTERMEDIATE,8.0,1
+2021,Turkish Grand Prix,VER,INTERMEDIATE,2.0,1
+2021,Turkish Grand Prix,VET,INTERMEDIATE,10.0,1
+2021,United States Grand Prix,ALO,MEDIUM,16.0,1
+2021,United States Grand Prix,BOT,MEDIUM,9.0,1
+2021,United States Grand Prix,GAS,MEDIUM,10.0,1
+2021,United States Grand Prix,GIO,MEDIUM,11.0,1
+2021,United States Grand Prix,HAM,MEDIUM,1.0,1
+2021,United States Grand Prix,LAT,MEDIUM,19.0,1
+2021,United States Grand Prix,LEC,MEDIUM,4.0,1
+2021,United States Grand Prix,MAZ,MEDIUM,20.0,1
+2021,United States Grand Prix,MSC,MEDIUM,17.0,1
+2021,United States Grand Prix,NOR,MEDIUM,7.0,1
+2021,United States Grand Prix,OCO,MEDIUM,13.0,1
+2021,United States Grand Prix,PER,MEDIUM,3.0,1
+2021,United States Grand Prix,RAI,MEDIUM,12.0,1
+2021,United States Grand Prix,RIC,MEDIUM,5.0,1
+2021,United States Grand Prix,RUS,MEDIUM,14.0,1
+2021,United States Grand Prix,SAI,SOFT,6.0,1
+2021,United States Grand Prix,STR,MEDIUM,18.0,1
+2021,United States Grand Prix,TSU,SOFT,8.0,1
+2021,United States Grand Prix,VER,MEDIUM,2.0,1
+2021,United States Grand Prix,VET,MEDIUM,15.0,1
+2022,Abu Dhabi Grand Prix,ALB,MEDIUM,17.0,1
+2022,Abu Dhabi Grand Prix,ALO,MEDIUM,10.0,1
+2022,Abu Dhabi Grand Prix,BOT,HARD,20.0,1
+2022,Abu Dhabi Grand Prix,GAS,SOFT,18.0,1
+2022,Abu Dhabi Grand Prix,HAM,MEDIUM,4.0,1
+2022,Abu Dhabi Grand Prix,LAT,MEDIUM,19.0,1
+2022,Abu Dhabi Grand Prix,LEC,MEDIUM,3.0,1
+2022,Abu Dhabi Grand Prix,MAG,HARD,16.0,1
+2022,Abu Dhabi Grand Prix,MSC,MEDIUM,13.0,1
+2022,Abu Dhabi Grand Prix,NOR,MEDIUM,6.0,1
+2022,Abu Dhabi Grand Prix,OCO,MEDIUM,8.0,1
+2022,Abu Dhabi Grand Prix,PER,MEDIUM,2.0,1
+2022,Abu Dhabi Grand Prix,RIC,MEDIUM,14.0,1
+2022,Abu Dhabi Grand Prix,RUS,MEDIUM,7.0,1
+2022,Abu Dhabi Grand Prix,SAI,MEDIUM,5.0,1
+2022,Abu Dhabi Grand Prix,STR,MEDIUM,12.0,1
+2022,Abu Dhabi Grand Prix,TSU,MEDIUM,11.0,1
+2022,Abu Dhabi Grand Prix,VER,MEDIUM,1.0,1
+2022,Abu Dhabi Grand Prix,VET,MEDIUM,9.0,1
+2022,Abu Dhabi Grand Prix,ZHO,MEDIUM,15.0,1
+2022,Australian Grand Prix,ALB,HARD,20.0,1
+2022,Australian Grand Prix,ALO,HARD,10.0,1
+2022,Australian Grand Prix,BOT,MEDIUM,12.0,1
+2022,Australian Grand Prix,GAS,MEDIUM,9.0,1
+2022,Australian Grand Prix,HAM,MEDIUM,3.0,1
+2022,Australian Grand Prix,LAT,MEDIUM,18.0,1
+2022,Australian Grand Prix,LEC,MEDIUM,1.0,1
+2022,Australian Grand Prix,MAG,HARD,16.0,1
+2022,Australian Grand Prix,MSC,MEDIUM,13.0,1
+2022,Australian Grand Prix,NOR,MEDIUM,6.0,1
+2022,Australian Grand Prix,OCO,MEDIUM,8.0,1
+2022,Australian Grand Prix,PER,MEDIUM,4.0,1
+2022,Australian Grand Prix,RIC,MEDIUM,7.0,1
+2022,Australian Grand Prix,RUS,MEDIUM,5.0,1
+2022,Australian Grand Prix,SAI,HARD,14.0,1
+2022,Australian Grand Prix,STR,HARD,19.0,1
+2022,Australian Grand Prix,TSU,MEDIUM,11.0,1
+2022,Australian Grand Prix,VER,MEDIUM,2.0,1
+2022,Australian Grand Prix,VET,HARD,17.0,1
+2022,Australian Grand Prix,ZHO,MEDIUM,15.0,1
+2022,Austrian Grand Prix,ALB,MEDIUM,13.0,1
+2022,Austrian Grand Prix,ALO,HARD,18.0,1
+2022,Austrian Grand Prix,BOT,MEDIUM,19.0,1
+2022,Austrian Grand Prix,GAS,MEDIUM,12.0,1
+2022,Austrian Grand Prix,HAM,MEDIUM,7.0,1
+2022,Austrian Grand Prix,LAT,MEDIUM,16.0,1
+2022,Austrian Grand Prix,LEC,MEDIUM,2.0,1
+2022,Austrian Grand Prix,MAG,MEDIUM,6.0,1
+2022,Austrian Grand Prix,MSC,MEDIUM,8.0,1
+2022,Austrian Grand Prix,NOR,MEDIUM,10.0,1
+2022,Austrian Grand Prix,OCO,MEDIUM,5.0,1
+2022,Austrian Grand Prix,PER,MEDIUM,20.0,1
+2022,Austrian Grand Prix,RIC,MEDIUM,9.0,1
+2022,Austrian Grand Prix,RUS,MEDIUM,4.0,1
+2022,Austrian Grand Prix,SAI,MEDIUM,3.0,1
+2022,Austrian Grand Prix,STR,MEDIUM,11.0,1
+2022,Austrian Grand Prix,TSU,HARD,15.0,1
+2022,Austrian Grand Prix,VER,MEDIUM,1.0,1
+2022,Austrian Grand Prix,VET,HARD,17.0,1
+2022,Austrian Grand Prix,ZHO,HARD,14.0,1
+2022,Azerbaijan Grand Prix,ALB,MEDIUM,15.0,1
+2022,Azerbaijan Grand Prix,ALO,MEDIUM,10.0,1
+2022,Azerbaijan Grand Prix,BOT,HARD,16.0,1
+2022,Azerbaijan Grand Prix,GAS,MEDIUM,6.0,1
+2022,Azerbaijan Grand Prix,HAM,MEDIUM,7.0,1
+2022,Azerbaijan Grand Prix,LAT,MEDIUM,19.0,1
+2022,Azerbaijan Grand Prix,LEC,MEDIUM,2.0,1
+2022,Azerbaijan Grand Prix,MAG,MEDIUM,18.0,1
+2022,Azerbaijan Grand Prix,MSC,HARD,20.0,1
+2022,Azerbaijan Grand Prix,NOR,MEDIUM,11.0,1
+2022,Azerbaijan Grand Prix,OCO,HARD,13.0,1
+2022,Azerbaijan Grand Prix,PER,MEDIUM,1.0,1
+2022,Azerbaijan Grand Prix,RIC,HARD,12.0,1
+2022,Azerbaijan Grand Prix,RUS,MEDIUM,5.0,1
+2022,Azerbaijan Grand Prix,SAI,MEDIUM,4.0,1
+2022,Azerbaijan Grand Prix,STR,HARD,17.0,1
+2022,Azerbaijan Grand Prix,TSU,MEDIUM,9.0,1
+2022,Azerbaijan Grand Prix,VER,MEDIUM,3.0,1
+2022,Azerbaijan Grand Prix,VET,MEDIUM,8.0,1
+2022,Azerbaijan Grand Prix,ZHO,MEDIUM,14.0,1
+2022,Bahrain Grand Prix,ALB,SOFT,11.0,1
+2022,Bahrain Grand Prix,ALO,SOFT,9.0,1
+2022,Bahrain Grand Prix,BOT,SOFT,14.0,1
+2022,Bahrain Grand Prix,GAS,SOFT,8.0,1
+2022,Bahrain Grand Prix,HAM,SOFT,4.0,1
+2022,Bahrain Grand Prix,HUL,SOFT,15.0,1
+2022,Bahrain Grand Prix,LAT,SOFT,18.0,1
+2022,Bahrain Grand Prix,LEC,SOFT,1.0,1
+2022,Bahrain Grand Prix,MAG,SOFT,5.0,1
+2022,Bahrain Grand Prix,MSC,SOFT,13.0,1
+2022,Bahrain Grand Prix,NOR,MEDIUM,16.0,1
+2022,Bahrain Grand Prix,OCO,SOFT,10.0,1
+2022,Bahrain Grand Prix,PER,SOFT,6.0,1
+2022,Bahrain Grand Prix,RIC,MEDIUM,20.0,1
+2022,Bahrain Grand Prix,RUS,SOFT,7.0,1
+2022,Bahrain Grand Prix,SAI,SOFT,3.0,1
+2022,Bahrain Grand Prix,STR,SOFT,17.0,1
+2022,Bahrain Grand Prix,TSU,SOFT,12.0,1
+2022,Bahrain Grand Prix,VER,SOFT,2.0,1
+2022,Bahrain Grand Prix,ZHO,SOFT,19.0,1
+2022,Belgian Grand Prix,ALB,MEDIUM,7.0,1
+2022,Belgian Grand Prix,ALO,MEDIUM,4.0,1
+2022,Belgian Grand Prix,BOT,SOFT,14.0,1
+2022,Belgian Grand Prix,GAS,MEDIUM,19.0,1
+2022,Belgian Grand Prix,HAM,MEDIUM,,1
+2022,Belgian Grand Prix,LAT,MEDIUM,12.0,1
+2022,Belgian Grand Prix,LEC,SOFT,10.0,1
+2022,Belgian Grand Prix,MAG,MEDIUM,11.0,1
+2022,Belgian Grand Prix,MSC,MEDIUM,17.0,1
+2022,Belgian Grand Prix,NOR,MEDIUM,15.0,1
+2022,Belgian Grand Prix,OCO,MEDIUM,13.0,1
+2022,Belgian Grand Prix,PER,MEDIUM,2.0,1
+2022,Belgian Grand Prix,RIC,MEDIUM,6.0,1
+2022,Belgian Grand Prix,RUS,MEDIUM,3.0,1
+2022,Belgian Grand Prix,SAI,SOFT,1.0,1
+2022,Belgian Grand Prix,STR,MEDIUM,9.0,1
+2022,Belgian Grand Prix,TSU,HARD,18.0,1
+2022,Belgian Grand Prix,VER,SOFT,8.0,1
+2022,Belgian Grand Prix,VET,MEDIUM,5.0,1
+2022,Belgian Grand Prix,ZHO,MEDIUM,16.0,1
+2022,British Grand Prix,ALB,SOFT,,1
+2022,British Grand Prix,ALO,MEDIUM,5.0,1
+2022,British Grand Prix,BOT,MEDIUM,9.0,1
+2022,British Grand Prix,GAS,MEDIUM,11.0,1
+2022,British Grand Prix,HAM,MEDIUM,3.0,1
+2022,British Grand Prix,LAT,SOFT,8.0,1
+2022,British Grand Prix,LEC,MEDIUM,4.0,1
+2022,British Grand Prix,MAG,SOFT,12.0,1
+2022,British Grand Prix,MSC,MEDIUM,15.0,1
+2022,British Grand Prix,NOR,MEDIUM,7.0,1
+2022,British Grand Prix,OCO,MEDIUM,17.0,1
+2022,British Grand Prix,PER,MEDIUM,6.0,1
+2022,British Grand Prix,RIC,MEDIUM,10.0,1
+2022,British Grand Prix,RUS,HARD,,1
+2022,British Grand Prix,SAI,MEDIUM,2.0,1
+2022,British Grand Prix,STR,MEDIUM,14.0,1
+2022,British Grand Prix,TSU,MEDIUM,16.0,1
+2022,British Grand Prix,VER,SOFT,1.0,1
+2022,British Grand Prix,VET,SOFT,13.0,1
+2022,British Grand Prix,ZHO,MEDIUM,,1
+2022,Canadian Grand Prix,ALB,MEDIUM,12.0,1
+2022,Canadian Grand Prix,ALO,MEDIUM,2.0,1
+2022,Canadian Grand Prix,BOT,HARD,13.0,1
+2022,Canadian Grand Prix,GAS,MEDIUM,17.0,1
+2022,Canadian Grand Prix,HAM,MEDIUM,4.0,1
+2022,Canadian Grand Prix,LAT,MEDIUM,20.0,1
+2022,Canadian Grand Prix,LEC,HARD,18.0,1
+2022,Canadian Grand Prix,MAG,MEDIUM,5.0,1
+2022,Canadian Grand Prix,MSC,MEDIUM,8.0,1
+2022,Canadian Grand Prix,NOR,HARD,14.0,1
+2022,Canadian Grand Prix,OCO,MEDIUM,6.0,1
+2022,Canadian Grand Prix,PER,HARD,11.0,1
+2022,Canadian Grand Prix,RIC,MEDIUM,9.0,1
+2022,Canadian Grand Prix,RUS,MEDIUM,7.0,1
+2022,Canadian Grand Prix,SAI,MEDIUM,3.0,1
+2022,Canadian Grand Prix,STR,HARD,16.0,1
+2022,Canadian Grand Prix,TSU,MEDIUM,19.0,1
+2022,Canadian Grand Prix,VER,MEDIUM,1.0,1
+2022,Canadian Grand Prix,VET,MEDIUM,15.0,1
+2022,Canadian Grand Prix,ZHO,MEDIUM,10.0,1
+2022,Dutch Grand Prix,ALB,MEDIUM,16.0,1
+2022,Dutch Grand Prix,ALO,SOFT,13.0,1
+2022,Dutch Grand Prix,BOT,SOFT,19.0,1
+2022,Dutch Grand Prix,GAS,SOFT,12.0,1
+2022,Dutch Grand Prix,HAM,MEDIUM,4.0,1
+2022,Dutch Grand Prix,LAT,SOFT,20.0,1
+2022,Dutch Grand Prix,LEC,SOFT,2.0,1
+2022,Dutch Grand Prix,MAG,MEDIUM,15.0,1
+2022,Dutch Grand Prix,MSC,MEDIUM,10.0,1
+2022,Dutch Grand Prix,NOR,MEDIUM,6.0,1
+2022,Dutch Grand Prix,OCO,SOFT,9.0,1
+2022,Dutch Grand Prix,PER,SOFT,5.0,1
+2022,Dutch Grand Prix,RIC,SOFT,17.0,1
+2022,Dutch Grand Prix,RUS,MEDIUM,7.0,1
+2022,Dutch Grand Prix,SAI,SOFT,3.0,1
+2022,Dutch Grand Prix,STR,SOFT,8.0,1
+2022,Dutch Grand Prix,TSU,SOFT,11.0,1
+2022,Dutch Grand Prix,VER,SOFT,1.0,1
+2022,Dutch Grand Prix,VET,SOFT,18.0,1
+2022,Dutch Grand Prix,ZHO,SOFT,14.0,1
+2022,Emilia Romagna Grand Prix,ALB,INTERMEDIATE,15.0,1
+2022,Emilia Romagna Grand Prix,ALO,INTERMEDIATE,8.0,1
+2022,Emilia Romagna Grand Prix,BOT,INTERMEDIATE,7.0,1
+2022,Emilia Romagna Grand Prix,GAS,INTERMEDIATE,14.0,1
+2022,Emilia Romagna Grand Prix,HAM,INTERMEDIATE,12.0,1
+2022,Emilia Romagna Grand Prix,LAT,INTERMEDIATE,16.0,1
+2022,Emilia Romagna Grand Prix,LEC,INTERMEDIATE,4.0,1
+2022,Emilia Romagna Grand Prix,MAG,INTERMEDIATE,5.0,1
+2022,Emilia Romagna Grand Prix,MSC,INTERMEDIATE,17.0,1
+2022,Emilia Romagna Grand Prix,NOR,INTERMEDIATE,3.0,1
+2022,Emilia Romagna Grand Prix,OCO,INTERMEDIATE,13.0,1
+2022,Emilia Romagna Grand Prix,PER,INTERMEDIATE,2.0,1
+2022,Emilia Romagna Grand Prix,RIC,INTERMEDIATE,19.0,1
+2022,Emilia Romagna Grand Prix,RUS,INTERMEDIATE,6.0,1
+2022,Emilia Romagna Grand Prix,SAI,INTERMEDIATE,,1
+2022,Emilia Romagna Grand Prix,STR,INTERMEDIATE,11.0,1
+2022,Emilia Romagna Grand Prix,TSU,INTERMEDIATE,10.0,1
+2022,Emilia Romagna Grand Prix,VER,INTERMEDIATE,1.0,1
+2022,Emilia Romagna Grand Prix,VET,INTERMEDIATE,9.0,1
+2022,Emilia Romagna Grand Prix,ZHO,INTERMEDIATE,18.0,1
+2022,French Grand Prix,ALB,MEDIUM,12.0,1
+2022,French Grand Prix,ALO,MEDIUM,5.0,1
+2022,French Grand Prix,BOT,HARD,16.0,1
+2022,French Grand Prix,GAS,HARD,15.0,1
+2022,French Grand Prix,HAM,MEDIUM,3.0,1
+2022,French Grand Prix,LAT,MEDIUM,17.0,1
+2022,French Grand Prix,LEC,MEDIUM,1.0,1
+2022,French Grand Prix,MAG,MEDIUM,13.0,1
+2022,French Grand Prix,MSC,MEDIUM,14.0,1
+2022,French Grand Prix,NOR,MEDIUM,7.0,1
+2022,French Grand Prix,OCO,MEDIUM,9.0,1
+2022,French Grand Prix,PER,MEDIUM,4.0,1
+2022,French Grand Prix,RIC,MEDIUM,8.0,1
+2022,French Grand Prix,RUS,MEDIUM,6.0,1
+2022,French Grand Prix,SAI,HARD,18.0,1
+2022,French Grand Prix,STR,MEDIUM,10.0,1
+2022,French Grand Prix,TSU,MEDIUM,20.0,1
+2022,French Grand Prix,VER,MEDIUM,2.0,1
+2022,French Grand Prix,VET,MEDIUM,11.0,1
+2022,French Grand Prix,ZHO,MEDIUM,19.0,1
+2022,Hungarian Grand Prix,ALB,SOFT,15.0,1
+2022,Hungarian Grand Prix,ALO,MEDIUM,7.0,1
+2022,Hungarian Grand Prix,BOT,MEDIUM,13.0,1
+2022,Hungarian Grand Prix,GAS,SOFT,20.0,1
+2022,Hungarian Grand Prix,HAM,MEDIUM,5.0,1
+2022,Hungarian Grand Prix,LAT,MEDIUM,19.0,1
+2022,Hungarian Grand Prix,LEC,MEDIUM,3.0,1
+2022,Hungarian Grand Prix,MAG,MEDIUM,10.0,1
+2022,Hungarian Grand Prix,MSC,MEDIUM,12.0,1
+2022,Hungarian Grand Prix,NOR,SOFT,4.0,1
+2022,Hungarian Grand Prix,OCO,MEDIUM,6.0,1
+2022,Hungarian Grand Prix,PER,SOFT,9.0,1
+2022,Hungarian Grand Prix,RIC,SOFT,11.0,1
+2022,Hungarian Grand Prix,RUS,SOFT,1.0,1
+2022,Hungarian Grand Prix,SAI,MEDIUM,2.0,1
+2022,Hungarian Grand Prix,STR,SOFT,14.0,1
+2022,Hungarian Grand Prix,TSU,SOFT,16.0,1
+2022,Hungarian Grand Prix,VER,SOFT,8.0,1
+2022,Hungarian Grand Prix,VET,SOFT,18.0,1
+2022,Hungarian Grand Prix,ZHO,MEDIUM,17.0,1
+2022,Italian Grand Prix,ALO,MEDIUM,7.0,1
+2022,Italian Grand Prix,BOT,MEDIUM,20.0,1
+2022,Italian Grand Prix,DEV,SOFT,8.0,1
+2022,Italian Grand Prix,GAS,MEDIUM,5.0,1
+2022,Italian Grand Prix,HAM,MEDIUM,19.0,1
+2022,Italian Grand Prix,LAT,MEDIUM,14.0,1
+2022,Italian Grand Prix,LEC,SOFT,1.0,1
+2022,Italian Grand Prix,MAG,MEDIUM,12.0,1
+2022,Italian Grand Prix,MSC,MEDIUM,17.0,1
+2022,Italian Grand Prix,NOR,MEDIUM,6.0,1
+2022,Italian Grand Prix,OCO,SOFT,13.0,1
+2022,Italian Grand Prix,PER,MEDIUM,15.0,1
+2022,Italian Grand Prix,RIC,MEDIUM,3.0,1
+2022,Italian Grand Prix,RUS,SOFT,2.0,1
+2022,Italian Grand Prix,SAI,MEDIUM,16.0,1
+2022,Italian Grand Prix,STR,MEDIUM,11.0,1
+2022,Italian Grand Prix,TSU,MEDIUM,18.0,1
+2022,Italian Grand Prix,VER,SOFT,4.0,1
+2022,Italian Grand Prix,VET,MEDIUM,10.0,1
+2022,Italian Grand Prix,ZHO,MEDIUM,9.0,1
+2022,Japanese Grand Prix,ALB,INTERMEDIATE,,1
+2022,Japanese Grand Prix,ALO,INTERMEDIATE,6.0,1
+2022,Japanese Grand Prix,BOT,INTERMEDIATE,14.0,1
+2022,Japanese Grand Prix,GAS,INTERMEDIATE,18.0,1
+2022,Japanese Grand Prix,HAM,INTERMEDIATE,5.0,1
+2022,Japanese Grand Prix,LAT,INTERMEDIATE,15.0,1
+2022,Japanese Grand Prix,LEC,INTERMEDIATE,2.0,1
+2022,Japanese Grand Prix,MAG,INTERMEDIATE,12.0,1
+2022,Japanese Grand Prix,MSC,INTERMEDIATE,10.0,1
+2022,Japanese Grand Prix,NOR,INTERMEDIATE,13.0,1
+2022,Japanese Grand Prix,OCO,INTERMEDIATE,4.0,1
+2022,Japanese Grand Prix,PER,INTERMEDIATE,3.0,1
+2022,Japanese Grand Prix,RIC,INTERMEDIATE,8.0,1
+2022,Japanese Grand Prix,RUS,INTERMEDIATE,7.0,1
+2022,Japanese Grand Prix,SAI,INTERMEDIATE,,1
+2022,Japanese Grand Prix,STR,INTERMEDIATE,11.0,1
+2022,Japanese Grand Prix,TSU,INTERMEDIATE,9.0,1
+2022,Japanese Grand Prix,VER,INTERMEDIATE,1.0,1
+2022,Japanese Grand Prix,VET,INTERMEDIATE,16.0,1
+2022,Japanese Grand Prix,ZHO,INTERMEDIATE,17.0,1
+2022,Mexico City Grand Prix,ALB,MEDIUM,19.0,1
+2022,Mexico City Grand Prix,ALO,MEDIUM,7.0,1
+2022,Mexico City Grand Prix,BOT,MEDIUM,8.0,1
+2022,Mexico City Grand Prix,GAS,MEDIUM,16.0,1
+2022,Mexico City Grand Prix,HAM,MEDIUM,2.0,1
+2022,Mexico City Grand Prix,LAT,SOFT,20.0,1
+2022,Mexico City Grand Prix,LEC,SOFT,6.0,1
+2022,Mexico City Grand Prix,MAG,MEDIUM,18.0,1
+2022,Mexico City Grand Prix,MSC,SOFT,17.0,1
+2022,Mexico City Grand Prix,NOR,MEDIUM,10.0,1
+2022,Mexico City Grand Prix,OCO,MEDIUM,9.0,1
+2022,Mexico City Grand Prix,PER,SOFT,3.0,1
+2022,Mexico City Grand Prix,RIC,MEDIUM,13.0,1
+2022,Mexico City Grand Prix,RUS,MEDIUM,4.0,1
+2022,Mexico City Grand Prix,SAI,SOFT,5.0,1
+2022,Mexico City Grand Prix,STR,MEDIUM,15.0,1
+2022,Mexico City Grand Prix,TSU,SOFT,11.0,1
+2022,Mexico City Grand Prix,VER,SOFT,1.0,1
+2022,Mexico City Grand Prix,VET,SOFT,14.0,1
+2022,Mexico City Grand Prix,ZHO,MEDIUM,12.0,1
+2022,Miami Grand Prix,ALB,MEDIUM,16.0,1
+2022,Miami Grand Prix,ALO,MEDIUM,7.0,1
+2022,Miami Grand Prix,BOT,MEDIUM,5.0,1
+2022,Miami Grand Prix,GAS,MEDIUM,6.0,1
+2022,Miami Grand Prix,HAM,MEDIUM,8.0,1
+2022,Miami Grand Prix,LAT,HARD,17.0,1
+2022,Miami Grand Prix,LEC,MEDIUM,1.0,1
+2022,Miami Grand Prix,MAG,MEDIUM,13.0,1
+2022,Miami Grand Prix,MSC,MEDIUM,12.0,1
+2022,Miami Grand Prix,NOR,MEDIUM,9.0,1
+2022,Miami Grand Prix,OCO,HARD,18.0,1
+2022,Miami Grand Prix,PER,MEDIUM,4.0,1
+2022,Miami Grand Prix,RIC,MEDIUM,11.0,1
+2022,Miami Grand Prix,RUS,HARD,15.0,1
+2022,Miami Grand Prix,SAI,MEDIUM,3.0,1
+2022,Miami Grand Prix,STR,HARD,19.0,1
+2022,Miami Grand Prix,TSU,MEDIUM,10.0,1
+2022,Miami Grand Prix,VER,MEDIUM,2.0,1
+2022,Miami Grand Prix,VET,HARD,20.0,1
+2022,Miami Grand Prix,ZHO,MEDIUM,14.0,1
+2022,Monaco Grand Prix,ALB,WET,16.0,1
+2022,Monaco Grand Prix,ALO,WET,7.0,1
+2022,Monaco Grand Prix,BOT,WET,12.0,1
+2022,Monaco Grand Prix,GAS,INTERMEDIATE,17.0,1
+2022,Monaco Grand Prix,HAM,WET,8.0,1
+2022,Monaco Grand Prix,LAT,WET,20.0,1
+2022,Monaco Grand Prix,LEC,WET,1.0,1
+2022,Monaco Grand Prix,MAG,WET,13.0,1
+2022,Monaco Grand Prix,MSC,WET,15.0,1
+2022,Monaco Grand Prix,NOR,WET,5.0,1
+2022,Monaco Grand Prix,OCO,WET,10.0,1
+2022,Monaco Grand Prix,PER,WET,3.0,1
+2022,Monaco Grand Prix,RIC,WET,14.0,1
+2022,Monaco Grand Prix,RUS,WET,6.0,1
+2022,Monaco Grand Prix,SAI,WET,2.0,1
+2022,Monaco Grand Prix,STR,WET,19.0,1
+2022,Monaco Grand Prix,TSU,WET,11.0,1
+2022,Monaco Grand Prix,VER,WET,4.0,1
+2022,Monaco Grand Prix,VET,WET,9.0,1
+2022,Monaco Grand Prix,ZHO,WET,18.0,1
+2022,Saudi Arabian Grand Prix,ALB,MEDIUM,15.0,1
+2022,Saudi Arabian Grand Prix,ALO,MEDIUM,7.0,1
+2022,Saudi Arabian Grand Prix,BOT,MEDIUM,8.0,1
+2022,Saudi Arabian Grand Prix,GAS,MEDIUM,10.0,1
+2022,Saudi Arabian Grand Prix,HAM,HARD,14.0,1
+2022,Saudi Arabian Grand Prix,HUL,HARD,16.0,1
+2022,Saudi Arabian Grand Prix,LAT,MEDIUM,17.0,1
+2022,Saudi Arabian Grand Prix,LEC,MEDIUM,2.0,1
+2022,Saudi Arabian Grand Prix,MAG,HARD,9.0,1
+2022,Saudi Arabian Grand Prix,NOR,MEDIUM,11.0,1
+2022,Saudi Arabian Grand Prix,OCO,MEDIUM,5.0,1
+2022,Saudi Arabian Grand Prix,PER,MEDIUM,1.0,1
+2022,Saudi Arabian Grand Prix,RIC,MEDIUM,13.0,1
+2022,Saudi Arabian Grand Prix,RUS,MEDIUM,6.0,1
+2022,Saudi Arabian Grand Prix,SAI,MEDIUM,4.0,1
+2022,Saudi Arabian Grand Prix,STR,MEDIUM,12.0,1
+2022,Saudi Arabian Grand Prix,VER,MEDIUM,3.0,1
+2022,Saudi Arabian Grand Prix,ZHO,MEDIUM,18.0,1
+2022,São Paulo Grand Prix,ALB,HARD,17.0,1
+2022,São Paulo Grand Prix,ALO,MEDIUM,15.0,1
+2022,São Paulo Grand Prix,BOT,SOFT,11.0,1
+2022,São Paulo Grand Prix,GAS,SOFT,9.0,1
+2022,São Paulo Grand Prix,HAM,SOFT,2.0,1
+2022,São Paulo Grand Prix,LAT,MEDIUM,16.0,1
+2022,São Paulo Grand Prix,LEC,MEDIUM,6.0,1
+2022,São Paulo Grand Prix,MAG,MEDIUM,,1
+2022,São Paulo Grand Prix,MSC,MEDIUM,10.0,1
+2022,São Paulo Grand Prix,NOR,SOFT,5.0,1
+2022,São Paulo Grand Prix,OCO,SOFT,14.0,1
+2022,São Paulo Grand Prix,PER,SOFT,4.0,1
+2022,São Paulo Grand Prix,RIC,SOFT,,1
+2022,São Paulo Grand Prix,RUS,SOFT,1.0,1
+2022,São Paulo Grand Prix,SAI,MEDIUM,7.0,1
+2022,São Paulo Grand Prix,STR,MEDIUM,12.0,1
+2022,São Paulo Grand Prix,TSU,MEDIUM,18.0,1
+2022,São Paulo Grand Prix,VER,SOFT,3.0,1
+2022,São Paulo Grand Prix,VET,SOFT,8.0,1
+2022,São Paulo Grand Prix,ZHO,SOFT,13.0,1
+2022,Singapore Grand Prix,ALB,INTERMEDIATE,20.0,1
+2022,Singapore Grand Prix,ALO,INTERMEDIATE,6.0,1
+2022,Singapore Grand Prix,BOT,INTERMEDIATE,16.0,1
+2022,Singapore Grand Prix,GAS,INTERMEDIATE,7.0,1
+2022,Singapore Grand Prix,HAM,INTERMEDIATE,4.0,1
+2022,Singapore Grand Prix,LAT,INTERMEDIATE,17.0,1
+2022,Singapore Grand Prix,LEC,INTERMEDIATE,2.0,1
+2022,Singapore Grand Prix,MAG,INTERMEDIATE,11.0,1
+2022,Singapore Grand Prix,MSC,INTERMEDIATE,14.0,1
+2022,Singapore Grand Prix,NOR,INTERMEDIATE,5.0,1
+2022,Singapore Grand Prix,OCO,INTERMEDIATE,15.0,1
+2022,Singapore Grand Prix,PER,INTERMEDIATE,1.0,1
+2022,Singapore Grand Prix,RIC,INTERMEDIATE,13.0,1
+2022,Singapore Grand Prix,RUS,INTERMEDIATE,19.0,1
+2022,Singapore Grand Prix,SAI,INTERMEDIATE,3.0,1
+2022,Singapore Grand Prix,STR,INTERMEDIATE,10.0,1
+2022,Singapore Grand Prix,TSU,INTERMEDIATE,9.0,1
+2022,Singapore Grand Prix,VER,INTERMEDIATE,12.0,1
+2022,Singapore Grand Prix,VET,INTERMEDIATE,8.0,1
+2022,Singapore Grand Prix,ZHO,INTERMEDIATE,18.0,1
+2022,Spanish Grand Prix,ALB,SOFT,16.0,1
+2022,Spanish Grand Prix,ALO,SOFT,15.0,1
+2022,Spanish Grand Prix,BOT,SOFT,7.0,1
+2022,Spanish Grand Prix,GAS,SOFT,12.0,1
+2022,Spanish Grand Prix,HAM,MEDIUM,19.0,1
+2022,Spanish Grand Prix,LAT,SOFT,18.0,1
+2022,Spanish Grand Prix,LEC,SOFT,1.0,1
+2022,Spanish Grand Prix,MAG,SOFT,20.0,1
+2022,Spanish Grand Prix,MSC,SOFT,6.0,1
+2022,Spanish Grand Prix,NOR,SOFT,10.0,1
+2022,Spanish Grand Prix,OCO,SOFT,9.0,1
+2022,Spanish Grand Prix,PER,SOFT,4.0,1
+2022,Spanish Grand Prix,RIC,SOFT,8.0,1
+2022,Spanish Grand Prix,RUS,SOFT,3.0,1
+2022,Spanish Grand Prix,SAI,SOFT,5.0,1
+2022,Spanish Grand Prix,STR,SOFT,14.0,1
+2022,Spanish Grand Prix,TSU,SOFT,11.0,1
+2022,Spanish Grand Prix,VER,SOFT,2.0,1
+2022,Spanish Grand Prix,VET,SOFT,13.0,1
+2022,Spanish Grand Prix,ZHO,SOFT,17.0,1
+2022,United States Grand Prix,ALB,MEDIUM,9.0,1
+2022,United States Grand Prix,ALO,HARD,12.0,1
+2022,United States Grand Prix,BOT,MEDIUM,11.0,1
+2022,United States Grand Prix,GAS,MEDIUM,8.0,1
+2022,United States Grand Prix,HAM,MEDIUM,2.0,1
+2022,United States Grand Prix,LAT,MEDIUM,16.0,1
+2022,United States Grand Prix,LEC,MEDIUM,10.0,1
+2022,United States Grand Prix,MAG,HARD,18.0,1
+2022,United States Grand Prix,MSC,HARD,15.0,1
+2022,United States Grand Prix,NOR,MEDIUM,6.0,1
+2022,United States Grand Prix,OCO,HARD,20.0,1
+2022,United States Grand Prix,PER,MEDIUM,7.0,1
+2022,United States Grand Prix,RIC,MEDIUM,13.0,1
+2022,United States Grand Prix,RUS,MEDIUM,4.0,1
+2022,United States Grand Prix,SAI,MEDIUM,19.0,1
+2022,United States Grand Prix,STR,MEDIUM,3.0,1
+2022,United States Grand Prix,TSU,MEDIUM,14.0,1
+2022,United States Grand Prix,VER,MEDIUM,1.0,1
+2022,United States Grand Prix,VET,MEDIUM,5.0,1
+2022,United States Grand Prix,ZHO,MEDIUM,17.0,1
+2023,Abu Dhabi Grand Prix,ALB,MEDIUM,17.0,1
+2023,Abu Dhabi Grand Prix,ALO,MEDIUM,7.0,1
+2023,Abu Dhabi Grand Prix,BOT,HARD,16.0,1
+2023,Abu Dhabi Grand Prix,GAS,MEDIUM,8.0,1
+2023,Abu Dhabi Grand Prix,HAM,MEDIUM,9.0,1
+2023,Abu Dhabi Grand Prix,HUL,MEDIUM,13.0,1
+2023,Abu Dhabi Grand Prix,LEC,MEDIUM,2.0,1
+2023,Abu Dhabi Grand Prix,MAG,MEDIUM,19.0,1
+2023,Abu Dhabi Grand Prix,NOR,MEDIUM,4.0,1
+2023,Abu Dhabi Grand Prix,OCO,MEDIUM,11.0,1
+2023,Abu Dhabi Grand Prix,PER,MEDIUM,10.0,1
+2023,Abu Dhabi Grand Prix,PIA,MEDIUM,3.0,1
+2023,Abu Dhabi Grand Prix,RIC,MEDIUM,15.0,1
+2023,Abu Dhabi Grand Prix,RUS,MEDIUM,5.0,1
+2023,Abu Dhabi Grand Prix,SAI,HARD,14.0,1
+2023,Abu Dhabi Grand Prix,SAR,MEDIUM,20.0,1
+2023,Abu Dhabi Grand Prix,STR,HARD,12.0,1
+2023,Abu Dhabi Grand Prix,TSU,MEDIUM,6.0,1
+2023,Abu Dhabi Grand Prix,VER,MEDIUM,1.0,1
+2023,Abu Dhabi Grand Prix,ZHO,MEDIUM,18.0,1
+2023,Australian Grand Prix,ALB,MEDIUM,6.0,1
+2023,Australian Grand Prix,ALO,MEDIUM,5.0,1
+2023,Australian Grand Prix,BOT,SOFT,19.0,1
+2023,Australian Grand Prix,DEV,HARD,14.0,1
+2023,Australian Grand Prix,GAS,SOFT,8.0,1
+2023,Australian Grand Prix,HAM,MEDIUM,2.0,1
+2023,Australian Grand Prix,HUL,MEDIUM,9.0,1
+2023,Australian Grand Prix,LEC,MEDIUM,,1
+2023,Australian Grand Prix,MAG,MEDIUM,12.0,1
+2023,Australian Grand Prix,NOR,MEDIUM,11.0,1
+2023,Australian Grand Prix,OCO,SOFT,15.0,1
+2023,Australian Grand Prix,PER,HARD,18.0,1
+2023,Australian Grand Prix,PIA,MEDIUM,13.0,1
+2023,Australian Grand Prix,RUS,MEDIUM,1.0,1
+2023,Australian Grand Prix,SAI,MEDIUM,4.0,1
+2023,Australian Grand Prix,SAR,HARD,17.0,1
+2023,Australian Grand Prix,STR,MEDIUM,7.0,1
+2023,Australian Grand Prix,TSU,MEDIUM,10.0,1
+2023,Australian Grand Prix,VER,MEDIUM,3.0,1
+2023,Australian Grand Prix,ZHO,SOFT,16.0,1
+2023,Austrian Grand Prix,ALB,MEDIUM,11.0,1
+2023,Austrian Grand Prix,ALO,HARD,6.0,1
+2023,Austrian Grand Prix,BOT,HARD,18.0,1
+2023,Austrian Grand Prix,DEV,MEDIUM,19.0,1
+2023,Austrian Grand Prix,GAS,MEDIUM,10.0,1
+2023,Austrian Grand Prix,HAM,MEDIUM,4.0,1
+2023,Austrian Grand Prix,HUL,MEDIUM,7.0,1
+2023,Austrian Grand Prix,LEC,MEDIUM,2.0,1
+2023,Austrian Grand Prix,MAG,HARD,8.0,1
+2023,Austrian Grand Prix,NOR,MEDIUM,5.0,1
+2023,Austrian Grand Prix,OCO,MEDIUM,13.0,1
+2023,Austrian Grand Prix,PER,MEDIUM,14.0,1
+2023,Austrian Grand Prix,PIA,MEDIUM,16.0,1
+2023,Austrian Grand Prix,RUS,MEDIUM,12.0,1
+2023,Austrian Grand Prix,SAI,MEDIUM,3.0,1
+2023,Austrian Grand Prix,SAR,MEDIUM,17.0,1
+2023,Austrian Grand Prix,STR,MEDIUM,9.0,1
+2023,Austrian Grand Prix,TSU,MEDIUM,20.0,1
+2023,Austrian Grand Prix,VER,MEDIUM,1.0,1
+2023,Austrian Grand Prix,ZHO,MEDIUM,15.0,1
+2023,Azerbaijan Grand Prix,ALB,MEDIUM,12.0,1
+2023,Azerbaijan Grand Prix,ALO,MEDIUM,6.0,1
+2023,Azerbaijan Grand Prix,BOT,MEDIUM,18.0,1
+2023,Azerbaijan Grand Prix,DEV,HARD,17.0,1
+2023,Azerbaijan Grand Prix,GAS,MEDIUM,15.0,1
+2023,Azerbaijan Grand Prix,HAM,MEDIUM,5.0,1
+2023,Azerbaijan Grand Prix,HUL,HARD,20.0,1
+2023,Azerbaijan Grand Prix,LEC,MEDIUM,1.0,1
+2023,Azerbaijan Grand Prix,MAG,MEDIUM,13.0,1
+2023,Azerbaijan Grand Prix,NOR,MEDIUM,8.0,1
+2023,Azerbaijan Grand Prix,OCO,HARD,19.0,1
+2023,Azerbaijan Grand Prix,PER,MEDIUM,3.0,1
+2023,Azerbaijan Grand Prix,PIA,MEDIUM,11.0,1
+2023,Azerbaijan Grand Prix,RUS,MEDIUM,9.0,1
+2023,Azerbaijan Grand Prix,SAI,MEDIUM,4.0,1
+2023,Azerbaijan Grand Prix,SAR,MEDIUM,14.0,1
+2023,Azerbaijan Grand Prix,STR,MEDIUM,7.0,1
+2023,Azerbaijan Grand Prix,TSU,MEDIUM,10.0,1
+2023,Azerbaijan Grand Prix,VER,MEDIUM,2.0,1
+2023,Azerbaijan Grand Prix,ZHO,MEDIUM,16.0,1
+2023,Bahrain Grand Prix,ALB,SOFT,12.0,1
+2023,Bahrain Grand Prix,ALO,SOFT,7.0,1
+2023,Bahrain Grand Prix,BOT,SOFT,8.0,1
+2023,Bahrain Grand Prix,DEV,SOFT,20.0,1
+2023,Bahrain Grand Prix,GAS,SOFT,19.0,1
+2023,Bahrain Grand Prix,HAM,SOFT,5.0,1
+2023,Bahrain Grand Prix,HUL,SOFT,14.0,1
+2023,Bahrain Grand Prix,LEC,SOFT,2.0,1
+2023,Bahrain Grand Prix,MAG,HARD,18.0,1
+2023,Bahrain Grand Prix,NOR,SOFT,10.0,1
+2023,Bahrain Grand Prix,OCO,SOFT,11.0,1
+2023,Bahrain Grand Prix,PER,SOFT,3.0,1
+2023,Bahrain Grand Prix,PIA,SOFT,16.0,1
+2023,Bahrain Grand Prix,RUS,SOFT,6.0,1
+2023,Bahrain Grand Prix,SAI,SOFT,4.0,1
+2023,Bahrain Grand Prix,SAR,SOFT,13.0,1
+2023,Bahrain Grand Prix,STR,SOFT,9.0,1
+2023,Bahrain Grand Prix,TSU,SOFT,15.0,1
+2023,Bahrain Grand Prix,VER,SOFT,1.0,1
+2023,Bahrain Grand Prix,ZHO,SOFT,17.0,1
+2023,Belgian Grand Prix,ALB,SOFT,10.0,1
+2023,Belgian Grand Prix,ALO,MEDIUM,6.0,1
+2023,Belgian Grand Prix,BOT,SOFT,12.0,1
+2023,Belgian Grand Prix,GAS,SOFT,16.0,1
+2023,Belgian Grand Prix,HAM,SOFT,3.0,1
+2023,Belgian Grand Prix,HUL,MEDIUM,17.0,1
+2023,Belgian Grand Prix,LEC,SOFT,2.0,1
+2023,Belgian Grand Prix,MAG,SOFT,18.0,1
+2023,Belgian Grand Prix,NOR,MEDIUM,7.0,1
+2023,Belgian Grand Prix,OCO,SOFT,13.0,1
+2023,Belgian Grand Prix,PER,SOFT,1.0,1
+2023,Belgian Grand Prix,PIA,MEDIUM,,1
+2023,Belgian Grand Prix,RIC,SOFT,19.0,1
+2023,Belgian Grand Prix,RUS,MEDIUM,11.0,1
+2023,Belgian Grand Prix,SAI,SOFT,5.0,1
+2023,Belgian Grand Prix,SAR,SOFT,15.0,1
+2023,Belgian Grand Prix,STR,MEDIUM,9.0,1
+2023,Belgian Grand Prix,TSU,MEDIUM,8.0,1
+2023,Belgian Grand Prix,VER,SOFT,4.0,1
+2023,Belgian Grand Prix,ZHO,SOFT,14.0,1
+2023,British Grand Prix,ALB,MEDIUM,10.0,1
+2023,British Grand Prix,ALO,MEDIUM,7.0,1
+2023,British Grand Prix,BOT,HARD,18.0,1
+2023,British Grand Prix,DEV,SOFT,17.0,1
+2023,British Grand Prix,GAS,MEDIUM,9.0,1
+2023,British Grand Prix,HAM,MEDIUM,8.0,1
+2023,British Grand Prix,HUL,HARD,14.0,1
+2023,British Grand Prix,LEC,MEDIUM,4.0,1
+2023,British Grand Prix,MAG,MEDIUM,20.0,1
+2023,British Grand Prix,NOR,MEDIUM,1.0,1
+2023,British Grand Prix,OCO,SOFT,12.0,1
+2023,British Grand Prix,PER,MEDIUM,16.0,1
+2023,British Grand Prix,PIA,MEDIUM,3.0,1
+2023,British Grand Prix,RUS,SOFT,5.0,1
+2023,British Grand Prix,SAI,MEDIUM,6.0,1
+2023,British Grand Prix,SAR,MEDIUM,15.0,1
+2023,British Grand Prix,STR,MEDIUM,11.0,1
+2023,British Grand Prix,TSU,SOFT,13.0,1
+2023,British Grand Prix,VER,MEDIUM,2.0,1
+2023,British Grand Prix,ZHO,MEDIUM,19.0,1
+2023,Canadian Grand Prix,ALB,MEDIUM,10.0,1
+2023,Canadian Grand Prix,ALO,MEDIUM,3.0,1
+2023,Canadian Grand Prix,BOT,HARD,16.0,1
+2023,Canadian Grand Prix,DEV,MEDIUM,17.0,1
+2023,Canadian Grand Prix,GAS,SOFT,13.0,1
+2023,Canadian Grand Prix,HAM,MEDIUM,2.0,1
+2023,Canadian Grand Prix,HUL,MEDIUM,6.0,1
+2023,Canadian Grand Prix,LEC,MEDIUM,9.0,1
+2023,Canadian Grand Prix,MAG,HARD,15.0,1
+2023,Canadian Grand Prix,NOR,MEDIUM,8.0,1
+2023,Canadian Grand Prix,OCO,MEDIUM,5.0,1
+2023,Canadian Grand Prix,PER,HARD,12.0,1
+2023,Canadian Grand Prix,PIA,MEDIUM,7.0,1
+2023,Canadian Grand Prix,RUS,MEDIUM,4.0,1
+2023,Canadian Grand Prix,SAI,MEDIUM,11.0,1
+2023,Canadian Grand Prix,SAR,MEDIUM,18.0,1
+2023,Canadian Grand Prix,STR,MEDIUM,14.0,1
+2023,Canadian Grand Prix,TSU,MEDIUM,20.0,1
+2023,Canadian Grand Prix,VER,MEDIUM,1.0,1
+2023,Canadian Grand Prix,ZHO,MEDIUM,19.0,1
+2023,Dutch Grand Prix,ALB,SOFT,4.0,1
+2023,Dutch Grand Prix,ALO,SOFT,3.0,1
+2023,Dutch Grand Prix,BOT,SOFT,9.0,1
+2023,Dutch Grand Prix,GAS,SOFT,16.0,1
+2023,Dutch Grand Prix,HAM,MEDIUM,11.0,1
+2023,Dutch Grand Prix,HUL,SOFT,10.0,1
+2023,Dutch Grand Prix,LAW,SOFT,19.0,1
+2023,Dutch Grand Prix,LEC,SOFT,15.0,1
+2023,Dutch Grand Prix,MAG,SOFT,20.0,1
+2023,Dutch Grand Prix,NOR,SOFT,2.0,1
+2023,Dutch Grand Prix,OCO,SOFT,12.0,1
+2023,Dutch Grand Prix,PER,SOFT,13.0,1
+2023,Dutch Grand Prix,PIA,SOFT,7.0,1
+2023,Dutch Grand Prix,RUS,SOFT,6.0,1
+2023,Dutch Grand Prix,SAI,SOFT,5.0,1
+2023,Dutch Grand Prix,SAR,SOFT,14.0,1
+2023,Dutch Grand Prix,STR,SOFT,8.0,1
+2023,Dutch Grand Prix,TSU,SOFT,18.0,1
+2023,Dutch Grand Prix,VER,SOFT,1.0,1
+2023,Dutch Grand Prix,ZHO,SOFT,17.0,1
+2023,Hungarian Grand Prix,ALB,MEDIUM,15.0,1
+2023,Hungarian Grand Prix,ALO,MEDIUM,7.0,1
+2023,Hungarian Grand Prix,BOT,MEDIUM,12.0,1
+2023,Hungarian Grand Prix,GAS,SOFT,20.0,1
+2023,Hungarian Grand Prix,HAM,MEDIUM,4.0,1
+2023,Hungarian Grand Prix,HUL,MEDIUM,9.0,1
+2023,Hungarian Grand Prix,LEC,MEDIUM,5.0,1
+2023,Hungarian Grand Prix,MAG,MEDIUM,13.0,1
+2023,Hungarian Grand Prix,NOR,MEDIUM,3.0,1
+2023,Hungarian Grand Prix,OCO,MEDIUM,19.0,1
+2023,Hungarian Grand Prix,PER,HARD,8.0,1
+2023,Hungarian Grand Prix,PIA,MEDIUM,2.0,1
+2023,Hungarian Grand Prix,RIC,MEDIUM,18.0,1
+2023,Hungarian Grand Prix,RUS,HARD,14.0,1
+2023,Hungarian Grand Prix,SAI,SOFT,6.0,1
+2023,Hungarian Grand Prix,SAR,MEDIUM,17.0,1
+2023,Hungarian Grand Prix,STR,SOFT,10.0,1
+2023,Hungarian Grand Prix,TSU,SOFT,11.0,1
+2023,Hungarian Grand Prix,VER,MEDIUM,1.0,1
+2023,Hungarian Grand Prix,ZHO,MEDIUM,16.0,1
+2023,Italian Grand Prix,ALB,MEDIUM,7.0,1
+2023,Italian Grand Prix,ALO,MEDIUM,11.0,1
+2023,Italian Grand Prix,BOT,HARD,14.0,1
+2023,Italian Grand Prix,GAS,MEDIUM,17.0,1
+2023,Italian Grand Prix,HAM,HARD,9.0,1
+2023,Italian Grand Prix,HUL,MEDIUM,10.0,1
+2023,Italian Grand Prix,LAW,MEDIUM,12.0,1
+2023,Italian Grand Prix,LEC,MEDIUM,3.0,1
+2023,Italian Grand Prix,MAG,HARD,18.0,1
+2023,Italian Grand Prix,NOR,MEDIUM,8.0,1
+2023,Italian Grand Prix,OCO,MEDIUM,16.0,1
+2023,Italian Grand Prix,PER,MEDIUM,5.0,1
+2023,Italian Grand Prix,PIA,MEDIUM,6.0,1
+2023,Italian Grand Prix,RUS,MEDIUM,4.0,1
+2023,Italian Grand Prix,SAI,MEDIUM,1.0,1
+2023,Italian Grand Prix,SAR,MEDIUM,13.0,1
+2023,Italian Grand Prix,STR,MEDIUM,19.0,1
+2023,Italian Grand Prix,VER,MEDIUM,2.0,1
+2023,Italian Grand Prix,ZHO,MEDIUM,15.0,1
+2023,Japanese Grand Prix,ALB,MEDIUM,17.0,1
+2023,Japanese Grand Prix,ALO,SOFT,6.0,1
+2023,Japanese Grand Prix,BOT,SOFT,20.0,1
+2023,Japanese Grand Prix,GAS,MEDIUM,14.0,1
+2023,Japanese Grand Prix,HAM,MEDIUM,8.0,1
+2023,Japanese Grand Prix,HUL,SOFT,13.0,1
+2023,Japanese Grand Prix,LAW,SOFT,10.0,1
+2023,Japanese Grand Prix,LEC,MEDIUM,4.0,1
+2023,Japanese Grand Prix,MAG,MEDIUM,15.0,1
+2023,Japanese Grand Prix,NOR,MEDIUM,2.0,1
+2023,Japanese Grand Prix,OCO,MEDIUM,19.0,1
+2023,Japanese Grand Prix,PER,MEDIUM,7.0,1
+2023,Japanese Grand Prix,PIA,MEDIUM,3.0,1
+2023,Japanese Grand Prix,RUS,MEDIUM,9.0,1
+2023,Japanese Grand Prix,SAI,MEDIUM,5.0,1
+2023,Japanese Grand Prix,SAR,MEDIUM,16.0,1
+2023,Japanese Grand Prix,STR,SOFT,12.0,1
+2023,Japanese Grand Prix,TSU,SOFT,11.0,1
+2023,Japanese Grand Prix,VER,MEDIUM,1.0,1
+2023,Japanese Grand Prix,ZHO,SOFT,18.0,1
+2023,Las Vegas Grand Prix,ALB,MEDIUM,5.0,1
+2023,Las Vegas Grand Prix,ALO,MEDIUM,19.0,1
+2023,Las Vegas Grand Prix,BOT,MEDIUM,20.0,1
+2023,Las Vegas Grand Prix,GAS,MEDIUM,4.0,1
+2023,Las Vegas Grand Prix,HAM,HARD,15.0,1
+2023,Las Vegas Grand Prix,HUL,MEDIUM,10.0,1
+2023,Las Vegas Grand Prix,LEC,MEDIUM,2.0,1
+2023,Las Vegas Grand Prix,MAG,MEDIUM,7.0,1
+2023,Las Vegas Grand Prix,NOR,MEDIUM,14.0,1
+2023,Las Vegas Grand Prix,OCO,MEDIUM,8.0,1
+2023,Las Vegas Grand Prix,PER,MEDIUM,11.0,1
+2023,Las Vegas Grand Prix,PIA,HARD,13.0,1
+2023,Las Vegas Grand Prix,RIC,MEDIUM,16.0,1
+2023,Las Vegas Grand Prix,RUS,MEDIUM,3.0,1
+2023,Las Vegas Grand Prix,SAI,MEDIUM,18.0,1
+2023,Las Vegas Grand Prix,SAR,MEDIUM,6.0,1
+2023,Las Vegas Grand Prix,STR,SOFT,9.0,1
+2023,Las Vegas Grand Prix,TSU,SOFT,12.0,1
+2023,Las Vegas Grand Prix,VER,MEDIUM,1.0,1
+2023,Las Vegas Grand Prix,ZHO,HARD,17.0,1
+2023,Mexico City Grand Prix,ALB,HARD,11.0,1
+2023,Mexico City Grand Prix,ALO,MEDIUM,14.0,1
+2023,Mexico City Grand Prix,BOT,MEDIUM,12.0,1
+2023,Mexico City Grand Prix,GAS,MEDIUM,9.0,1
+2023,Mexico City Grand Prix,HAM,MEDIUM,5.0,1
+2023,Mexico City Grand Prix,HUL,MEDIUM,8.0,1
+2023,Mexico City Grand Prix,LEC,MEDIUM,2.0,1
+2023,Mexico City Grand Prix,MAG,MEDIUM,13.0,1
+2023,Mexico City Grand Prix,NOR,SOFT,16.0,1
+2023,Mexico City Grand Prix,OCO,HARD,18.0,1
+2023,Mexico City Grand Prix,PER,MEDIUM,20.0,1
+2023,Mexico City Grand Prix,PIA,MEDIUM,6.0,1
+2023,Mexico City Grand Prix,RIC,MEDIUM,4.0,1
+2023,Mexico City Grand Prix,RUS,MEDIUM,7.0,1
+2023,Mexico City Grand Prix,SAI,MEDIUM,3.0,1
+2023,Mexico City Grand Prix,SAR,MEDIUM,17.0,1
+2023,Mexico City Grand Prix,STR,MEDIUM,19.0,1
+2023,Mexico City Grand Prix,TSU,MEDIUM,15.0,1
+2023,Mexico City Grand Prix,VER,MEDIUM,1.0,1
+2023,Mexico City Grand Prix,ZHO,MEDIUM,10.0,1
+2023,Miami Grand Prix,ALB,MEDIUM,12.0,1
+2023,Miami Grand Prix,ALO,MEDIUM,2.0,1
+2023,Miami Grand Prix,BOT,MEDIUM,8.0,1
+2023,Miami Grand Prix,DEV,MEDIUM,20.0,1
+2023,Miami Grand Prix,GAS,MEDIUM,4.0,1
+2023,Miami Grand Prix,HAM,HARD,13.0,1
+2023,Miami Grand Prix,HUL,HARD,11.0,1
+2023,Miami Grand Prix,LEC,MEDIUM,6.0,1
+2023,Miami Grand Prix,MAG,MEDIUM,7.0,1
+2023,Miami Grand Prix,NOR,SOFT,19.0,1
+2023,Miami Grand Prix,OCO,HARD,10.0,1
+2023,Miami Grand Prix,PER,MEDIUM,1.0,1
+2023,Miami Grand Prix,PIA,SOFT,14.0,1
+2023,Miami Grand Prix,RUS,MEDIUM,5.0,1
+2023,Miami Grand Prix,SAI,MEDIUM,3.0,1
+2023,Miami Grand Prix,SAR,MEDIUM,18.0,1
+2023,Miami Grand Prix,STR,HARD,17.0,1
+2023,Miami Grand Prix,TSU,HARD,15.0,1
+2023,Miami Grand Prix,VER,HARD,9.0,1
+2023,Miami Grand Prix,ZHO,HARD,16.0,1
+2023,Monaco Grand Prix,ALB,MEDIUM,13.0,1
+2023,Monaco Grand Prix,ALO,HARD,2.0,1
+2023,Monaco Grand Prix,BOT,HARD,14.0,1
+2023,Monaco Grand Prix,DEV,MEDIUM,12.0,1
+2023,Monaco Grand Prix,GAS,HARD,7.0,1
+2023,Monaco Grand Prix,HAM,MEDIUM,5.0,1
+2023,Monaco Grand Prix,HUL,MEDIUM,20.0,1
+2023,Monaco Grand Prix,LEC,HARD,6.0,1
+2023,Monaco Grand Prix,MAG,HARD,16.0,1
+2023,Monaco Grand Prix,NOR,MEDIUM,10.0,1
+2023,Monaco Grand Prix,OCO,MEDIUM,3.0,1
+2023,Monaco Grand Prix,PER,MEDIUM,18.0,1
+2023,Monaco Grand Prix,PIA,HARD,11.0,1
+2023,Monaco Grand Prix,RUS,HARD,8.0,1
+2023,Monaco Grand Prix,SAI,HARD,4.0,1
+2023,Monaco Grand Prix,SAR,MEDIUM,15.0,1
+2023,Monaco Grand Prix,STR,HARD,17.0,1
+2023,Monaco Grand Prix,TSU,MEDIUM,9.0,1
+2023,Monaco Grand Prix,VER,MEDIUM,1.0,1
+2023,Monaco Grand Prix,ZHO,SOFT,19.0,1
+2023,Qatar Grand Prix,ALB,MEDIUM,11.0,1
+2023,Qatar Grand Prix,ALO,MEDIUM,3.0,1
+2023,Qatar Grand Prix,BOT,SOFT,9.0,1
+2023,Qatar Grand Prix,GAS,MEDIUM,7.0,1
+2023,Qatar Grand Prix,HAM,SOFT,,1
+2023,Qatar Grand Prix,HUL,MEDIUM,10.0,1
+2023,Qatar Grand Prix,LAW,SOFT,15.0,1
+2023,Qatar Grand Prix,LEC,MEDIUM,4.0,1
+2023,Qatar Grand Prix,MAG,SOFT,14.0,1
+2023,Qatar Grand Prix,NOR,MEDIUM,6.0,1
+2023,Qatar Grand Prix,OCO,MEDIUM,5.0,1
+2023,Qatar Grand Prix,PER,HARD,17.0,1
+2023,Qatar Grand Prix,PIA,MEDIUM,2.0,1
+2023,Qatar Grand Prix,RUS,MEDIUM,18.0,1
+2023,Qatar Grand Prix,SAR,MEDIUM,12.0,1
+2023,Qatar Grand Prix,STR,MEDIUM,13.0,1
+2023,Qatar Grand Prix,TSU,MEDIUM,8.0,1
+2023,Qatar Grand Prix,VER,MEDIUM,1.0,1
+2023,Qatar Grand Prix,ZHO,MEDIUM,16.0,1
+2023,Saudi Arabian Grand Prix,ALB,MEDIUM,16.0,1
+2023,Saudi Arabian Grand Prix,ALO,MEDIUM,1.0,1
+2023,Saudi Arabian Grand Prix,BOT,MEDIUM,15.0,1
+2023,Saudi Arabian Grand Prix,DEV,MEDIUM,18.0,1
+2023,Saudi Arabian Grand Prix,GAS,MEDIUM,8.0,1
+2023,Saudi Arabian Grand Prix,HAM,HARD,7.0,1
+2023,Saudi Arabian Grand Prix,HUL,MEDIUM,12.0,1
+2023,Saudi Arabian Grand Prix,LEC,SOFT,9.0,1
+2023,Saudi Arabian Grand Prix,MAG,MEDIUM,11.0,1
+2023,Saudi Arabian Grand Prix,NOR,SOFT,17.0,1
+2023,Saudi Arabian Grand Prix,OCO,MEDIUM,6.0,1
+2023,Saudi Arabian Grand Prix,PER,MEDIUM,2.0,1
+2023,Saudi Arabian Grand Prix,PIA,MEDIUM,19.0,1
+2023,Saudi Arabian Grand Prix,RUS,MEDIUM,3.0,1
+2023,Saudi Arabian Grand Prix,SAI,MEDIUM,5.0,1
+2023,Saudi Arabian Grand Prix,SAR,HARD,20.0,1
+2023,Saudi Arabian Grand Prix,STR,MEDIUM,4.0,1
+2023,Saudi Arabian Grand Prix,TSU,MEDIUM,14.0,1
+2023,Saudi Arabian Grand Prix,VER,MEDIUM,13.0,1
+2023,Saudi Arabian Grand Prix,ZHO,MEDIUM,10.0,1
+2023,São Paulo Grand Prix,ALB,SOFT,,1
+2023,São Paulo Grand Prix,ALO,SOFT,4.0,1
+2023,São Paulo Grand Prix,BOT,SOFT,13.0,1
+2023,São Paulo Grand Prix,GAS,SOFT,12.0,1
+2023,São Paulo Grand Prix,HAM,SOFT,3.0,1
+2023,São Paulo Grand Prix,HUL,SOFT,17.0,1
+2023,São Paulo Grand Prix,MAG,SOFT,,1
+2023,São Paulo Grand Prix,NOR,SOFT,2.0,1
+2023,São Paulo Grand Prix,OCO,SOFT,9.0,1
+2023,São Paulo Grand Prix,PER,SOFT,7.0,1
+2023,São Paulo Grand Prix,PIA,SOFT,10.0,1
+2023,São Paulo Grand Prix,RIC,SOFT,16.0,1
+2023,São Paulo Grand Prix,RUS,SOFT,6.0,1
+2023,São Paulo Grand Prix,SAI,SOFT,8.0,1
+2023,São Paulo Grand Prix,SAR,MEDIUM,15.0,1
+2023,São Paulo Grand Prix,STR,SOFT,5.0,1
+2023,São Paulo Grand Prix,TSU,SOFT,11.0,1
+2023,São Paulo Grand Prix,VER,SOFT,1.0,1
+2023,São Paulo Grand Prix,ZHO,SOFT,14.0,1
+2023,Singapore Grand Prix,ALB,MEDIUM,15.0,1
+2023,Singapore Grand Prix,ALO,MEDIUM,6.0,1
+2023,Singapore Grand Prix,BOT,HARD,17.0,1
+2023,Singapore Grand Prix,GAS,MEDIUM,11.0,1
+2023,Singapore Grand Prix,HAM,MEDIUM,3.0,1
+2023,Singapore Grand Prix,HUL,MEDIUM,9.0,1
+2023,Singapore Grand Prix,LAW,MEDIUM,12.0,1
+2023,Singapore Grand Prix,LEC,SOFT,2.0,1
+2023,Singapore Grand Prix,MAG,MEDIUM,8.0,1
+2023,Singapore Grand Prix,NOR,MEDIUM,5.0,1
+2023,Singapore Grand Prix,OCO,MEDIUM,7.0,1
+2023,Singapore Grand Prix,PER,HARD,13.0,1
+2023,Singapore Grand Prix,PIA,MEDIUM,14.0,1
+2023,Singapore Grand Prix,RUS,MEDIUM,4.0,1
+2023,Singapore Grand Prix,SAI,MEDIUM,1.0,1
+2023,Singapore Grand Prix,SAR,MEDIUM,16.0,1
+2023,Singapore Grand Prix,TSU,SOFT,,1
+2023,Singapore Grand Prix,VER,HARD,10.0,1
+2023,Singapore Grand Prix,ZHO,SOFT,18.0,1
+2023,Spanish Grand Prix,ALB,SOFT,17.0,1
+2023,Spanish Grand Prix,ALO,SOFT,6.0,1
+2023,Spanish Grand Prix,BOT,SOFT,18.0,1
+2023,Spanish Grand Prix,DEV,SOFT,16.0,1
+2023,Spanish Grand Prix,GAS,SOFT,15.0,1
+2023,Spanish Grand Prix,HAM,SOFT,4.0,1
+2023,Spanish Grand Prix,HUL,SOFT,8.0,1
+2023,Spanish Grand Prix,LEC,HARD,20.0,1
+2023,Spanish Grand Prix,MAG,SOFT,13.0,1
+2023,Spanish Grand Prix,NOR,SOFT,14.0,1
+2023,Spanish Grand Prix,OCO,SOFT,5.0,1
+2023,Spanish Grand Prix,PER,MEDIUM,11.0,1
+2023,Spanish Grand Prix,PIA,SOFT,10.0,1
+2023,Spanish Grand Prix,RUS,SOFT,7.0,1
+2023,Spanish Grand Prix,SAI,SOFT,2.0,1
+2023,Spanish Grand Prix,SAR,MEDIUM,19.0,1
+2023,Spanish Grand Prix,STR,SOFT,3.0,1
+2023,Spanish Grand Prix,TSU,SOFT,12.0,1
+2023,Spanish Grand Prix,VER,MEDIUM,1.0,1
+2023,Spanish Grand Prix,ZHO,SOFT,9.0,1
+2023,United States Grand Prix,ALB,MEDIUM,14.0,1
+2023,United States Grand Prix,ALO,MEDIUM,18.0,1
+2023,United States Grand Prix,BOT,MEDIUM,15.0,1
+2023,United States Grand Prix,GAS,MEDIUM,10.0,1
+2023,United States Grand Prix,HAM,MEDIUM,4.0,1
+2023,United States Grand Prix,HUL,HARD,19.0,1
+2023,United States Grand Prix,LEC,MEDIUM,2.0,1
+2023,United States Grand Prix,MAG,MEDIUM,16.0,1
+2023,United States Grand Prix,NOR,MEDIUM,1.0,1
+2023,United States Grand Prix,OCO,MEDIUM,7.0,1
+2023,United States Grand Prix,PER,MEDIUM,9.0,1
+2023,United States Grand Prix,PIA,MEDIUM,6.0,1
+2023,United States Grand Prix,RIC,MEDIUM,13.0,1
+2023,United States Grand Prix,RUS,MEDIUM,8.0,1
+2023,United States Grand Prix,SAI,MEDIUM,3.0,1
+2023,United States Grand Prix,SAR,MEDIUM,17.0,1
+2023,United States Grand Prix,STR,HARD,20.0,1
+2023,United States Grand Prix,TSU,MEDIUM,12.0,1
+2023,United States Grand Prix,VER,MEDIUM,5.0,1
+2023,United States Grand Prix,ZHO,MEDIUM,11.0,1
+2024,Abu Dhabi Grand Prix,ALB,MEDIUM,15.0,1
+2024,Abu Dhabi Grand Prix,ALO,MEDIUM,6.0,1
+2024,Abu Dhabi Grand Prix,BOT,MEDIUM,13.0,1
+2024,Abu Dhabi Grand Prix,COL,MEDIUM,18.0,1
+2024,Abu Dhabi Grand Prix,DOO,MEDIUM,16.0,1
+2024,Abu Dhabi Grand Prix,GAS,MEDIUM,3.0,1
+2024,Abu Dhabi Grand Prix,HAM,HARD,12.0,1
+2024,Abu Dhabi Grand Prix,HUL,MEDIUM,5.0,1
+2024,Abu Dhabi Grand Prix,LAW,MEDIUM,10.0,1
+2024,Abu Dhabi Grand Prix,LEC,MEDIUM,8.0,1
+2024,Abu Dhabi Grand Prix,MAG,MEDIUM,7.0,1
+2024,Abu Dhabi Grand Prix,NOR,MEDIUM,1.0,1
+2024,Abu Dhabi Grand Prix,PER,MEDIUM,,1
+2024,Abu Dhabi Grand Prix,PIA,MEDIUM,19.0,1
+2024,Abu Dhabi Grand Prix,RUS,MEDIUM,4.0,1
+2024,Abu Dhabi Grand Prix,SAI,MEDIUM,2.0,1
+2024,Abu Dhabi Grand Prix,STR,MEDIUM,9.0,1
+2024,Abu Dhabi Grand Prix,TSU,MEDIUM,17.0,1
+2024,Abu Dhabi Grand Prix,VER,MEDIUM,11.0,1
+2024,Abu Dhabi Grand Prix,ZHO,MEDIUM,14.0,1
+2024,Australian Grand Prix,ALB,MEDIUM,14.0,1
+2024,Australian Grand Prix,ALO,HARD,11.0,1
+2024,Australian Grand Prix,BOT,MEDIUM,12.0,1
+2024,Australian Grand Prix,GAS,MEDIUM,17.0,1
+2024,Australian Grand Prix,HAM,SOFT,10.0,1
+2024,Australian Grand Prix,HUL,HARD,16.0,1
+2024,Australian Grand Prix,LEC,MEDIUM,4.0,1
+2024,Australian Grand Prix,MAG,MEDIUM,13.0,1
+2024,Australian Grand Prix,NOR,MEDIUM,3.0,1
+2024,Australian Grand Prix,OCO,MEDIUM,15.0,1
+2024,Australian Grand Prix,PER,MEDIUM,7.0,1
+2024,Australian Grand Prix,PIA,MEDIUM,5.0,1
+2024,Australian Grand Prix,RIC,SOFT,18.0,1
+2024,Australian Grand Prix,RUS,MEDIUM,6.0,1
+2024,Australian Grand Prix,SAI,MEDIUM,2.0,1
+2024,Australian Grand Prix,STR,MEDIUM,8.0,1
+2024,Australian Grand Prix,TSU,MEDIUM,9.0,1
+2024,Australian Grand Prix,VER,MEDIUM,1.0,1
+2024,Australian Grand Prix,ZHO,SOFT,19.0,1
+2024,Austrian Grand Prix,ALB,MEDIUM,15.0,1
+2024,Austrian Grand Prix,ALO,MEDIUM,13.0,1
+2024,Austrian Grand Prix,BOT,MEDIUM,16.0,1
+2024,Austrian Grand Prix,GAS,MEDIUM,11.0,1
+2024,Austrian Grand Prix,HAM,MEDIUM,4.0,1
+2024,Austrian Grand Prix,HUL,MEDIUM,9.0,1
+2024,Austrian Grand Prix,LEC,MEDIUM,18.0,1
+2024,Austrian Grand Prix,MAG,MEDIUM,10.0,1
+2024,Austrian Grand Prix,NOR,MEDIUM,2.0,1
+2024,Austrian Grand Prix,OCO,MEDIUM,8.0,1
+2024,Austrian Grand Prix,PER,MEDIUM,6.0,1
+2024,Austrian Grand Prix,PIA,MEDIUM,7.0,1
+2024,Austrian Grand Prix,RIC,MEDIUM,12.0,1
+2024,Austrian Grand Prix,RUS,MEDIUM,3.0,1
+2024,Austrian Grand Prix,SAI,MEDIUM,5.0,1
+2024,Austrian Grand Prix,SAR,MEDIUM,20.0,1
+2024,Austrian Grand Prix,STR,MEDIUM,17.0,1
+2024,Austrian Grand Prix,TSU,MEDIUM,14.0,1
+2024,Austrian Grand Prix,VER,MEDIUM,1.0,1
+2024,Austrian Grand Prix,ZHO,HARD,19.0,1
+2024,Azerbaijan Grand Prix,ALB,HARD,9.0,1
+2024,Azerbaijan Grand Prix,ALO,MEDIUM,7.0,1
+2024,Azerbaijan Grand Prix,BEA,MEDIUM,10.0,1
+2024,Azerbaijan Grand Prix,BOT,MEDIUM,16.0,1
+2024,Azerbaijan Grand Prix,COL,MEDIUM,8.0,1
+2024,Azerbaijan Grand Prix,GAS,HARD,15.0,1
+2024,Azerbaijan Grand Prix,HAM,MEDIUM,17.0,1
+2024,Azerbaijan Grand Prix,HUL,MEDIUM,13.0,1
+2024,Azerbaijan Grand Prix,LEC,MEDIUM,1.0,1
+2024,Azerbaijan Grand Prix,NOR,HARD,12.0,1
+2024,Azerbaijan Grand Prix,OCO,HARD,19.0,1
+2024,Azerbaijan Grand Prix,PER,MEDIUM,3.0,1
+2024,Azerbaijan Grand Prix,PIA,MEDIUM,2.0,1
+2024,Azerbaijan Grand Prix,RIC,HARD,14.0,1
+2024,Azerbaijan Grand Prix,RUS,MEDIUM,6.0,1
+2024,Azerbaijan Grand Prix,SAI,MEDIUM,4.0,1
+2024,Azerbaijan Grand Prix,STR,MEDIUM,20.0,1
+2024,Azerbaijan Grand Prix,TSU,MEDIUM,11.0,1
+2024,Azerbaijan Grand Prix,VER,MEDIUM,5.0,1
+2024,Azerbaijan Grand Prix,ZHO,HARD,18.0,1
+2024,Bahrain Grand Prix,ALB,SOFT,11.0,1
+2024,Bahrain Grand Prix,ALO,SOFT,6.0,1
+2024,Bahrain Grand Prix,BOT,SOFT,18.0,1
+2024,Bahrain Grand Prix,GAS,SOFT,17.0,1
+2024,Bahrain Grand Prix,HAM,SOFT,9.0,1
+2024,Bahrain Grand Prix,HUL,SOFT,20.0,1
+2024,Bahrain Grand Prix,LEC,SOFT,2.0,1
+2024,Bahrain Grand Prix,MAG,SOFT,12.0,1
+2024,Bahrain Grand Prix,NOR,SOFT,7.0,1
+2024,Bahrain Grand Prix,OCO,SOFT,16.0,1
+2024,Bahrain Grand Prix,PER,SOFT,4.0,1
+2024,Bahrain Grand Prix,PIA,SOFT,8.0,1
+2024,Bahrain Grand Prix,RIC,SOFT,14.0,1
+2024,Bahrain Grand Prix,RUS,SOFT,3.0,1
+2024,Bahrain Grand Prix,SAI,SOFT,5.0,1
+2024,Bahrain Grand Prix,SAR,SOFT,15.0,1
+2024,Bahrain Grand Prix,STR,SOFT,19.0,1
+2024,Bahrain Grand Prix,TSU,SOFT,10.0,1
+2024,Bahrain Grand Prix,VER,SOFT,1.0,1
+2024,Bahrain Grand Prix,ZHO,SOFT,13.0,1
+2024,Belgian Grand Prix,ALB,MEDIUM,10.0,1
+2024,Belgian Grand Prix,ALO,MEDIUM,8.0,1
+2024,Belgian Grand Prix,BOT,MEDIUM,13.0,1
+2024,Belgian Grand Prix,GAS,MEDIUM,12.0,1
+2024,Belgian Grand Prix,HAM,MEDIUM,2.0,1
+2024,Belgian Grand Prix,HUL,MEDIUM,16.0,1
+2024,Belgian Grand Prix,LEC,MEDIUM,1.0,1
+2024,Belgian Grand Prix,MAG,MEDIUM,17.0,1
+2024,Belgian Grand Prix,NOR,MEDIUM,7.0,1
+2024,Belgian Grand Prix,OCO,MEDIUM,11.0,1
+2024,Belgian Grand Prix,PER,MEDIUM,3.0,1
+2024,Belgian Grand Prix,PIA,MEDIUM,4.0,1
+2024,Belgian Grand Prix,RIC,SOFT,14.0,1
+2024,Belgian Grand Prix,RUS,MEDIUM,5.0,1
+2024,Belgian Grand Prix,SAI,HARD,6.0,1
+2024,Belgian Grand Prix,SAR,MEDIUM,20.0,1
+2024,Belgian Grand Prix,STR,MEDIUM,15.0,1
+2024,Belgian Grand Prix,TSU,MEDIUM,19.0,1
+2024,Belgian Grand Prix,VER,MEDIUM,9.0,1
+2024,Belgian Grand Prix,ZHO,HARD,18.0,1
+2024,British Grand Prix,ALB,MEDIUM,12.0,1
+2024,British Grand Prix,ALO,MEDIUM,10.0,1
+2024,British Grand Prix,BOT,MEDIUM,18.0,1
+2024,British Grand Prix,HAM,MEDIUM,2.0,1
+2024,British Grand Prix,HUL,MEDIUM,9.0,1
+2024,British Grand Prix,LEC,MEDIUM,8.0,1
+2024,British Grand Prix,MAG,MEDIUM,17.0,1
+2024,British Grand Prix,NOR,MEDIUM,4.0,1
+2024,British Grand Prix,OCO,SOFT,16.0,1
+2024,British Grand Prix,PER,HARD,19.0,1
+2024,British Grand Prix,PIA,MEDIUM,5.0,1
+2024,British Grand Prix,RIC,MEDIUM,15.0,1
+2024,British Grand Prix,RUS,MEDIUM,1.0,1
+2024,British Grand Prix,SAI,MEDIUM,6.0,1
+2024,British Grand Prix,SAR,MEDIUM,13.0,1
+2024,British Grand Prix,STR,MEDIUM,7.0,1
+2024,British Grand Prix,TSU,MEDIUM,11.0,1
+2024,British Grand Prix,VER,MEDIUM,3.0,1
+2024,British Grand Prix,ZHO,SOFT,14.0,1
+2024,Canadian Grand Prix,ALB,INTERMEDIATE,12.0,1
+2024,Canadian Grand Prix,ALO,INTERMEDIATE,5.0,1
+2024,Canadian Grand Prix,BOT,INTERMEDIATE,19.0,1
+2024,Canadian Grand Prix,GAS,INTERMEDIATE,18.0,1
+2024,Canadian Grand Prix,HAM,INTERMEDIATE,6.0,1
+2024,Canadian Grand Prix,HUL,WET,13.0,1
+2024,Canadian Grand Prix,LEC,INTERMEDIATE,10.0,1
+2024,Canadian Grand Prix,MAG,WET,8.0,1
+2024,Canadian Grand Prix,NOR,INTERMEDIATE,3.0,1
+2024,Canadian Grand Prix,OCO,INTERMEDIATE,16.0,1
+2024,Canadian Grand Prix,PER,INTERMEDIATE,17.0,1
+2024,Canadian Grand Prix,PIA,INTERMEDIATE,4.0,1
+2024,Canadian Grand Prix,RIC,INTERMEDIATE,7.0,1
+2024,Canadian Grand Prix,RUS,INTERMEDIATE,1.0,1
+2024,Canadian Grand Prix,SAI,INTERMEDIATE,14.0,1
+2024,Canadian Grand Prix,SAR,INTERMEDIATE,15.0,1
+2024,Canadian Grand Prix,STR,INTERMEDIATE,9.0,1
+2024,Canadian Grand Prix,TSU,INTERMEDIATE,11.0,1
+2024,Canadian Grand Prix,VER,INTERMEDIATE,2.0,1
+2024,Canadian Grand Prix,ZHO,INTERMEDIATE,20.0,1
+2024,Chinese Grand Prix,ALB,MEDIUM,13.0,1
+2024,Chinese Grand Prix,ALO,MEDIUM,2.0,1
+2024,Chinese Grand Prix,BOT,MEDIUM,11.0,1
+2024,Chinese Grand Prix,GAS,MEDIUM,14.0,1
+2024,Chinese Grand Prix,HAM,SOFT,19.0,1
+2024,Chinese Grand Prix,HUL,MEDIUM,8.0,1
+2024,Chinese Grand Prix,LEC,MEDIUM,7.0,1
+2024,Chinese Grand Prix,MAG,HARD,18.0,1
+2024,Chinese Grand Prix,NOR,MEDIUM,4.0,1
+2024,Chinese Grand Prix,OCO,MEDIUM,12.0,1
+2024,Chinese Grand Prix,PER,MEDIUM,3.0,1
+2024,Chinese Grand Prix,PIA,MEDIUM,5.0,1
+2024,Chinese Grand Prix,RIC,MEDIUM,15.0,1
+2024,Chinese Grand Prix,RUS,MEDIUM,6.0,1
+2024,Chinese Grand Prix,SAI,MEDIUM,9.0,1
+2024,Chinese Grand Prix,SAR,SOFT,20.0,1
+2024,Chinese Grand Prix,STR,SOFT,10.0,1
+2024,Chinese Grand Prix,TSU,SOFT,16.0,1
+2024,Chinese Grand Prix,VER,MEDIUM,1.0,1
+2024,Chinese Grand Prix,ZHO,MEDIUM,17.0,1
+2024,Dutch Grand Prix,ALB,MEDIUM,17.0,1
+2024,Dutch Grand Prix,ALO,MEDIUM,8.0,1
+2024,Dutch Grand Prix,BOT,SOFT,14.0,1
+2024,Dutch Grand Prix,GAS,MEDIUM,7.0,1
+2024,Dutch Grand Prix,HAM,SOFT,13.0,1
+2024,Dutch Grand Prix,HUL,MEDIUM,11.0,1
+2024,Dutch Grand Prix,LEC,MEDIUM,5.0,1
+2024,Dutch Grand Prix,MAG,HARD,20.0,1
+2024,Dutch Grand Prix,NOR,MEDIUM,2.0,1
+2024,Dutch Grand Prix,OCO,MEDIUM,16.0,1
+2024,Dutch Grand Prix,PER,MEDIUM,6.0,1
+2024,Dutch Grand Prix,PIA,MEDIUM,4.0,1
+2024,Dutch Grand Prix,RIC,MEDIUM,15.0,1
+2024,Dutch Grand Prix,RUS,MEDIUM,3.0,1
+2024,Dutch Grand Prix,SAI,MEDIUM,9.0,1
+2024,Dutch Grand Prix,SAR,MEDIUM,18.0,1
+2024,Dutch Grand Prix,STR,MEDIUM,10.0,1
+2024,Dutch Grand Prix,TSU,SOFT,12.0,1
+2024,Dutch Grand Prix,VER,MEDIUM,1.0,1
+2024,Dutch Grand Prix,ZHO,MEDIUM,19.0,1
+2024,Emilia Romagna Grand Prix,ALB,MEDIUM,14.0,1
+2024,Emilia Romagna Grand Prix,ALO,SOFT,20.0,1
+2024,Emilia Romagna Grand Prix,BOT,MEDIUM,17.0,1
+2024,Emilia Romagna Grand Prix,GAS,SOFT,15.0,1
+2024,Emilia Romagna Grand Prix,HAM,MEDIUM,7.0,1
+2024,Emilia Romagna Grand Prix,HUL,MEDIUM,8.0,1
+2024,Emilia Romagna Grand Prix,LEC,MEDIUM,3.0,1
+2024,Emilia Romagna Grand Prix,MAG,MEDIUM,16.0,1
+2024,Emilia Romagna Grand Prix,NOR,MEDIUM,2.0,1
+2024,Emilia Romagna Grand Prix,OCO,MEDIUM,12.0,1
+2024,Emilia Romagna Grand Prix,PER,HARD,10.0,1
+2024,Emilia Romagna Grand Prix,PIA,MEDIUM,5.0,1
+2024,Emilia Romagna Grand Prix,RIC,MEDIUM,11.0,1
+2024,Emilia Romagna Grand Prix,RUS,MEDIUM,6.0,1
+2024,Emilia Romagna Grand Prix,SAI,MEDIUM,4.0,1
+2024,Emilia Romagna Grand Prix,SAR,HARD,19.0,1
+2024,Emilia Romagna Grand Prix,STR,MEDIUM,13.0,1
+2024,Emilia Romagna Grand Prix,TSU,MEDIUM,9.0,1
+2024,Emilia Romagna Grand Prix,VER,MEDIUM,1.0,1
+2024,Emilia Romagna Grand Prix,ZHO,HARD,18.0,1
+2024,Hungarian Grand Prix,ALB,SOFT,9.0,1
+2024,Hungarian Grand Prix,ALO,SOFT,6.0,1
+2024,Hungarian Grand Prix,BOT,MEDIUM,13.0,1
+2024,Hungarian Grand Prix,GAS,HARD,20.0,1
+2024,Hungarian Grand Prix,HAM,MEDIUM,4.0,1
+2024,Hungarian Grand Prix,HUL,MEDIUM,14.0,1
+2024,Hungarian Grand Prix,LEC,MEDIUM,5.0,1
+2024,Hungarian Grand Prix,MAG,SOFT,10.0,1
+2024,Hungarian Grand Prix,NOR,MEDIUM,3.0,1
+2024,Hungarian Grand Prix,OCO,MEDIUM,15.0,1
+2024,Hungarian Grand Prix,PER,HARD,17.0,1
+2024,Hungarian Grand Prix,PIA,MEDIUM,1.0,1
+2024,Hungarian Grand Prix,RIC,MEDIUM,11.0,1
+2024,Hungarian Grand Prix,RUS,HARD,16.0,1
+2024,Hungarian Grand Prix,SAI,MEDIUM,7.0,1
+2024,Hungarian Grand Prix,SAR,MEDIUM,18.0,1
+2024,Hungarian Grand Prix,STR,SOFT,8.0,1
+2024,Hungarian Grand Prix,TSU,MEDIUM,12.0,1
+2024,Hungarian Grand Prix,VER,MEDIUM,2.0,1
+2024,Hungarian Grand Prix,ZHO,MEDIUM,19.0,1
+2024,Italian Grand Prix,ALB,MEDIUM,9.0,1
+2024,Italian Grand Prix,ALO,MEDIUM,10.0,1
+2024,Italian Grand Prix,BOT,HARD,19.0,1
+2024,Italian Grand Prix,COL,MEDIUM,18.0,1
+2024,Italian Grand Prix,GAS,MEDIUM,13.0,1
+2024,Italian Grand Prix,HAM,MEDIUM,5.0,1
+2024,Italian Grand Prix,HUL,MEDIUM,16.0,1
+2024,Italian Grand Prix,LEC,MEDIUM,2.0,1
+2024,Italian Grand Prix,MAG,MEDIUM,12.0,1
+2024,Italian Grand Prix,NOR,MEDIUM,3.0,1
+2024,Italian Grand Prix,OCO,HARD,15.0,1
+2024,Italian Grand Prix,PER,HARD,8.0,1
+2024,Italian Grand Prix,PIA,MEDIUM,1.0,1
+2024,Italian Grand Prix,RIC,MEDIUM,11.0,1
+2024,Italian Grand Prix,RUS,MEDIUM,7.0,1
+2024,Italian Grand Prix,SAI,MEDIUM,4.0,1
+2024,Italian Grand Prix,STR,HARD,17.0,1
+2024,Italian Grand Prix,TSU,HARD,14.0,1
+2024,Italian Grand Prix,VER,HARD,6.0,1
+2024,Italian Grand Prix,ZHO,MEDIUM,20.0,1
+2024,Japanese Grand Prix,ALB,SOFT,,1
+2024,Japanese Grand Prix,ALO,SOFT,5.0,1
+2024,Japanese Grand Prix,BOT,SOFT,11.0,1
+2024,Japanese Grand Prix,GAS,SOFT,14.0,1
+2024,Japanese Grand Prix,HAM,MEDIUM,7.0,1
+2024,Japanese Grand Prix,HUL,SOFT,10.0,1
+2024,Japanese Grand Prix,LEC,MEDIUM,8.0,1
+2024,Japanese Grand Prix,MAG,MEDIUM,16.0,1
+2024,Japanese Grand Prix,NOR,MEDIUM,3.0,1
+2024,Japanese Grand Prix,OCO,SOFT,13.0,1
+2024,Japanese Grand Prix,PER,MEDIUM,2.0,1
+2024,Japanese Grand Prix,PIA,MEDIUM,6.0,1
+2024,Japanese Grand Prix,RIC,MEDIUM,,1
+2024,Japanese Grand Prix,RUS,MEDIUM,9.0,1
+2024,Japanese Grand Prix,SAI,MEDIUM,4.0,1
+2024,Japanese Grand Prix,SAR,SOFT,17.0,1
+2024,Japanese Grand Prix,STR,SOFT,15.0,1
+2024,Japanese Grand Prix,TSU,MEDIUM,12.0,1
+2024,Japanese Grand Prix,VER,MEDIUM,1.0,1
+2024,Japanese Grand Prix,ZHO,MEDIUM,18.0,1
+2024,Las Vegas Grand Prix,ALB,MEDIUM,16.0,1
+2024,Las Vegas Grand Prix,ALO,SOFT,15.0,1
+2024,Las Vegas Grand Prix,BOT,HARD,19.0,1
+2024,Las Vegas Grand Prix,COL,HARD,20.0,1
+2024,Las Vegas Grand Prix,GAS,MEDIUM,4.0,1
+2024,Las Vegas Grand Prix,HAM,MEDIUM,10.0,1
+2024,Las Vegas Grand Prix,HUL,MEDIUM,9.0,1
+2024,Las Vegas Grand Prix,LAW,MEDIUM,13.0,1
+2024,Las Vegas Grand Prix,LEC,MEDIUM,2.0,1
+2024,Las Vegas Grand Prix,MAG,MEDIUM,14.0,1
+2024,Las Vegas Grand Prix,NOR,MEDIUM,6.0,1
+2024,Las Vegas Grand Prix,OCO,MEDIUM,11.0,1
+2024,Las Vegas Grand Prix,PER,HARD,17.0,1
+2024,Las Vegas Grand Prix,PIA,MEDIUM,8.0,1
+2024,Las Vegas Grand Prix,RUS,MEDIUM,1.0,1
+2024,Las Vegas Grand Prix,SAI,MEDIUM,3.0,1
+2024,Las Vegas Grand Prix,STR,MEDIUM,18.0,1
+2024,Las Vegas Grand Prix,TSU,MEDIUM,7.0,1
+2024,Las Vegas Grand Prix,VER,MEDIUM,5.0,1
+2024,Las Vegas Grand Prix,ZHO,MEDIUM,12.0,1
+2024,Mexico City Grand Prix,ALB,MEDIUM,,1
+2024,Mexico City Grand Prix,ALO,MEDIUM,12.0,1
+2024,Mexico City Grand Prix,BOT,HARD,15.0,1
+2024,Mexico City Grand Prix,COL,HARD,14.0,1
+2024,Mexico City Grand Prix,GAS,MEDIUM,9.0,1
+2024,Mexico City Grand Prix,HAM,MEDIUM,5.0,1
+2024,Mexico City Grand Prix,HUL,MEDIUM,8.0,1
+2024,Mexico City Grand Prix,LAW,HARD,10.0,1
+2024,Mexico City Grand Prix,LEC,MEDIUM,4.0,1
+2024,Mexico City Grand Prix,MAG,MEDIUM,7.0,1
+2024,Mexico City Grand Prix,NOR,MEDIUM,3.0,1
+2024,Mexico City Grand Prix,OCO,HARD,18.0,1
+2024,Mexico City Grand Prix,PER,HARD,13.0,1
+2024,Mexico City Grand Prix,PIA,MEDIUM,17.0,1
+2024,Mexico City Grand Prix,RUS,MEDIUM,6.0,1
+2024,Mexico City Grand Prix,SAI,MEDIUM,2.0,1
+2024,Mexico City Grand Prix,STR,MEDIUM,11.0,1
+2024,Mexico City Grand Prix,TSU,MEDIUM,,1
+2024,Mexico City Grand Prix,VER,MEDIUM,1.0,1
+2024,Mexico City Grand Prix,ZHO,HARD,16.0,1
+2024,Miami Grand Prix,ALB,MEDIUM,15.0,1
+2024,Miami Grand Prix,ALO,HARD,12.0,1
+2024,Miami Grand Prix,BOT,SOFT,19.0,1
+2024,Miami Grand Prix,GAS,MEDIUM,13.0,1
+2024,Miami Grand Prix,HAM,HARD,7.0,1
+2024,Miami Grand Prix,HUL,MEDIUM,8.0,1
+2024,Miami Grand Prix,LEC,MEDIUM,2.0,1
+2024,Miami Grand Prix,MAG,HARD,17.0,1
+2024,Miami Grand Prix,NOR,MEDIUM,6.0,1
+2024,Miami Grand Prix,OCO,MEDIUM,14.0,1
+2024,Miami Grand Prix,PER,MEDIUM,5.0,1
+2024,Miami Grand Prix,PIA,MEDIUM,3.0,1
+2024,Miami Grand Prix,RIC,HARD,20.0,1
+2024,Miami Grand Prix,RUS,MEDIUM,10.0,1
+2024,Miami Grand Prix,SAI,MEDIUM,4.0,1
+2024,Miami Grand Prix,SAR,MEDIUM,16.0,1
+2024,Miami Grand Prix,STR,MEDIUM,11.0,1
+2024,Miami Grand Prix,TSU,MEDIUM,9.0,1
+2024,Miami Grand Prix,VER,MEDIUM,1.0,1
+2024,Miami Grand Prix,ZHO,MEDIUM,18.0,1
+2024,Monaco Grand Prix,ALB,MEDIUM,9.0,1
+2024,Monaco Grand Prix,ALO,HARD,13.0,1
+2024,Monaco Grand Prix,BOT,HARD,15.0,1
+2024,Monaco Grand Prix,GAS,HARD,10.0,1
+2024,Monaco Grand Prix,HAM,HARD,7.0,1
+2024,Monaco Grand Prix,HUL,MEDIUM,,1
+2024,Monaco Grand Prix,LEC,MEDIUM,1.0,1
+2024,Monaco Grand Prix,MAG,HARD,,1
+2024,Monaco Grand Prix,NOR,MEDIUM,4.0,1
+2024,Monaco Grand Prix,OCO,HARD,,1
+2024,Monaco Grand Prix,PER,HARD,,1
+2024,Monaco Grand Prix,PIA,MEDIUM,2.0,1
+2024,Monaco Grand Prix,RIC,MEDIUM,12.0,1
+2024,Monaco Grand Prix,RUS,HARD,5.0,1
+2024,Monaco Grand Prix,SAI,MEDIUM,3.0,1
+2024,Monaco Grand Prix,SAR,HARD,14.0,1
+2024,Monaco Grand Prix,STR,HARD,11.0,1
+2024,Monaco Grand Prix,TSU,MEDIUM,8.0,1
+2024,Monaco Grand Prix,VER,HARD,6.0,1
+2024,Monaco Grand Prix,ZHO,MEDIUM,16.0,1
+2024,Qatar Grand Prix,ALB,MEDIUM,16.0,1
+2024,Qatar Grand Prix,ALO,MEDIUM,8.0,1
+2024,Qatar Grand Prix,BOT,MEDIUM,13.0,1
+2024,Qatar Grand Prix,COL,MEDIUM,,1
+2024,Qatar Grand Prix,GAS,MEDIUM,12.0,1
+2024,Qatar Grand Prix,HAM,MEDIUM,9.0,1
+2024,Qatar Grand Prix,HUL,HARD,18.0,1
+2024,Qatar Grand Prix,LAW,MEDIUM,14.0,1
+2024,Qatar Grand Prix,LEC,MEDIUM,4.0,1
+2024,Qatar Grand Prix,MAG,MEDIUM,11.0,1
+2024,Qatar Grand Prix,NOR,MEDIUM,2.0,1
+2024,Qatar Grand Prix,OCO,MEDIUM,,1
+2024,Qatar Grand Prix,PER,MEDIUM,7.0,1
+2024,Qatar Grand Prix,PIA,MEDIUM,5.0,1
+2024,Qatar Grand Prix,RUS,MEDIUM,3.0,1
+2024,Qatar Grand Prix,SAI,MEDIUM,6.0,1
+2024,Qatar Grand Prix,STR,MEDIUM,17.0,1
+2024,Qatar Grand Prix,TSU,MEDIUM,10.0,1
+2024,Qatar Grand Prix,VER,MEDIUM,1.0,1
+2024,Qatar Grand Prix,ZHO,MEDIUM,15.0,1
+2024,Saudi Arabian Grand Prix,ALB,MEDIUM,13.0,1
+2024,Saudi Arabian Grand Prix,ALO,MEDIUM,4.0,1
+2024,Saudi Arabian Grand Prix,BEA,SOFT,11.0,1
+2024,Saudi Arabian Grand Prix,BOT,SOFT,17.0,1
+2024,Saudi Arabian Grand Prix,GAS,MEDIUM,20.0,1
+2024,Saudi Arabian Grand Prix,HAM,MEDIUM,8.0,1
+2024,Saudi Arabian Grand Prix,HUL,MEDIUM,14.0,1
+2024,Saudi Arabian Grand Prix,LEC,MEDIUM,2.0,1
+2024,Saudi Arabian Grand Prix,MAG,MEDIUM,12.0,1
+2024,Saudi Arabian Grand Prix,NOR,MEDIUM,6.0,1
+2024,Saudi Arabian Grand Prix,OCO,MEDIUM,16.0,1
+2024,Saudi Arabian Grand Prix,PER,MEDIUM,3.0,1
+2024,Saudi Arabian Grand Prix,PIA,MEDIUM,5.0,1
+2024,Saudi Arabian Grand Prix,RIC,MEDIUM,15.0,1
+2024,Saudi Arabian Grand Prix,RUS,MEDIUM,7.0,1
+2024,Saudi Arabian Grand Prix,SAR,MEDIUM,18.0,1
+2024,Saudi Arabian Grand Prix,STR,MEDIUM,9.0,1
+2024,Saudi Arabian Grand Prix,TSU,MEDIUM,10.0,1
+2024,Saudi Arabian Grand Prix,VER,MEDIUM,1.0,1
+2024,Saudi Arabian Grand Prix,ZHO,MEDIUM,19.0,1
+2024,São Paulo Grand Prix,ALO,INTERMEDIATE,8.0,1
+2024,São Paulo Grand Prix,BEA,INTERMEDIATE,13.0,1
+2024,São Paulo Grand Prix,BOT,INTERMEDIATE,15.0,1
+2024,São Paulo Grand Prix,COL,INTERMEDIATE,12.0,1
+2024,São Paulo Grand Prix,GAS,INTERMEDIATE,9.0,1
+2024,São Paulo Grand Prix,HAM,INTERMEDIATE,10.0,1
+2024,São Paulo Grand Prix,HUL,INTERMEDIATE,14.0,1
+2024,São Paulo Grand Prix,LAW,INTERMEDIATE,6.0,1
+2024,São Paulo Grand Prix,LEC,INTERMEDIATE,5.0,1
+2024,São Paulo Grand Prix,NOR,INTERMEDIATE,2.0,1
+2024,São Paulo Grand Prix,OCO,INTERMEDIATE,4.0,1
+2024,São Paulo Grand Prix,PER,INTERMEDIATE,18.0,1
+2024,São Paulo Grand Prix,PIA,INTERMEDIATE,7.0,1
+2024,São Paulo Grand Prix,RUS,INTERMEDIATE,1.0,1
+2024,São Paulo Grand Prix,SAI,INTERMEDIATE,17.0,1
+2024,São Paulo Grand Prix,TSU,INTERMEDIATE,3.0,1
+2024,São Paulo Grand Prix,VER,INTERMEDIATE,11.0,1
+2024,São Paulo Grand Prix,ZHO,INTERMEDIATE,16.0,1
+2024,Singapore Grand Prix,ALB,MEDIUM,15.0,1
+2024,Singapore Grand Prix,ALO,MEDIUM,7.0,1
+2024,Singapore Grand Prix,BOT,HARD,19.0,1
+2024,Singapore Grand Prix,COL,MEDIUM,9.0,1
+2024,Singapore Grand Prix,GAS,MEDIUM,17.0,1
+2024,Singapore Grand Prix,HAM,SOFT,3.0,1
+2024,Singapore Grand Prix,HUL,MEDIUM,6.0,1
+2024,Singapore Grand Prix,LEC,MEDIUM,8.0,1
+2024,Singapore Grand Prix,MAG,HARD,14.0,1
+2024,Singapore Grand Prix,NOR,MEDIUM,1.0,1
+2024,Singapore Grand Prix,OCO,MEDIUM,13.0,1
+2024,Singapore Grand Prix,PER,MEDIUM,10.0,1
+2024,Singapore Grand Prix,PIA,MEDIUM,5.0,1
+2024,Singapore Grand Prix,RIC,SOFT,16.0,1
+2024,Singapore Grand Prix,RUS,MEDIUM,4.0,1
+2024,Singapore Grand Prix,SAI,MEDIUM,12.0,1
+2024,Singapore Grand Prix,STR,HARD,18.0,1
+2024,Singapore Grand Prix,TSU,MEDIUM,11.0,1
+2024,Singapore Grand Prix,VER,MEDIUM,2.0,1
+2024,Singapore Grand Prix,ZHO,HARD,20.0,1
+2024,Spanish Grand Prix,ALB,MEDIUM,20.0,1
+2024,Spanish Grand Prix,ALO,SOFT,12.0,1
+2024,Spanish Grand Prix,BOT,SOFT,14.0,1
+2024,Spanish Grand Prix,GAS,SOFT,7.0,1
+2024,Spanish Grand Prix,HAM,SOFT,4.0,1
+2024,Spanish Grand Prix,HUL,SOFT,10.0,1
+2024,Spanish Grand Prix,LEC,SOFT,5.0,1
+2024,Spanish Grand Prix,MAG,SOFT,16.0,1
+2024,Spanish Grand Prix,NOR,SOFT,3.0,1
+2024,Spanish Grand Prix,OCO,SOFT,9.0,1
+2024,Spanish Grand Prix,PER,SOFT,11.0,1
+2024,Spanish Grand Prix,PIA,SOFT,8.0,1
+2024,Spanish Grand Prix,RIC,SOFT,19.0,1
+2024,Spanish Grand Prix,RUS,SOFT,1.0,1
+2024,Spanish Grand Prix,SAI,SOFT,6.0,1
+2024,Spanish Grand Prix,SAR,SOFT,18.0,1
+2024,Spanish Grand Prix,STR,SOFT,13.0,1
+2024,Spanish Grand Prix,TSU,SOFT,15.0,1
+2024,Spanish Grand Prix,VER,SOFT,2.0,1
+2024,Spanish Grand Prix,ZHO,SOFT,17.0,1
+2024,United States Grand Prix,ALB,MEDIUM,18.0,1
+2024,United States Grand Prix,ALO,MEDIUM,10.0,1
+2024,United States Grand Prix,BOT,MEDIUM,17.0,1
+2024,United States Grand Prix,COL,HARD,16.0,1
+2024,United States Grand Prix,GAS,MEDIUM,6.0,1
+2024,United States Grand Prix,HAM,HARD,12.0,1
+2024,United States Grand Prix,HUL,MEDIUM,11.0,1
+2024,United States Grand Prix,LAW,HARD,14.0,1
+2024,United States Grand Prix,LEC,MEDIUM,1.0,1
+2024,United States Grand Prix,MAG,MEDIUM,7.0,1
+2024,United States Grand Prix,NOR,MEDIUM,4.0,1
+2024,United States Grand Prix,OCO,MEDIUM,20.0,1
+2024,United States Grand Prix,PER,MEDIUM,9.0,1
+2024,United States Grand Prix,PIA,MEDIUM,5.0,1
+2024,United States Grand Prix,RUS,HARD,19.0,1
+2024,United States Grand Prix,SAI,MEDIUM,3.0,1
+2024,United States Grand Prix,STR,HARD,13.0,1
+2024,United States Grand Prix,TSU,MEDIUM,8.0,1
+2024,United States Grand Prix,VER,MEDIUM,2.0,1
+2024,United States Grand Prix,ZHO,MEDIUM,15.0,1
+2025,Abu Dhabi Grand Prix,ALB,SOFT,15.0,1
+2025,Abu Dhabi Grand Prix,ALO,MEDIUM,5.0,1
+2025,Abu Dhabi Grand Prix,ANT,HARD,17.0,1
+2025,Abu Dhabi Grand Prix,BEA,MEDIUM,12.0,1
+2025,Abu Dhabi Grand Prix,BOR,MEDIUM,7.0,1
+2025,Abu Dhabi Grand Prix,COL,MEDIUM,20.0,1
+2025,Abu Dhabi Grand Prix,GAS,MEDIUM,19.0,1
+2025,Abu Dhabi Grand Prix,HAD,MEDIUM,8.0,1
+2025,Abu Dhabi Grand Prix,HAM,SOFT,14.0,1
+2025,Abu Dhabi Grand Prix,HUL,SOFT,18.0,1
+2025,Abu Dhabi Grand Prix,LAW,MEDIUM,11.0,1
+2025,Abu Dhabi Grand Prix,LEC,MEDIUM,4.0,1
+2025,Abu Dhabi Grand Prix,NOR,MEDIUM,3.0,1
+2025,Abu Dhabi Grand Prix,OCO,MEDIUM,9.0,1
+2025,Abu Dhabi Grand Prix,PIA,HARD,2.0,1
+2025,Abu Dhabi Grand Prix,RUS,MEDIUM,6.0,1
+2025,Abu Dhabi Grand Prix,SAI,MEDIUM,13.0,1
+2025,Abu Dhabi Grand Prix,STR,HARD,16.0,1
+2025,Abu Dhabi Grand Prix,TSU,HARD,10.0,1
+2025,Abu Dhabi Grand Prix,VER,MEDIUM,1.0,1
+2025,Australian Grand Prix,ALB,INTERMEDIATE,7.0,1
+2025,Australian Grand Prix,ALO,INTERMEDIATE,10.0,1
+2025,Australian Grand Prix,ANT,INTERMEDIATE,13.0,1
+2025,Australian Grand Prix,BEA,INTERMEDIATE,17.0,1
+2025,Australian Grand Prix,BOR,INTERMEDIATE,14.0,1
+2025,Australian Grand Prix,DOO,INTERMEDIATE,,1
+2025,Australian Grand Prix,GAS,INTERMEDIATE,9.0,1
+2025,Australian Grand Prix,HAD,INTERMEDIATE,,1
+2025,Australian Grand Prix,HAM,INTERMEDIATE,8.0,1
+2025,Australian Grand Prix,HUL,INTERMEDIATE,12.0,1
+2025,Australian Grand Prix,LAW,INTERMEDIATE,16.0,1
+2025,Australian Grand Prix,LEC,INTERMEDIATE,5.0,1
+2025,Australian Grand Prix,NOR,INTERMEDIATE,1.0,1
+2025,Australian Grand Prix,OCO,INTERMEDIATE,15.0,1
+2025,Australian Grand Prix,PIA,INTERMEDIATE,3.0,1
+2025,Australian Grand Prix,RUS,INTERMEDIATE,4.0,1
+2025,Australian Grand Prix,SAI,INTERMEDIATE,,1
+2025,Australian Grand Prix,STR,INTERMEDIATE,11.0,1
+2025,Australian Grand Prix,TSU,INTERMEDIATE,6.0,1
+2025,Australian Grand Prix,VER,INTERMEDIATE,2.0,1
+2025,Austrian Grand Prix,ALB,MEDIUM,7.0,1
+2025,Austrian Grand Prix,ALO,MEDIUM,10.0,1
+2025,Austrian Grand Prix,ANT,MEDIUM,,1
+2025,Austrian Grand Prix,BEA,SOFT,12.0,1
+2025,Austrian Grand Prix,BOR,MEDIUM,8.0,1
+2025,Austrian Grand Prix,COL,SOFT,11.0,1
+2025,Austrian Grand Prix,GAS,SOFT,6.0,1
+2025,Austrian Grand Prix,HAD,SOFT,16.0,1
+2025,Austrian Grand Prix,HAM,MEDIUM,4.0,1
+2025,Austrian Grand Prix,HUL,SOFT,17.0,1
+2025,Austrian Grand Prix,LAW,MEDIUM,9.0,1
+2025,Austrian Grand Prix,LEC,MEDIUM,3.0,1
+2025,Austrian Grand Prix,NOR,MEDIUM,1.0,1
+2025,Austrian Grand Prix,OCO,MEDIUM,14.0,1
+2025,Austrian Grand Prix,PIA,MEDIUM,2.0,1
+2025,Austrian Grand Prix,RUS,MEDIUM,5.0,1
+2025,Austrian Grand Prix,STR,MEDIUM,13.0,1
+2025,Austrian Grand Prix,TSU,MEDIUM,15.0,1
+2025,Austrian Grand Prix,VER,MEDIUM,,1
+2025,Azerbaijan Grand Prix,ALB,MEDIUM,19.0,1
+2025,Azerbaijan Grand Prix,ALO,MEDIUM,11.0,1
+2025,Azerbaijan Grand Prix,ANT,MEDIUM,4.0,1
+2025,Azerbaijan Grand Prix,BEA,HARD,15.0,1
+2025,Azerbaijan Grand Prix,BOR,HARD,12.0,1
+2025,Azerbaijan Grand Prix,COL,MEDIUM,14.0,1
+2025,Azerbaijan Grand Prix,GAS,HARD,16.0,1
+2025,Azerbaijan Grand Prix,HAD,MEDIUM,7.0,1
+2025,Azerbaijan Grand Prix,HAM,HARD,10.0,1
+2025,Azerbaijan Grand Prix,HUL,HARD,17.0,1
+2025,Azerbaijan Grand Prix,LAW,MEDIUM,3.0,1
+2025,Azerbaijan Grand Prix,LEC,MEDIUM,9.0,1
+2025,Azerbaijan Grand Prix,NOR,MEDIUM,8.0,1
+2025,Azerbaijan Grand Prix,OCO,HARD,18.0,1
+2025,Azerbaijan Grand Prix,PIA,MEDIUM,,1
+2025,Azerbaijan Grand Prix,RUS,HARD,5.0,1
+2025,Azerbaijan Grand Prix,SAI,MEDIUM,2.0,1
+2025,Azerbaijan Grand Prix,STR,MEDIUM,13.0,1
+2025,Azerbaijan Grand Prix,TSU,HARD,6.0,1
+2025,Azerbaijan Grand Prix,VER,HARD,1.0,1
+2025,Bahrain Grand Prix,ALB,SOFT,14.0,1
+2025,Bahrain Grand Prix,ALO,MEDIUM,12.0,1
+2025,Bahrain Grand Prix,ANT,SOFT,7.0,1
+2025,Bahrain Grand Prix,BEA,SOFT,15.0,1
+2025,Bahrain Grand Prix,BOR,MEDIUM,19.0,1
+2025,Bahrain Grand Prix,DOO,SOFT,11.0,1
+2025,Bahrain Grand Prix,GAS,SOFT,5.0,1
+2025,Bahrain Grand Prix,HAD,SOFT,16.0,1
+2025,Bahrain Grand Prix,HAM,MEDIUM,9.0,1
+2025,Bahrain Grand Prix,HUL,SOFT,20.0,1
+2025,Bahrain Grand Prix,LAW,MEDIUM,17.0,1
+2025,Bahrain Grand Prix,LEC,MEDIUM,4.0,1
+2025,Bahrain Grand Prix,NOR,SOFT,3.0,1
+2025,Bahrain Grand Prix,OCO,SOFT,13.0,1
+2025,Bahrain Grand Prix,PIA,SOFT,1.0,1
+2025,Bahrain Grand Prix,RUS,SOFT,2.0,1
+2025,Bahrain Grand Prix,SAI,SOFT,6.0,1
+2025,Bahrain Grand Prix,STR,SOFT,18.0,1
+2025,Bahrain Grand Prix,TSU,SOFT,10.0,1
+2025,Bahrain Grand Prix,VER,SOFT,8.0,1
+2025,Belgian Grand Prix,ALB,INTERMEDIATE,5.0,1
+2025,Belgian Grand Prix,ALO,INTERMEDIATE,20.0,1
+2025,Belgian Grand Prix,ANT,INTERMEDIATE,19.0,1
+2025,Belgian Grand Prix,BEA,INTERMEDIATE,12.0,1
+2025,Belgian Grand Prix,BOR,INTERMEDIATE,10.0,1
+2025,Belgian Grand Prix,COL,INTERMEDIATE,15.0,1
+2025,Belgian Grand Prix,GAS,INTERMEDIATE,13.0,1
+2025,Belgian Grand Prix,HAD,INTERMEDIATE,8.0,1
+2025,Belgian Grand Prix,HAM,INTERMEDIATE,18.0,1
+2025,Belgian Grand Prix,HUL,INTERMEDIATE,14.0,1
+2025,Belgian Grand Prix,LAW,INTERMEDIATE,9.0,1
+2025,Belgian Grand Prix,LEC,INTERMEDIATE,3.0,1
+2025,Belgian Grand Prix,NOR,INTERMEDIATE,1.0,1
+2025,Belgian Grand Prix,OCO,INTERMEDIATE,11.0,1
+2025,Belgian Grand Prix,PIA,INTERMEDIATE,2.0,1
+2025,Belgian Grand Prix,RUS,INTERMEDIATE,6.0,1
+2025,Belgian Grand Prix,SAI,INTERMEDIATE,17.0,1
+2025,Belgian Grand Prix,STR,INTERMEDIATE,16.0,1
+2025,Belgian Grand Prix,TSU,INTERMEDIATE,7.0,1
+2025,Belgian Grand Prix,VER,INTERMEDIATE,4.0,1
+2025,British Grand Prix,ALB,INTERMEDIATE,9.0,1
+2025,British Grand Prix,ALO,INTERMEDIATE,6.0,1
+2025,British Grand Prix,ANT,INTERMEDIATE,8.0,1
+2025,British Grand Prix,BEA,HARD,18.0,1
+2025,British Grand Prix,BOR,MEDIUM,17.0,1
+2025,British Grand Prix,GAS,INTERMEDIATE,5.0,1
+2025,British Grand Prix,HAD,MEDIUM,16.0,1
+2025,British Grand Prix,HAM,INTERMEDIATE,4.0,1
+2025,British Grand Prix,HUL,INTERMEDIATE,11.0,1
+2025,British Grand Prix,LAW,INTERMEDIATE,,1
+2025,British Grand Prix,LEC,MEDIUM,15.0,1
+2025,British Grand Prix,NOR,INTERMEDIATE,3.0,1
+2025,British Grand Prix,OCO,INTERMEDIATE,13.0,1
+2025,British Grand Prix,PIA,INTERMEDIATE,2.0,1
+2025,British Grand Prix,RUS,HARD,14.0,1
+2025,British Grand Prix,SAI,INTERMEDIATE,7.0,1
+2025,British Grand Prix,STR,INTERMEDIATE,12.0,1
+2025,British Grand Prix,TSU,INTERMEDIATE,10.0,1
+2025,British Grand Prix,VER,INTERMEDIATE,1.0,1
+2025,Canadian Grand Prix,ALB,MEDIUM,12.0,1
+2025,Canadian Grand Prix,ALO,MEDIUM,6.0,1
+2025,Canadian Grand Prix,ANT,MEDIUM,3.0,1
+2025,Canadian Grand Prix,BEA,MEDIUM,13.0,1
+2025,Canadian Grand Prix,BOR,HARD,15.0,1
+2025,Canadian Grand Prix,COL,MEDIUM,10.0,1
+2025,Canadian Grand Prix,GAS,HARD,20.0,1
+2025,Canadian Grand Prix,HAD,MEDIUM,11.0,1
+2025,Canadian Grand Prix,HAM,MEDIUM,5.0,1
+2025,Canadian Grand Prix,HUL,MEDIUM,9.0,1
+2025,Canadian Grand Prix,LAW,HARD,19.0,1
+2025,Canadian Grand Prix,LEC,HARD,8.0,1
+2025,Canadian Grand Prix,NOR,HARD,7.0,1
+2025,Canadian Grand Prix,OCO,HARD,14.0,1
+2025,Canadian Grand Prix,PIA,MEDIUM,4.0,1
+2025,Canadian Grand Prix,RUS,MEDIUM,1.0,1
+2025,Canadian Grand Prix,SAI,HARD,16.0,1
+2025,Canadian Grand Prix,STR,HARD,18.0,1
+2025,Canadian Grand Prix,TSU,HARD,17.0,1
+2025,Canadian Grand Prix,VER,MEDIUM,2.0,1
+2025,Chinese Grand Prix,ALB,MEDIUM,11.0,1
+2025,Chinese Grand Prix,ALO,MEDIUM,12.0,1
+2025,Chinese Grand Prix,ANT,MEDIUM,7.0,1
+2025,Chinese Grand Prix,BEA,HARD,16.0,1
+2025,Chinese Grand Prix,BOR,MEDIUM,20.0,1
+2025,Chinese Grand Prix,DOO,MEDIUM,17.0,1
+2025,Chinese Grand Prix,GAS,MEDIUM,13.0,1
+2025,Chinese Grand Prix,HAD,MEDIUM,9.0,1
+2025,Chinese Grand Prix,HAM,MEDIUM,4.0,1
+2025,Chinese Grand Prix,HUL,MEDIUM,19.0,1
+2025,Chinese Grand Prix,LAW,HARD,18.0,1
+2025,Chinese Grand Prix,LEC,MEDIUM,5.0,1
+2025,Chinese Grand Prix,NOR,MEDIUM,2.0,1
+2025,Chinese Grand Prix,OCO,MEDIUM,10.0,1
+2025,Chinese Grand Prix,PIA,MEDIUM,1.0,1
+2025,Chinese Grand Prix,RUS,MEDIUM,3.0,1
+2025,Chinese Grand Prix,SAI,MEDIUM,15.0,1
+2025,Chinese Grand Prix,STR,HARD,14.0,1
+2025,Chinese Grand Prix,TSU,MEDIUM,8.0,1
+2025,Chinese Grand Prix,VER,MEDIUM,6.0,1
+2025,Dutch Grand Prix,ALB,MEDIUM,10.0,1
+2025,Dutch Grand Prix,ALO,MEDIUM,13.0,1
+2025,Dutch Grand Prix,ANT,MEDIUM,12.0,1
+2025,Dutch Grand Prix,BEA,HARD,20.0,1
+2025,Dutch Grand Prix,BOR,MEDIUM,18.0,1
+2025,Dutch Grand Prix,COL,SOFT,15.0,1
+2025,Dutch Grand Prix,GAS,MEDIUM,14.0,1
+2025,Dutch Grand Prix,HAD,MEDIUM,4.0,1
+2025,Dutch Grand Prix,HAM,MEDIUM,7.0,1
+2025,Dutch Grand Prix,HUL,SOFT,17.0,1
+2025,Dutch Grand Prix,LAW,MEDIUM,8.0,1
+2025,Dutch Grand Prix,LEC,MEDIUM,5.0,1
+2025,Dutch Grand Prix,NOR,MEDIUM,3.0,1
+2025,Dutch Grand Prix,OCO,HARD,16.0,1
+2025,Dutch Grand Prix,PIA,MEDIUM,1.0,1
+2025,Dutch Grand Prix,RUS,MEDIUM,6.0,1
+2025,Dutch Grand Prix,SAI,MEDIUM,9.0,1
+2025,Dutch Grand Prix,STR,MEDIUM,19.0,1
+2025,Dutch Grand Prix,TSU,SOFT,11.0,1
+2025,Dutch Grand Prix,VER,SOFT,2.0,1
+2025,Emilia Romagna Grand Prix,ALB,MEDIUM,7.0,1
+2025,Emilia Romagna Grand Prix,ALO,MEDIUM,5.0,1
+2025,Emilia Romagna Grand Prix,ANT,HARD,12.0,1
+2025,Emilia Romagna Grand Prix,BEA,HARD,18.0,1
+2025,Emilia Romagna Grand Prix,BOR,MEDIUM,14.0,1
+2025,Emilia Romagna Grand Prix,COL,MEDIUM,17.0,1
+2025,Emilia Romagna Grand Prix,GAS,MEDIUM,9.0,1
+2025,Emilia Romagna Grand Prix,HAD,MEDIUM,11.0,1
+2025,Emilia Romagna Grand Prix,HAM,HARD,13.0,1
+2025,Emilia Romagna Grand Prix,HUL,HARD,16.0,1
+2025,Emilia Romagna Grand Prix,LAW,MEDIUM,15.0,1
+2025,Emilia Romagna Grand Prix,LEC,MEDIUM,10.0,1
+2025,Emilia Romagna Grand Prix,NOR,MEDIUM,4.0,1
+2025,Emilia Romagna Grand Prix,OCO,MEDIUM,20.0,1
+2025,Emilia Romagna Grand Prix,PIA,MEDIUM,2.0,1
+2025,Emilia Romagna Grand Prix,RUS,MEDIUM,3.0,1
+2025,Emilia Romagna Grand Prix,SAI,MEDIUM,6.0,1
+2025,Emilia Romagna Grand Prix,STR,MEDIUM,8.0,1
+2025,Emilia Romagna Grand Prix,TSU,HARD,19.0,1
+2025,Emilia Romagna Grand Prix,VER,MEDIUM,1.0,1
+2025,Hungarian Grand Prix,ALB,SOFT,16.0,1
+2025,Hungarian Grand Prix,ALO,MEDIUM,4.0,1
+2025,Hungarian Grand Prix,ANT,MEDIUM,13.0,1
+2025,Hungarian Grand Prix,BEA,MEDIUM,10.0,1
+2025,Hungarian Grand Prix,BOR,MEDIUM,6.0,1
+2025,Hungarian Grand Prix,COL,MEDIUM,18.0,1
+2025,Hungarian Grand Prix,GAS,HARD,19.0,1
+2025,Hungarian Grand Prix,HAD,MEDIUM,11.0,1
+2025,Hungarian Grand Prix,HAM,HARD,14.0,1
+2025,Hungarian Grand Prix,HUL,SOFT,17.0,1
+2025,Hungarian Grand Prix,LAW,MEDIUM,8.0,1
+2025,Hungarian Grand Prix,LEC,MEDIUM,1.0,1
+2025,Hungarian Grand Prix,NOR,MEDIUM,5.0,1
+2025,Hungarian Grand Prix,OCO,MEDIUM,15.0,1
+2025,Hungarian Grand Prix,PIA,MEDIUM,2.0,1
+2025,Hungarian Grand Prix,RUS,MEDIUM,3.0,1
+2025,Hungarian Grand Prix,SAI,SOFT,12.0,1
+2025,Hungarian Grand Prix,STR,MEDIUM,7.0,1
+2025,Hungarian Grand Prix,TSU,MEDIUM,20.0,1
+2025,Hungarian Grand Prix,VER,MEDIUM,9.0,1
+2025,Italian Grand Prix,ALB,HARD,13.0,1
+2025,Italian Grand Prix,ALO,MEDIUM,6.0,1
+2025,Italian Grand Prix,ANT,MEDIUM,10.0,1
+2025,Italian Grand Prix,BEA,MEDIUM,11.0,1
+2025,Italian Grand Prix,BOR,MEDIUM,7.0,1
+2025,Italian Grand Prix,COL,MEDIUM,17.0,1
+2025,Italian Grand Prix,GAS,HARD,19.0,1
+2025,Italian Grand Prix,HAD,HARD,18.0,1
+2025,Italian Grand Prix,HAM,MEDIUM,8.0,1
+2025,Italian Grand Prix,LAW,SOFT,15.0,1
+2025,Italian Grand Prix,LEC,MEDIUM,4.0,1
+2025,Italian Grand Prix,NOR,MEDIUM,2.0,1
+2025,Italian Grand Prix,OCO,HARD,14.0,1
+2025,Italian Grand Prix,PIA,MEDIUM,3.0,1
+2025,Italian Grand Prix,RUS,MEDIUM,5.0,1
+2025,Italian Grand Prix,SAI,MEDIUM,12.0,1
+2025,Italian Grand Prix,STR,HARD,16.0,1
+2025,Italian Grand Prix,TSU,MEDIUM,9.0,1
+2025,Italian Grand Prix,VER,MEDIUM,1.0,1
+2025,Japanese Grand Prix,ALB,MEDIUM,9.0,1
+2025,Japanese Grand Prix,ALO,MEDIUM,11.0,1
+2025,Japanese Grand Prix,ANT,MEDIUM,6.0,1
+2025,Japanese Grand Prix,BEA,MEDIUM,10.0,1
+2025,Japanese Grand Prix,BOR,HARD,20.0,1
+2025,Japanese Grand Prix,DOO,SOFT,18.0,1
+2025,Japanese Grand Prix,GAS,MEDIUM,12.0,1
+2025,Japanese Grand Prix,HAD,MEDIUM,7.0,1
+2025,Japanese Grand Prix,HAM,HARD,8.0,1
+2025,Japanese Grand Prix,HUL,MEDIUM,15.0,1
+2025,Japanese Grand Prix,LAW,MEDIUM,14.0,1
+2025,Japanese Grand Prix,LEC,MEDIUM,4.0,1
+2025,Japanese Grand Prix,NOR,MEDIUM,2.0,1
+2025,Japanese Grand Prix,OCO,HARD,17.0,1
+2025,Japanese Grand Prix,PIA,MEDIUM,3.0,1
+2025,Japanese Grand Prix,RUS,MEDIUM,5.0,1
+2025,Japanese Grand Prix,SAI,MEDIUM,16.0,1
+2025,Japanese Grand Prix,STR,SOFT,19.0,1
+2025,Japanese Grand Prix,TSU,MEDIUM,13.0,1
+2025,Japanese Grand Prix,VER,MEDIUM,1.0,1
+2025,Las Vegas Grand Prix,ALB,HARD,15.0,1
+2025,Las Vegas Grand Prix,ALO,MEDIUM,10.0,1
+2025,Las Vegas Grand Prix,ANT,SOFT,14.0,1
+2025,Las Vegas Grand Prix,BEA,MEDIUM,8.0,1
+2025,Las Vegas Grand Prix,BOR,HARD,19.0,1
+2025,Las Vegas Grand Prix,COL,HARD,16.0,1
+2025,Las Vegas Grand Prix,GAS,MEDIUM,17.0,1
+2025,Las Vegas Grand Prix,HAD,MEDIUM,5.0,1
+2025,Las Vegas Grand Prix,HAM,HARD,13.0,1
+2025,Las Vegas Grand Prix,HUL,HARD,11.0,1
+2025,Las Vegas Grand Prix,LAW,MEDIUM,6.0,1
+2025,Las Vegas Grand Prix,LEC,MEDIUM,9.0,1
+2025,Las Vegas Grand Prix,NOR,MEDIUM,3.0,1
+2025,Las Vegas Grand Prix,OCO,MEDIUM,12.0,1
+2025,Las Vegas Grand Prix,PIA,MEDIUM,7.0,1
+2025,Las Vegas Grand Prix,RUS,MEDIUM,2.0,1
+2025,Las Vegas Grand Prix,SAI,MEDIUM,4.0,1
+2025,Las Vegas Grand Prix,STR,MEDIUM,,1
+2025,Las Vegas Grand Prix,TSU,MEDIUM,18.0,1
+2025,Las Vegas Grand Prix,VER,MEDIUM,1.0,1
+2025,Mexico City Grand Prix,ALB,HARD,18.0,1
+2025,Mexico City Grand Prix,ALO,SOFT,16.0,1
+2025,Mexico City Grand Prix,ANT,SOFT,7.0,1
+2025,Mexico City Grand Prix,BEA,SOFT,6.0,1
+2025,Mexico City Grand Prix,BOR,MEDIUM,13.0,1
+2025,Mexico City Grand Prix,COL,HARD,20.0,1
+2025,Mexico City Grand Prix,GAS,MEDIUM,15.0,1
+2025,Mexico City Grand Prix,HAD,MEDIUM,11.0,1
+2025,Mexico City Grand Prix,HAM,SOFT,3.0,1
+2025,Mexico City Grand Prix,HUL,SOFT,17.0,1
+2025,Mexico City Grand Prix,LAW,SOFT,14.0,1
+2025,Mexico City Grand Prix,LEC,SOFT,2.0,1
+2025,Mexico City Grand Prix,NOR,SOFT,1.0,1
+2025,Mexico City Grand Prix,OCO,SOFT,10.0,1
+2025,Mexico City Grand Prix,PIA,SOFT,9.0,1
+2025,Mexico City Grand Prix,RUS,SOFT,5.0,1
+2025,Mexico City Grand Prix,SAI,MEDIUM,12.0,1
+2025,Mexico City Grand Prix,STR,SOFT,19.0,1
+2025,Mexico City Grand Prix,TSU,MEDIUM,8.0,1
+2025,Mexico City Grand Prix,VER,MEDIUM,4.0,1
+2025,Miami Grand Prix,ALB,UNKNOWN,5.0,1
+2025,Miami Grand Prix,ALO,UNKNOWN,17.0,1
+2025,Miami Grand Prix,ANT,UNKNOWN,2.0,1
+2025,Miami Grand Prix,BEA,UNKNOWN,16.0,1
+2025,Miami Grand Prix,BOR,MEDIUM,13.0,1
+2025,Miami Grand Prix,DOO,MEDIUM,,1
+2025,Miami Grand Prix,GAS,UNKNOWN,18.0,1
+2025,Miami Grand Prix,HAD,MEDIUM,11.0,1
+2025,Miami Grand Prix,HAM,UNKNOWN,12.0,1
+2025,Miami Grand Prix,HUL,UNKNOWN,14.0,1
+2025,Miami Grand Prix,LAW,UNKNOWN,19.0,1
+2025,Miami Grand Prix,LEC,UNKNOWN,8.0,1
+2025,Miami Grand Prix,NOR,UNKNOWN,6.0,1
+2025,Miami Grand Prix,OCO,MEDIUM,10.0,1
+2025,Miami Grand Prix,PIA,UNKNOWN,3.0,1
+2025,Miami Grand Prix,RUS,UNKNOWN,4.0,1
+2025,Miami Grand Prix,SAI,UNKNOWN,7.0,1
+2025,Miami Grand Prix,STR,MEDIUM,15.0,1
+2025,Miami Grand Prix,TSU,UNKNOWN,9.0,1
+2025,Miami Grand Prix,VER,UNKNOWN,1.0,1
+2025,Monaco Grand Prix,ALB,MEDIUM,10.0,1
+2025,Monaco Grand Prix,ALO,HARD,6.0,1
+2025,Monaco Grand Prix,ANT,HARD,14.0,1
+2025,Monaco Grand Prix,BEA,MEDIUM,19.0,1
+2025,Monaco Grand Prix,BOR,MEDIUM,20.0,1
+2025,Monaco Grand Prix,COL,HARD,15.0,1
+2025,Monaco Grand Prix,GAS,MEDIUM,18.0,1
+2025,Monaco Grand Prix,HAD,MEDIUM,5.0,1
+2025,Monaco Grand Prix,HAM,HARD,7.0,1
+2025,Monaco Grand Prix,HUL,MEDIUM,12.0,1
+2025,Monaco Grand Prix,LAW,MEDIUM,9.0,1
+2025,Monaco Grand Prix,LEC,MEDIUM,2.0,1
+2025,Monaco Grand Prix,NOR,MEDIUM,1.0,1
+2025,Monaco Grand Prix,OCO,MEDIUM,8.0,1
+2025,Monaco Grand Prix,PIA,MEDIUM,3.0,1
+2025,Monaco Grand Prix,RUS,HARD,13.0,1
+2025,Monaco Grand Prix,SAI,HARD,11.0,1
+2025,Monaco Grand Prix,STR,HARD,16.0,1
+2025,Monaco Grand Prix,TSU,SOFT,17.0,1
+2025,Monaco Grand Prix,VER,HARD,4.0,1
+2025,Qatar Grand Prix,ALB,HARD,17.0,1
+2025,Qatar Grand Prix,ALO,MEDIUM,6.0,1
+2025,Qatar Grand Prix,ANT,MEDIUM,4.0,1
+2025,Qatar Grand Prix,BEA,MEDIUM,12.0,1
+2025,Qatar Grand Prix,BOR,MEDIUM,18.0,1
+2025,Qatar Grand Prix,COL,HARD,20.0,1
+2025,Qatar Grand Prix,GAS,MEDIUM,9.0,1
+2025,Qatar Grand Prix,HAD,MEDIUM,8.0,1
+2025,Qatar Grand Prix,HAM,SOFT,14.0,1
+2025,Qatar Grand Prix,HUL,SOFT,11.0,1
+2025,Qatar Grand Prix,LAW,MEDIUM,13.0,1
+2025,Qatar Grand Prix,LEC,MEDIUM,10.0,1
+2025,Qatar Grand Prix,NOR,MEDIUM,3.0,1
+2025,Qatar Grand Prix,OCO,MEDIUM,15.0,1
+2025,Qatar Grand Prix,PIA,MEDIUM,1.0,1
+2025,Qatar Grand Prix,RUS,MEDIUM,7.0,1
+2025,Qatar Grand Prix,SAI,MEDIUM,5.0,1
+2025,Qatar Grand Prix,STR,MEDIUM,19.0,1
+2025,Qatar Grand Prix,TSU,MEDIUM,16.0,1
+2025,Qatar Grand Prix,VER,MEDIUM,2.0,1
+2025,Saudi Arabian Grand Prix,ALB,MEDIUM,9.0,1
+2025,Saudi Arabian Grand Prix,ALO,MEDIUM,10.0,1
+2025,Saudi Arabian Grand Prix,ANT,MEDIUM,5.0,1
+2025,Saudi Arabian Grand Prix,BEA,MEDIUM,13.0,1
+2025,Saudi Arabian Grand Prix,BOR,MEDIUM,18.0,1
+2025,Saudi Arabian Grand Prix,DOO,MEDIUM,16.0,1
+2025,Saudi Arabian Grand Prix,GAS,MEDIUM,,1
+2025,Saudi Arabian Grand Prix,HAD,HARD,11.0,1
+2025,Saudi Arabian Grand Prix,HAM,MEDIUM,6.0,1
+2025,Saudi Arabian Grand Prix,HUL,HARD,15.0,1
+2025,Saudi Arabian Grand Prix,LAW,MEDIUM,12.0,1
+2025,Saudi Arabian Grand Prix,LEC,MEDIUM,4.0,1
+2025,Saudi Arabian Grand Prix,NOR,HARD,8.0,1
+2025,Saudi Arabian Grand Prix,OCO,MEDIUM,17.0,1
+2025,Saudi Arabian Grand Prix,PIA,MEDIUM,2.0,1
+2025,Saudi Arabian Grand Prix,RUS,MEDIUM,3.0,1
+2025,Saudi Arabian Grand Prix,SAI,MEDIUM,7.0,1
+2025,Saudi Arabian Grand Prix,STR,HARD,14.0,1
+2025,Saudi Arabian Grand Prix,TSU,MEDIUM,19.0,1
+2025,Saudi Arabian Grand Prix,VER,MEDIUM,1.0,1
+2025,São Paulo Grand Prix,ALB,MEDIUM,11.0,1
+2025,São Paulo Grand Prix,ALO,HARD,10.0,1
+2025,São Paulo Grand Prix,ANT,SOFT,2.0,1
+2025,São Paulo Grand Prix,BEA,SOFT,9.0,1
+2025,São Paulo Grand Prix,BOR,SOFT,,1
+2025,São Paulo Grand Prix,COL,MEDIUM,16.0,1
+2025,São Paulo Grand Prix,GAS,SOFT,8.0,1
+2025,São Paulo Grand Prix,HAD,SOFT,5.0,1
+2025,São Paulo Grand Prix,HAM,SOFT,17.0,1
+2025,São Paulo Grand Prix,HUL,MEDIUM,12.0,1
+2025,São Paulo Grand Prix,LAW,SOFT,6.0,1
+2025,São Paulo Grand Prix,LEC,MEDIUM,3.0,1
+2025,São Paulo Grand Prix,NOR,MEDIUM,1.0,1
+2025,São Paulo Grand Prix,OCO,HARD,19.0,1
+2025,São Paulo Grand Prix,PIA,MEDIUM,4.0,1
+2025,São Paulo Grand Prix,RUS,MEDIUM,7.0,1
+2025,São Paulo Grand Prix,SAI,SOFT,13.0,1
+2025,São Paulo Grand Prix,STR,HARD,15.0,1
+2025,São Paulo Grand Prix,TSU,HARD,14.0,1
+2025,São Paulo Grand Prix,VER,HARD,18.0,1
+2025,Singapore Grand Prix,ALB,MEDIUM,20.0,1
+2025,Singapore Grand Prix,ALO,SOFT,9.0,1
+2025,Singapore Grand Prix,ANT,MEDIUM,6.0,1
+2025,Singapore Grand Prix,BEA,MEDIUM,10.0,1
+2025,Singapore Grand Prix,BOR,MEDIUM,15.0,1
+2025,Singapore Grand Prix,COL,SOFT,13.0,1
+2025,Singapore Grand Prix,GAS,MEDIUM,19.0,1
+2025,Singapore Grand Prix,HAD,SOFT,8.0,1
+2025,Singapore Grand Prix,HAM,MEDIUM,7.0,1
+2025,Singapore Grand Prix,HUL,MEDIUM,11.0,1
+2025,Singapore Grand Prix,LAW,MEDIUM,12.0,1
+2025,Singapore Grand Prix,LEC,MEDIUM,5.0,1
+2025,Singapore Grand Prix,NOR,MEDIUM,3.0,1
+2025,Singapore Grand Prix,OCO,MEDIUM,17.0,1
+2025,Singapore Grand Prix,PIA,MEDIUM,4.0,1
+2025,Singapore Grand Prix,RUS,MEDIUM,1.0,1
+2025,Singapore Grand Prix,SAI,MEDIUM,18.0,1
+2025,Singapore Grand Prix,STR,SOFT,14.0,1
+2025,Singapore Grand Prix,TSU,SOFT,16.0,1
+2025,Singapore Grand Prix,VER,SOFT,2.0,1
+2025,Spanish Grand Prix,ALB,SOFT,14.0,1
+2025,Spanish Grand Prix,ALO,SOFT,10.0,1
+2025,Spanish Grand Prix,ANT,SOFT,7.0,1
+2025,Spanish Grand Prix,BEA,SOFT,15.0,1
+2025,Spanish Grand Prix,BOR,SOFT,12.0,1
+2025,Spanish Grand Prix,COL,SOFT,18.0,1
+2025,Spanish Grand Prix,GAS,SOFT,8.0,1
+2025,Spanish Grand Prix,HAD,SOFT,9.0,1
+2025,Spanish Grand Prix,HAM,SOFT,4.0,1
+2025,Spanish Grand Prix,HUL,SOFT,11.0,1
+2025,Spanish Grand Prix,LAW,SOFT,13.0,1
+2025,Spanish Grand Prix,LEC,SOFT,5.0,1
+2025,Spanish Grand Prix,NOR,SOFT,3.0,1
+2025,Spanish Grand Prix,OCO,SOFT,16.0,1
+2025,Spanish Grand Prix,PIA,SOFT,1.0,1
+2025,Spanish Grand Prix,RUS,SOFT,6.0,1
+2025,Spanish Grand Prix,SAI,SOFT,17.0,1
+2025,Spanish Grand Prix,TSU,MEDIUM,19.0,1
+2025,Spanish Grand Prix,VER,SOFT,2.0,1
+2025,United States Grand Prix,ALB,HARD,20.0,1
+2025,United States Grand Prix,ALO,MEDIUM,12.0,1
+2025,United States Grand Prix,ANT,MEDIUM,7.0,1
+2025,United States Grand Prix,BEA,MEDIUM,8.0,1
+2025,United States Grand Prix,BOR,SOFT,16.0,1
+2025,United States Grand Prix,COL,MEDIUM,17.0,1
+2025,United States Grand Prix,GAS,MEDIUM,14.0,1
+2025,United States Grand Prix,HAD,HARD,19.0,1
+2025,United States Grand Prix,HAM,MEDIUM,4.0,1
+2025,United States Grand Prix,HUL,MEDIUM,11.0,1
+2025,United States Grand Prix,LAW,MEDIUM,13.0,1
+2025,United States Grand Prix,LEC,SOFT,2.0,1
+2025,United States Grand Prix,NOR,MEDIUM,3.0,1
+2025,United States Grand Prix,OCO,HARD,15.0,1
+2025,United States Grand Prix,PIA,MEDIUM,5.0,1
+2025,United States Grand Prix,RUS,MEDIUM,6.0,1
+2025,United States Grand Prix,SAI,MEDIUM,9.0,1
+2025,United States Grand Prix,STR,SOFT,18.0,1
+2025,United States Grand Prix,TSU,MEDIUM,10.0,1
+2025,United States Grand Prix,VER,MEDIUM,1.0,1

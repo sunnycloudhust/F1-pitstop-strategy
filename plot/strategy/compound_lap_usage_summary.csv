@@ -1,0 +1,535 @@
+RaceYear,RaceName,Compound,lap_samples,driver_laps
+2018,Abu Dhabi Grand Prix,HYPERSOFT,50,18
+2018,Abu Dhabi Grand Prix,SUPERSOFT,625,55
+2018,Abu Dhabi Grand Prix,ULTRASOFT,268,55
+2018,Australian Grand Prix,SOFT,385,57
+2018,Australian Grand Prix,SUPERSOFT,164,58
+2018,Australian Grand Prix,ULTRASOFT,371,57
+2018,Australian Grand Prix,UNKNOWN,20,2
+2018,Austrian Grand Prix,SOFT,791,70
+2018,Austrian Grand Prix,SUPERSOFT,316,70
+2018,Austrian Grand Prix,ULTRASOFT,117,36
+2018,Austrian Grand Prix,UNKNOWN,20,2
+2018,Azerbaijan Grand Prix,SOFT,294,40
+2018,Azerbaijan Grand Prix,SUPERSOFT,292,51
+2018,Azerbaijan Grand Prix,ULTRASOFT,248,51
+2018,Azerbaijan Grand Prix,UNKNOWN,14,2
+2018,Bahrain Grand Prix,MEDIUM,272,54
+2018,Bahrain Grand Prix,SOFT,331,56
+2018,Bahrain Grand Prix,SUPERSOFT,373,56
+2018,Bahrain Grand Prix,UNKNOWN,22,2
+2018,Belgian Grand Prix,MEDIUM,55,28
+2018,Belgian Grand Prix,SOFT,274,44
+2018,Belgian Grand Prix,SUPERSOFT,363,44
+2018,Belgian Grand Prix,UNKNOWN,1,1
+2018,Brazilian Grand Prix,MEDIUM,538,71
+2018,Brazilian Grand Prix,SOFT,383,71
+2018,Brazilian Grand Prix,SUPERSOFT,397,70
+2018,British Grand Prix,HARD,47,35
+2018,British Grand Prix,MEDIUM,356,51
+2018,British Grand Prix,SOFT,478,47
+2018,British Grand Prix,UNKNOWN,21,2
+2018,Canadian Grand Prix,HYPERSOFT,117,43
+2018,Canadian Grand Prix,SUPERSOFT,821,69
+2018,Canadian Grand Prix,ULTRASOFT,264,68
+2018,Canadian Grand Prix,UNKNOWN,17,2
+2018,Chinese Grand Prix,MEDIUM,142,55
+2018,Chinese Grand Prix,SOFT,606,55
+2018,Chinese Grand Prix,ULTRASOFT,346,55
+2018,Chinese Grand Prix,UNKNOWN,21,2
+2018,French Grand Prix,SOFT,358,52
+2018,French Grand Prix,SUPERSOFT,245,53
+2018,French Grand Prix,ULTRASOFT,303,53
+2018,French Grand Prix,UNKNOWN,14,2
+2018,German Grand Prix,INTERMEDIATE,32,13
+2018,German Grand Prix,MEDIUM,256,51
+2018,German Grand Prix,SOFT,493,66
+2018,German Grand Prix,ULTRASOFT,447,57
+2018,German Grand Prix,UNKNOWN,21,2
+2018,German Grand Prix,WET,3,3
+2018,Hungarian Grand Prix,MEDIUM,301,68
+2018,Hungarian Grand Prix,SOFT,592,70
+2018,Hungarian Grand Prix,ULTRASOFT,320,62
+2018,Hungarian Grand Prix,UNKNOWN,20,2
+2018,Japanese Grand Prix,MEDIUM,423,52
+2018,Japanese Grand Prix,SOFT,342,52
+2018,Japanese Grand Prix,SUPERSOFT,191,42
+2018,Japanese Grand Prix,UNKNOWN,21,2
+2018,Mexican Grand Prix,HYPERSOFT,73,26
+2018,Mexican Grand Prix,SUPERSOFT,867,71
+2018,Mexican Grand Prix,ULTRASOFT,305,65
+2018,Monaco Grand Prix,HYPERSOFT,329,77
+2018,Monaco Grand Prix,SUPERSOFT,585,69
+2018,Monaco Grand Prix,ULTRASOFT,581,77
+2018,Monaco Grand Prix,UNKNOWN,21,2
+2018,Russian Grand Prix,HYPERSOFT,56,11
+2018,Russian Grand Prix,SOFT,715,52
+2018,Russian Grand Prix,ULTRASOFT,156,38
+2018,Russian Grand Prix,UNKNOWN,21,2
+2018,Singapore Grand Prix,HYPERSOFT,262,51
+2018,Singapore Grand Prix,SOFT,397,60
+2018,Singapore Grand Prix,ULTRASOFT,467,60
+2018,Singapore Grand Prix,UNKNOWN,20,2
+2018,Spanish Grand Prix,MEDIUM,580,65
+2018,Spanish Grand Prix,SOFT,381,63
+2018,Spanish Grand Prix,SUPERSOFT,42,42
+2018,Spanish Grand Prix,UNKNOWN,18,2
+2018,United States Grand Prix,SOFT,501,56
+2018,United States Grand Prix,SUPERSOFT,268,56
+2018,United States Grand Prix,ULTRASOFT,130,44
+2018,United States Grand Prix,UNKNOWN,33,33
+2019,Abu Dhabi Grand Prix,HARD,588,55
+2019,Abu Dhabi Grand Prix,MEDIUM,367,55
+2019,Abu Dhabi Grand Prix,SOFT,120,50
+2019,Australian Grand Prix,HARD,264,58
+2019,Australian Grand Prix,MEDIUM,472,58
+2019,Australian Grand Prix,SOFT,305,57
+2019,Austrian Grand Prix,HARD,758,60
+2019,Austrian Grand Prix,MEDIUM,440,70
+2019,Austrian Grand Prix,SOFT,203,50
+2019,Azerbaijan Grand Prix,MEDIUM,724,51
+2019,Azerbaijan Grand Prix,SOFT,224,31
+2019,Bahrain Grand Prix,HARD,16,16
+2019,Bahrain Grand Prix,MEDIUM,615,57
+2019,Bahrain Grand Prix,SOFT,452,57
+2019,Belgian Grand Prix,MEDIUM,417,44
+2019,Belgian Grand Prix,SOFT,370,44
+2019,Brazilian Grand Prix,HARD,100,28
+2019,Brazilian Grand Prix,MEDIUM,526,71
+2019,Brazilian Grand Prix,SOFT,759,71
+2019,British Grand Prix,HARD,445,48
+2019,British Grand Prix,MEDIUM,324,52
+2019,British Grand Prix,SOFT,145,48
+2019,Canadian Grand Prix,HARD,944,70
+2019,Canadian Grand Prix,MEDIUM,310,70
+2019,Canadian Grand Prix,SOFT,58,28
+2019,Chinese Grand Prix,HARD,432,54
+2019,Chinese Grand Prix,MEDIUM,458,56
+2019,Chinese Grand Prix,SOFT,156,45
+2019,French Grand Prix,HARD,615,53
+2019,French Grand Prix,MEDIUM,396,46
+2019,French Grand Prix,SOFT,26,19
+2019,German Grand Prix,INTERMEDIATE,685,45
+2019,German Grand Prix,MEDIUM,15,5
+2019,German Grand Prix,SOFT,282,28
+2019,German Grand Prix,WET,77,8
+2019,Hungarian Grand Prix,HARD,669,70
+2019,Hungarian Grand Prix,MEDIUM,445,70
+2019,Hungarian Grand Prix,SOFT,244,63
+2019,Italian Grand Prix,HARD,126,47
+2019,Italian Grand Prix,MEDIUM,457,53
+2019,Italian Grand Prix,SOFT,408,53
+2019,Japanese Grand Prix,HARD,182,37
+2019,Japanese Grand Prix,MEDIUM,443,53
+2019,Japanese Grand Prix,SOFT,380,53
+2019,Mexican Grand Prix,HARD,799,71
+2019,Mexican Grand Prix,MEDIUM,525,71
+2019,Mexican Grand Prix,SOFT,46,15
+2019,Monaco Grand Prix,HARD,501,69
+2019,Monaco Grand Prix,MEDIUM,606,78
+2019,Monaco Grand Prix,SOFT,383,78
+2019,Russian Grand Prix,HARD,53,27
+2019,Russian Grand Prix,MEDIUM,436,53
+2019,Russian Grand Prix,SOFT,412,53
+2019,Singapore Grand Prix,HARD,617,61
+2019,Singapore Grand Prix,MEDIUM,299,61
+2019,Singapore Grand Prix,SOFT,249,52
+2019,Spanish Grand Prix,HARD,94,40
+2019,Spanish Grand Prix,MEDIUM,553,66
+2019,Spanish Grand Prix,SOFT,629,66
+2019,United States Grand Prix,HARD,464,56
+2019,United States Grand Prix,MEDIUM,331,56
+2019,United States Grand Prix,SOFT,237,48
+2020,70th Anniversary Grand Prix,HARD,686,52
+2020,70th Anniversary Grand Prix,MEDIUM,331,52
+2020,70th Anniversary Grand Prix,SOFT,8,8
+2020,Abu Dhabi Grand Prix,HARD,758,55
+2020,Abu Dhabi Grand Prix,MEDIUM,231,51
+2020,Abu Dhabi Grand Prix,SOFT,55,15
+2020,Austrian Grand Prix,HARD,456,49
+2020,Austrian Grand Prix,MEDIUM,328,67
+2020,Austrian Grand Prix,SOFT,277,45
+2020,Bahrain Grand Prix,HARD,540,57
+2020,Bahrain Grand Prix,MEDIUM,436,57
+2020,Bahrain Grand Prix,SOFT,43,24
+2020,Belgian Grand Prix,HARD,376,44
+2020,Belgian Grand Prix,MEDIUM,167,31
+2020,Belgian Grand Prix,SOFT,225,44
+2020,British Grand Prix,HARD,624,46
+2020,British Grand Prix,MEDIUM,204,52
+2020,British Grand Prix,SOFT,69,18
+2020,Eifel Grand Prix,HARD,103,49
+2020,Eifel Grand Prix,MEDIUM,478,60
+2020,Eifel Grand Prix,SOFT,438,48
+2020,Emilia Romagna Grand Prix,HARD,478,62
+2020,Emilia Romagna Grand Prix,MEDIUM,426,63
+2020,Emilia Romagna Grand Prix,SOFT,227,32
+2020,Hungarian Grand Prix,HARD,531,52
+2020,Hungarian Grand Prix,INTERMEDIATE,56,4
+2020,Hungarian Grand Prix,MEDIUM,644,69
+2020,Hungarian Grand Prix,SOFT,96,36
+2020,Italian Grand Prix,HARD,172,53
+2020,Italian Grand Prix,MEDIUM,415,53
+2020,Italian Grand Prix,SOFT,339,53
+2020,Portuguese Grand Prix,HARD,368,66
+2020,Portuguese Grand Prix,MEDIUM,703,66
+2020,Portuguese Grand Prix,SOFT,217,59
+2020,Russian Grand Prix,HARD,548,53
+2020,Russian Grand Prix,MEDIUM,308,53
+2020,Russian Grand Prix,SOFT,92,22
+2020,Sakhir Grand Prix,HARD,363,64
+2020,Sakhir Grand Prix,MEDIUM,723,87
+2020,Sakhir Grand Prix,SOFT,448,76
+2020,Spanish Grand Prix,HARD,22,22
+2020,Spanish Grand Prix,MEDIUM,685,66
+2020,Spanish Grand Prix,SOFT,567,65
+2020,Styrian Grand Prix,HARD,62,49
+2020,Styrian Grand Prix,MEDIUM,594,71
+2020,Styrian Grand Prix,SOFT,570,71
+2020,Turkish Grand Prix,INTERMEDIATE,917,58
+2020,Turkish Grand Prix,WET,160,12
+2020,Tuscan Grand Prix,HARD,99,24
+2020,Tuscan Grand Prix,MEDIUM,226,45
+2020,Tuscan Grand Prix,SOFT,461,49
+2021,Abu Dhabi Grand Prix,HARD,565,58
+2021,Abu Dhabi Grand Prix,MEDIUM,276,53
+2021,Abu Dhabi Grand Prix,SOFT,159,27
+2021,Austrian Grand Prix,HARD,850,71
+2021,Austrian Grand Prix,MEDIUM,432,68
+2021,Austrian Grand Prix,SOFT,56,17
+2021,Azerbaijan Grand Prix,HARD,677,48
+2021,Azerbaijan Grand Prix,MEDIUM,23,13
+2021,Azerbaijan Grand Prix,SOFT,243,35
+2021,Bahrain Grand Prix,HARD,418,52
+2021,Bahrain Grand Prix,MEDIUM,494,56
+2021,Bahrain Grand Prix,SOFT,115,15
+2021,Belgian Grand Prix,UNKNOWN,60,3
+2021,British Grand Prix,HARD,514,52
+2021,British Grand Prix,MEDIUM,447,48
+2021,British Grand Prix,SOFT,9,6
+2021,Dutch Grand Prix,HARD,453,72
+2021,Dutch Grand Prix,MEDIUM,522,71
+2021,Dutch Grand Prix,SOFT,386,59
+2021,Emilia Romagna Grand Prix,INTERMEDIATE,466,28
+2021,Emilia Romagna Grand Prix,MEDIUM,460,43
+2021,Emilia Romagna Grand Prix,SOFT,169,42
+2021,Emilia Romagna Grand Prix,WET,32,14
+2021,French Grand Prix,HARD,644,53
+2021,French Grand Prix,MEDIUM,388,49
+2021,French Grand Prix,SOFT,19,19
+2021,Hungarian Grand Prix,HARD,524,55
+2021,Hungarian Grand Prix,INTERMEDIATE,51,4
+2021,Hungarian Grand Prix,MEDIUM,392,67
+2021,Hungarian Grand Prix,SOFT,18,17
+2021,Italian Grand Prix,HARD,433,53
+2021,Italian Grand Prix,MEDIUM,451,53
+2021,Italian Grand Prix,SOFT,7,7
+2021,Mexico City Grand Prix,HARD,697,70
+2021,Mexico City Grand Prix,MEDIUM,543,70
+2021,Mexico City Grand Prix,SOFT,21,20
+2021,Monaco Grand Prix,HARD,714,78
+2021,Monaco Grand Prix,MEDIUM,238,77
+2021,Monaco Grand Prix,SOFT,467,70
+2021,Portuguese Grand Prix,HARD,429,45
+2021,Portuguese Grand Prix,MEDIUM,623,66
+2021,Portuguese Grand Prix,SOFT,193,62
+2021,Qatar Grand Prix,HARD,414,40
+2021,Qatar Grand Prix,MEDIUM,466,57
+2021,Qatar Grand Prix,SOFT,234,52
+2021,Russian Grand Prix,HARD,609,51
+2021,Russian Grand Prix,INTERMEDIATE,67,7
+2021,Russian Grand Prix,MEDIUM,347,51
+2021,Russian Grand Prix,SOFT,2,2
+2021,Saudi Arabian Grand Prix,HARD,407,50
+2021,Saudi Arabian Grand Prix,MEDIUM,423,50
+2021,Saudi Arabian Grand Prix,SOFT,15,15
+2021,São Paulo Grand Prix,HARD,746,70
+2021,São Paulo Grand Prix,MEDIUM,608,70
+2021,São Paulo Grand Prix,SOFT,6,6
+2021,Spanish Grand Prix,MEDIUM,630,66
+2021,Spanish Grand Prix,SOFT,617,57
+2021,Styrian Grand Prix,HARD,714,71
+2021,Styrian Grand Prix,MEDIUM,416,71
+2021,Styrian Grand Prix,SOFT,166,33
+2021,Turkish Grand Prix,INTERMEDIATE,1146,58
+2021,Turkish Grand Prix,MEDIUM,1,1
+2021,United States Grand Prix,HARD,673,55
+2021,United States Grand Prix,MEDIUM,351,54
+2021,United States Grand Prix,SOFT,20,11
+2022,Abu Dhabi Grand Prix,HARD,618,58
+2022,Abu Dhabi Grand Prix,MEDIUM,452,55
+2022,Abu Dhabi Grand Prix,SOFT,47,34
+2022,Australian Grand Prix,HARD,735,58
+2022,Australian Grand Prix,MEDIUM,309,41
+2022,Australian Grand Prix,SOFT,1,1
+2022,Austrian Grand Prix,HARD,626,70
+2022,Austrian Grand Prix,MEDIUM,399,71
+2022,Austrian Grand Prix,UNKNOWN,299,36
+2022,Azerbaijan Grand Prix,HARD,617,51
+2022,Azerbaijan Grand Prix,MEDIUM,262,44
+2022,Azerbaijan Grand Prix,SOFT,12,12
+2022,Bahrain Grand Prix,HARD,105,34
+2022,Bahrain Grand Prix,MEDIUM,345,46
+2022,Bahrain Grand Prix,SOFT,675,57
+2022,Belgian Grand Prix,HARD,260,44
+2022,Belgian Grand Prix,MEDIUM,438,44
+2022,Belgian Grand Prix,SOFT,94,37
+2022,British Grand Prix,HARD,184,38
+2022,British Grand Prix,MEDIUM,413,52
+2022,British Grand Prix,SOFT,218,42
+2022,Canadian Grand Prix,HARD,907,70
+2022,Canadian Grand Prix,MEDIUM,357,57
+2022,Dutch Grand Prix,HARD,332,45
+2022,Dutch Grand Prix,MEDIUM,513,72
+2022,Dutch Grand Prix,SOFT,547,62
+2022,Emilia Romagna Grand Prix,HARD,32,32
+2022,Emilia Romagna Grand Prix,INTERMEDIATE,329,19
+2022,Emilia Romagna Grand Prix,MEDIUM,722,47
+2022,Emilia Romagna Grand Prix,SOFT,49,14
+2022,French Grand Prix,HARD,597,53
+2022,French Grand Prix,MEDIUM,361,53
+2022,Hungarian Grand Prix,HARD,273,64
+2022,Hungarian Grand Prix,MEDIUM,753,70
+2022,Hungarian Grand Prix,SOFT,357,55
+2022,Italian Grand Prix,HARD,293,46
+2022,Italian Grand Prix,MEDIUM,424,53
+2022,Italian Grand Prix,SOFT,254,48
+2022,Japanese Grand Prix,INTERMEDIATE,414,26
+2022,Japanese Grand Prix,WET,93,10
+2022,Mexico City Grand Prix,HARD,237,48
+2022,Mexico City Grand Prix,MEDIUM,706,71
+2022,Mexico City Grand Prix,SOFT,436,71
+2022,Miami Grand Prix,HARD,610,57
+2022,Miami Grand Prix,MEDIUM,394,53
+2022,Miami Grand Prix,SOFT,53,17
+2022,Monaco Grand Prix,HARD,393,62
+2022,Monaco Grand Prix,INTERMEDIATE,115,24
+2022,Monaco Grand Prix,MEDIUM,346,42
+2022,Monaco Grand Prix,SOFT,7,7
+2022,Monaco Grand Prix,UNKNOWN,35,35
+2022,Monaco Grand Prix,WET,283,21
+2022,Saudi Arabian Grand Prix,HARD,560,50
+2022,Saudi Arabian Grand Prix,MEDIUM,260,30
+2022,São Paulo Grand Prix,HARD,16,16
+2022,São Paulo Grand Prix,MEDIUM,597,71
+2022,São Paulo Grand Prix,SOFT,646,71
+2022,Singapore Grand Prix,INTERMEDIATE,588,36
+2022,Singapore Grand Prix,MEDIUM,256,38
+2022,Singapore Grand Prix,SOFT,101,26
+2022,Spanish Grand Prix,HARD,35,35
+2022,Spanish Grand Prix,MEDIUM,512,66
+2022,Spanish Grand Prix,SOFT,683,66
+2022,United States Grand Prix,HARD,605,56
+2022,United States Grand Prix,MEDIUM,385,56
+2022,United States Grand Prix,SOFT,2,2
+2023,Abu Dhabi Grand Prix,HARD,850,58
+2023,Abu Dhabi Grand Prix,MEDIUM,306,51
+2023,Abu Dhabi Grand Prix,SOFT,1,1
+2023,Australian Grand Prix,HARD,772,55
+2023,Australian Grand Prix,MEDIUM,160,45
+2023,Australian Grand Prix,SOFT,71,21
+2023,Austrian Grand Prix,HARD,739,71
+2023,Austrian Grand Prix,MEDIUM,613,71
+2023,Austrian Grand Prix,SOFT,2,2
+2023,Azerbaijan Grand Prix,HARD,785,51
+2023,Azerbaijan Grand Prix,MEDIUM,173,27
+2023,Azerbaijan Grand Prix,SOFT,4,2
+2023,Bahrain Grand Prix,HARD,589,57
+2023,Bahrain Grand Prix,MEDIUM,10,10
+2023,Bahrain Grand Prix,SOFT,457,57
+2023,Belgian Grand Prix,HARD,12,12
+2023,Belgian Grand Prix,MEDIUM,419,44
+2023,Belgian Grand Prix,SOFT,385,44
+2023,British Grand Prix,HARD,148,52
+2023,British Grand Prix,MEDIUM,486,52
+2023,British Grand Prix,SOFT,337,52
+2023,Canadian Grand Prix,HARD,887,70
+2023,Canadian Grand Prix,MEDIUM,383,70
+2023,Canadian Grand Prix,SOFT,12,12
+2023,Canadian Grand Prix,UNKNOWN,35,35
+2023,Dutch Grand Prix,HARD,44,44
+2023,Dutch Grand Prix,INTERMEDIATE,325,24
+2023,Dutch Grand Prix,MEDIUM,196,54
+2023,Dutch Grand Prix,SOFT,775,61
+2023,Dutch Grand Prix,WET,3,3
+2023,Hungarian Grand Prix,HARD,770,70
+2023,Hungarian Grand Prix,MEDIUM,448,69
+2023,Hungarian Grand Prix,SOFT,34,15
+2023,Italian Grand Prix,HARD,504,51
+2023,Italian Grand Prix,MEDIUM,453,51
+2023,Japanese Grand Prix,HARD,461,52
+2023,Japanese Grand Prix,MEDIUM,316,52
+2023,Japanese Grand Prix,SOFT,103,29
+2023,Las Vegas Grand Prix,HARD,684,50
+2023,Las Vegas Grand Prix,MEDIUM,249,50
+2023,Las Vegas Grand Prix,SOFT,13,10
+2023,Mexico City Grand Prix,HARD,574,71
+2023,Mexico City Grand Prix,MEDIUM,697,69
+2023,Mexico City Grand Prix,SOFT,11,11
+2023,Miami Grand Prix,HARD,814,57
+2023,Miami Grand Prix,MEDIUM,315,50
+2023,Miami Grand Prix,SOFT,9,5
+2023,Monaco Grand Prix,HARD,667,56
+2023,Monaco Grand Prix,INTERMEDIATE,399,27
+2023,Monaco Grand Prix,MEDIUM,374,55
+2023,Monaco Grand Prix,SOFT,30,30
+2023,Monaco Grand Prix,WET,45,20
+2023,Qatar Grand Prix,HARD,415,57
+2023,Qatar Grand Prix,MEDIUM,569,57
+2023,Qatar Grand Prix,SOFT,22,10
+2023,Saudi Arabian Grand Prix,HARD,545,50
+2023,Saudi Arabian Grand Prix,MEDIUM,366,50
+2023,Saudi Arabian Grand Prix,SOFT,32,30
+2023,São Paulo Grand Prix,MEDIUM,367,59
+2023,São Paulo Grand Prix,SOFT,741,71
+2023,Singapore Grand Prix,HARD,596,62
+2023,Singapore Grand Prix,MEDIUM,432,62
+2023,Singapore Grand Prix,SOFT,60,39
+2023,Spanish Grand Prix,HARD,544,66
+2023,Spanish Grand Prix,MEDIUM,402,66
+2023,Spanish Grand Prix,SOFT,366,65
+2023,United States Grand Prix,HARD,427,56
+2023,United States Grand Prix,MEDIUM,577,56
+2023,United States Grand Prix,SOFT,10,9
+2024,Abu Dhabi Grand Prix,HARD,690,58
+2024,Abu Dhabi Grand Prix,MEDIUM,318,53
+2024,Abu Dhabi Grand Prix,SOFT,27,27
+2024,Australian Grand Prix,HARD,800,58
+2024,Australian Grand Prix,MEDIUM,180,41
+2024,Australian Grand Prix,SOFT,18,7
+2024,Austrian Grand Prix,HARD,731,71
+2024,Austrian Grand Prix,MEDIUM,665,71
+2024,Austrian Grand Prix,SOFT,9,7
+2024,Azerbaijan Grand Prix,HARD,745,51
+2024,Azerbaijan Grand Prix,MEDIUM,222,37
+2024,Azerbaijan Grand Prix,SOFT,6,2
+2024,Bahrain Grand Prix,HARD,791,56
+2024,Bahrain Grand Prix,SOFT,338,39
+2024,Belgian Grand Prix,HARD,413,44
+2024,Belgian Grand Prix,MEDIUM,366,44
+2024,Belgian Grand Prix,SOFT,62,37
+2024,British Grand Prix,HARD,44,33
+2024,British Grand Prix,INTERMEDIATE,234,20
+2024,British Grand Prix,MEDIUM,508,43
+2024,British Grand Prix,SOFT,174,34
+2024,Canadian Grand Prix,HARD,110,33
+2024,Canadian Grand Prix,INTERMEDIATE,827,47
+2024,Canadian Grand Prix,MEDIUM,316,29
+2024,Canadian Grand Prix,WET,19,12
+2024,Chinese Grand Prix,HARD,593,56
+2024,Chinese Grand Prix,MEDIUM,365,56
+2024,Chinese Grand Prix,SOFT,74,45
+2024,Dutch Grand Prix,HARD,806,72
+2024,Dutch Grand Prix,MEDIUM,507,64
+2024,Dutch Grand Prix,SOFT,113,47
+2024,Emilia Romagna Grand Prix,HARD,710,63
+2024,Emilia Romagna Grand Prix,MEDIUM,510,63
+2024,Emilia Romagna Grand Prix,SOFT,18,11
+2024,Hungarian Grand Prix,HARD,870,70
+2024,Hungarian Grand Prix,MEDIUM,441,70
+2024,Hungarian Grand Prix,SOFT,44,20
+2024,Italian Grand Prix,HARD,732,53
+2024,Italian Grand Prix,MEDIUM,274,41
+2024,Italian Grand Prix,SOFT,2,2
+2024,Japanese Grand Prix,HARD,545,52
+2024,Japanese Grand Prix,MEDIUM,281,53
+2024,Japanese Grand Prix,SOFT,81,31
+2024,Las Vegas Grand Prix,HARD,708,50
+2024,Las Vegas Grand Prix,MEDIUM,220,35
+2024,Las Vegas Grand Prix,SOFT,10,9
+2024,Mexico City Grand Prix,HARD,692,71
+2024,Mexico City Grand Prix,MEDIUM,514,70
+2024,Mexico City Grand Prix,SOFT,9,6
+2024,Miami Grand Prix,HARD,505,57
+2024,Miami Grand Prix,MEDIUM,562,57
+2024,Miami Grand Prix,SOFT,44,40
+2024,Monaco Grand Prix,HARD,791,78
+2024,Monaco Grand Prix,MEDIUM,412,78
+2024,Monaco Grand Prix,SOFT,34,28
+2024,Qatar Grand Prix,HARD,307,57
+2024,Qatar Grand Prix,MEDIUM,581,57
+2024,Qatar Grand Prix,SOFT,55,22
+2024,Saudi Arabian Grand Prix,HARD,600,43
+2024,Saudi Arabian Grand Prix,MEDIUM,238,41
+2024,Saudi Arabian Grand Prix,SOFT,63,22
+2024,São Paulo Grand Prix,INTERMEDIATE,1116,69
+2024,São Paulo Grand Prix,WET,18,5
+2024,Singapore Grand Prix,HARD,534,62
+2024,Singapore Grand Prix,MEDIUM,541,61
+2024,Singapore Grand Prix,SOFT,102,45
+2024,Spanish Grand Prix,HARD,360,39
+2024,Spanish Grand Prix,MEDIUM,439,49
+2024,Spanish Grand Prix,SOFT,511,66
+2024,United States Grand Prix,HARD,575,56
+2024,United States Grand Prix,MEDIUM,480,56
+2024,United States Grand Prix,SOFT,4,4
+2025,Abu Dhabi Grand Prix,HARD,713,58
+2025,Abu Dhabi Grand Prix,MEDIUM,420,50
+2025,Abu Dhabi Grand Prix,SOFT,23,8
+2025,Australian Grand Prix,HARD,92,14
+2025,Australian Grand Prix,INTERMEDIATE,750,52
+2025,Australian Grand Prix,MEDIUM,85,14
+2025,Austrian Grand Prix,HARD,442,59
+2025,Austrian Grand Prix,MEDIUM,610,70
+2025,Austrian Grand Prix,SOFT,74,29
+2025,Azerbaijan Grand Prix,HARD,598,51
+2025,Azerbaijan Grand Prix,MEDIUM,370,51
+2025,Bahrain Grand Prix,HARD,316,47
+2025,Bahrain Grand Prix,MEDIUM,517,57
+2025,Bahrain Grand Prix,SOFT,295,46
+2025,Belgian Grand Prix,HARD,72,31
+2025,Belgian Grand Prix,INTERMEDIATE,240,13
+2025,Belgian Grand Prix,MEDIUM,510,33
+2025,Belgian Grand Prix,UNKNOWN,57,16
+2025,British Grand Prix,HARD,41,24
+2025,British Grand Prix,INTERMEDIATE,608,44
+2025,British Grand Prix,MEDIUM,140,25
+2025,British Grand Prix,SOFT,36,15
+2025,Canadian Grand Prix,HARD,1026,70
+2025,Canadian Grand Prix,MEDIUM,311,64
+2025,Canadian Grand Prix,SOFT,12,4
+2025,Chinese Grand Prix,HARD,781,56
+2025,Chinese Grand Prix,MEDIUM,284,56
+2025,Dutch Grand Prix,HARD,659,72
+2025,Dutch Grand Prix,MEDIUM,400,72
+2025,Dutch Grand Prix,SOFT,305,68
+2025,Emilia Romagna Grand Prix,HARD,813,63
+2025,Emilia Romagna Grand Prix,MEDIUM,394,63
+2025,Hungarian Grand Prix,HARD,757,70
+2025,Hungarian Grand Prix,MEDIUM,560,69
+2025,Hungarian Grand Prix,SOFT,51,32
+2025,Italian Grand Prix,HARD,516,53
+2025,Italian Grand Prix,MEDIUM,427,53
+2025,Italian Grand Prix,SOFT,31,17
+2025,Japanese Grand Prix,HARD,543,53
+2025,Japanese Grand Prix,MEDIUM,452,53
+2025,Japanese Grand Prix,SOFT,64,35
+2025,Las Vegas Grand Prix,HARD,576,50
+2025,Las Vegas Grand Prix,MEDIUM,308,50
+2025,Las Vegas Grand Prix,SOFT,2,2
+2025,Mexico City Grand Prix,HARD,92,48
+2025,Mexico City Grand Prix,MEDIUM,465,71
+2025,Mexico City Grand Prix,SOFT,706,71
+2025,Miami Grand Prix,HARD,378,38
+2025,Miami Grand Prix,MEDIUM,273,56
+2025,Miami Grand Prix,UNKNOWN,354,24
+2025,Monaco Grand Prix,HARD,849,78
+2025,Monaco Grand Prix,MEDIUM,519,78
+2025,Monaco Grand Prix,SOFT,57,53
+2025,Qatar Grand Prix,HARD,322,57
+2025,Qatar Grand Prix,MEDIUM,700,57
+2025,Qatar Grand Prix,SOFT,45,32
+2025,Saudi Arabian Grand Prix,HARD,604,50
+2025,Saudi Arabian Grand Prix,MEDIUM,294,46
+2025,São Paulo Grand Prix,HARD,86,29
+2025,São Paulo Grand Prix,MEDIUM,919,71
+2025,São Paulo Grand Prix,SOFT,246,63
+2025,Singapore Grand Prix,HARD,504,49
+2025,Singapore Grand Prix,MEDIUM,508,62
+2025,Singapore Grand Prix,SOFT,217,58
+2025,Spanish Grand Prix,HARD,11,11
+2025,Spanish Grand Prix,MEDIUM,507,66
+2025,Spanish Grand Prix,SOFT,685,66
+2025,United States Grand Prix,HARD,59,28
+2025,United States Grand Prix,MEDIUM,552,56
+2025,United States Grand Prix,SOFT,456,56
